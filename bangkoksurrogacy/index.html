@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>SEO dashboard</title>
+<link rel="stylesheet" href="../assets/dashboard.css"></head>
+<body>
+<header><div><h1 id="title">SEO dashboard</h1><div class="sub" id="sub"></div></div><div class="sub"><a href="../">← all sites</a></div></header>
+<main>
+  <div class="card" id="scan" style="margin-bottom:14px;padding:10px 16px"></div>
+  <div id="alert"></div>
+  <div class="grid kpis" id="kpis"></div>
+  <div class="grid two">
+    <div class="card"><h2>Score by category</h2><div id="scores"></div></div>
+    <div class="card"><h2>Open tasks by priority</h2><div id="progress"></div></div>
+  </div>
+  <div class="card" style="margin-top:14px"><h2>Live work log: changes found on the website</h2>
+    <div class="filters">
+      <select id="lRange"><option value="1">Last 24 hours</option><option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option><option value="0">All time</option></select>
+      <select id="lType"></select><input id="lQ" placeholder="Search page or text…">
+    </div><div id="log"></div></div>
+  <div class="card" style="margin-top:14px"><h2>Automatic checks (from the latest scan)</h2><div id="checks"></div></div>
+  <div class="card" style="margin-top:14px"><h2>Search traffic &amp; enquiries (from Search Console)</h2><div id="traffic"></div></div>
+  <div class="card" style="margin-top:14px"><h2>Pending tasks</h2>
+    <div class="filters">
+      <select id="fStatus"><option value="Open">Open tasks</option><option value="">All statuses</option><option>Not started</option><option>In progress</option><option>Blocked</option><option>Done</option></select>
+      <select id="fPri"><option value="">All priorities</option><option>Critical</option><option>High</option><option>Medium</option><option>Low</option></select>
+      <select id="fOwner"></select>
+      <input id="fQ" placeholder="Search tasks…">
+    </div>
+    <table><thead><tr><th data-k="id">ID</th><th data-k="task">Task</th><th data-k="priority">Priority</th><th data-k="category">Area</th><th data-k="owner">Owner</th><th data-k="status">Status</th><th data-k="due">Due</th></tr></thead><tbody id="tbody"></tbody></table>
+    <div class="foot" id="count"></div>
+  </div>
+  <div class="foot">To update: edit <b>tasks.csv</b> (status: Not started / In progress / Blocked / Done) and add a monthly row to <b>traffic.csv</b>. Website changes and checks update automatically every 4 hours.</div>
+</main>
+<script src="../assets/dashboard.js"></script>
+</body></html>

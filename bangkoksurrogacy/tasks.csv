@@ -1,0 +1,18 @@
+id,task,priority,category,owner,status,due,notes
+BS-01,"Remove all claims that commercial or gestational surrogacy with Thai surrogates is legal for foreigners (homepage, meta description, FAQs, legal page)",Critical,Legal / YMYL,Gaurav,Not started,2026-11-03,"2015 ART Act still in force; revised bill keeps commercial ban"
+BS-02,"Decide the site's positioning: IVF/PGD family balancing in Bangkok (as on becomeparents.com) or merge into becomeparents.com",Critical,Strategy,Gaurav,Not started,2026-11-05,"Avoid two sites competing for the same keywords"
+BS-03,"Rewrite or redirect surrogacy pages: /gestational-surrogacy/, /our-surrogates/, /find-a-surrogate/, /gay-surrogacy/, /surrogacy-program-costs/",Critical,Legal / YMYL,Vinit + Developer,Not started,2026-11-10,
+BS-04,"Review China, Cambodia and Ukraine service pages against current law in each country",Critical,Legal / YMYL,Gaurav,Not started,2026-11-10,
+BS-05,"Rewrite title and meta description ('Best Ethical Surrogacy Agency in Bangkok…commercial & gestational surrogates')",High,On-page,Vinit,Not started,2026-11-06,
+BS-06,"Keep one H1 only; remove the keyword-stacked second H1",High,On-page,Developer,Not started,2026-11-08,
+BS-07,"Fix the four service cards that all link to the IVF page",High,Technical,Developer,Not started,2026-11-08,
+BS-08,"Replace becomeparents@yahoo.com; align WhatsApp (+91) with the Thai contact number",High,Trust,Developer,Not started,2026-11-08,
+BS-09,"Replace author 'admin' with a named author and medical reviewer",High,E-E-A-T,Vinit,Not started,2026-11-15,
+BS-10,"Add og:image and real alt text to all images",High,Images,Developer,Not started,2026-11-15,
+BS-11,"Add Organization + MedicalBusiness JSON-LD with the Bangkok address",High,Schema,Developer,Not started,2026-11-15,
+BS-12,"Unify branding (Thailand Surrogacy / Bangkok Surrogacy / Become Parents) and fix '5 countries' vs 8 locations",Medium,Trust,Vinit,Not started,2026-11-20,
+BS-13,"Replace 2007–2011 testimonials and publish fresh posts (last blog post Jan 2023)",Medium,Content,Vinit,Not started,2026-12-01,
+BS-14,"Remove placeholder testimonial text, '[...]' excerpts and stray keyword fragments",Medium,Content,Vinit,Not started,2026-11-20,
+BS-15,"Verify or remove '500+ couples' and '24/7 support' claims",Medium,Trust,Gaurav,Not started,2026-11-20,
+BS-16,"Run PageSpeed Insights (mobile + desktop) and log Core Web Vitals here",Medium,Performance,Developer,Not started,2026-11-20,
+BS-17,"Connect Google Search Console and log monthly numbers in traffic.csv",Medium,Tracking,Gaurav,Not started,2026-11-10,

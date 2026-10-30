@@ -1,0 +1,19 @@
+id,task,priority,category,owner,status,due,notes
+BP-01,"Publish the 69-page rewrite (BP-01/02/03 content, BP-00 technical master)",Critical,Content,Vinit + Developer,Not started,2026-11-15,"Drafted in July 2026; live site still shows old content"
+BP-02,"Replace becomeparents@yahoo.com with info@becomeparents.com on every page",Critical,Trust,Developer,Not started,2026-11-05,
+BP-03,"Remove unsourced claims: '85–90% success rate', 'highest success rate', '20+ years' (founded 2006)",Critical,Content,Vinit,Not started,2026-11-05,
+BP-04,"Review India surrogacy pages (foreigners and same-sex couples not eligible under the Surrogacy Act 2021) and remove Argentina as an active destination",Critical,Legal / YMYL,Gaurav,Not started,2026-11-08,"Locked decision from the rewrite"
+BP-05,"Fix phone link that points to web.archive.org; add the missing address text",High,Technical,Developer,Not started,2026-11-08,
+BP-06,"Add Organization + MedicalBusiness + Person JSON-LD schema",High,Schema,Developer,Not started,2026-11-12,"Pending to-do for Vinit's Week 2"
+BP-07,"Rewrite homepage H1 and H2s (H2 still lists Argentina, India, lowercase 'georgia')",High,On-page,Vinit,Not started,2026-11-10,
+BP-08,"Remove placeholders: dummy.png slider images, 'slide2–slide9' video slots, testimonial placeholder text",High,Images,Developer,Not started,2026-11-10,
+BP-09,"Fix mismatched anchors (Mumbai link goes to YouTube, Georgia link goes to FAQ) and keyword-stuffed list",High,On-page,Vinit,Not started,2026-11-12,
+BP-10,"Add medical reviewer byline (Dr Sreelatha Gopalakrishnan) to all YMYL pages",High,E-E-A-T,Vinit,Not started,2026-11-15,
+BP-11,"Change ?page_id= URLs to descriptive slugs with 301 redirects",Medium,Technical,Developer,Not started,2026-11-30,
+BP-12,"Fix 'amenties' slug typo with a 301 redirect",Medium,Technical,Developer,Not started,2026-11-30,
+BP-13,"Remove the duplicated navigation block",Medium,Technical,Developer,Not started,2026-11-30,
+BP-14,"Run PageSpeed Insights (mobile + desktop) and log Core Web Vitals here",Medium,Performance,Developer,Not started,2026-11-20,
+BP-15,"Connect Google Search Console and log monthly numbers in traffic.csv",Medium,Tracking,Gaurav,Not started,2026-11-10,
+BP-16,"Add llms.txt and AI-friendly summary blocks on key pages",Low,AI search,Vinit,Not started,2026-12-15,
+BP-17,"Fix typos ('Thanks you') and remove the duplicated paragraph",Low,Content,Vinit,Not started,2026-11-30,
+BP-18,"Full SEO audit and 69-page rewrite drafted",High,Content,Claude + Gaurav,Done,2026-07-12,"Delivered as BP-00 to BP-03"

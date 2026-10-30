@@ -1,0 +1,18 @@
+{
+  "name": "Bangkok Surrogacy",
+  "url": "https://bangkoksurrogacy.com/",
+  "auditDate": "2026-10-31",
+  "auditNote": "Estimated from a homepage review on 31 Oct 2026 using the SEO skill's weighting. Performance was not measured (set to 50 until a PageSpeed test is run).",
+  "tasksCsvUrl": "",
+  "trafficCsvUrl": "",
+  "alert": "LEGAL RISK: the homepage tells foreigners that commercial/gestational surrogacy in Thailand is legal. Thailand's 2015 ART Act still bans this; the revised bill (public consultation July 2026) keeps commercial surrogacy and its advertising banned. Fix before any other SEO work.",
+  "scores": [
+    {"category": "Technical SEO", "weight": 22, "score": 55, "measured": true, "why": "Indexable with canonical. Two H1 tags, four service cards all link to the IVF page."},
+    {"category": "Content quality (E-E-A-T)", "weight": 23, "score": 20, "measured": true, "why": "Contradictory and outdated legal claims on a YMYL topic, author 'admin', testimonials from 2007–2011, last blog Jan 2023."},
+    {"category": "On-page SEO", "weight": 20, "score": 40, "measured": true, "why": "Keyword-stacked title and second H1, stray keyword fragments in body text."},
+    {"category": "Schema / structured data", "weight": 10, "score": 10, "measured": true, "why": "No JSON-LD found on the homepage."},
+    {"category": "Performance (Core Web Vitals)", "weight": 10, "score": 50, "measured": false, "why": "Not measured yet. Run PageSpeed Insights and update."},
+    {"category": "AI search readiness", "weight": 10, "score": 25, "measured": true, "why": "No named author or reviewer, inconsistent branding, unverifiable claims."},
+    {"category": "Images", "weight": 5, "score": 25, "measured": true, "why": "Blank or 'Bangkok Surrogacy - ' alt text; no og:image."}
+  ]
+}

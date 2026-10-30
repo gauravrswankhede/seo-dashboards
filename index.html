@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Become Parents Group · SEO dashboards</title>
+<link rel="stylesheet" href="assets/dashboard.css"></head>
+<body>
+<header><div><h1>Become Parents Group — SEO dashboards</h1><div class="sub">One dashboard per website · health score, pending tasks, traffic</div></div></header>
+<main><div class="grid sites" id="sites"></div></main>
+<script>
+const SITES=["becomeparents","bangkoksurrogacy"];
+(async()=>{const out=[];for(const s of SITES){try{
+ const j=await (await fetch(s+"/site.json?t="+Date.now())).json();
+ const csv=await (await fetch((u=>u+(u.includes("?")?"&":"?")+"t="+Date.now())(j.tasksCsvUrl||s+"/tasks.csv"))).text();
+ const lines=csv.trim().split(/\n/).slice(1);const open=lines.filter(l=>!/,Done,/i.test(l)).length;const crit=lines.filter(l=>/,Critical,/.test(l)&&!/,Done,/i.test(l)).length;
+ const h=Math.round(j.scores.reduce((a,x)=>a+x.score*x.weight,0)/j.scores.reduce((a,x)=>a+x.weight,0));
+ out.push(`<div class="card site-card"><a href="${s}/"><div class="kpi"><div class="label">${j.url}</div></div><h2 style="font-size:20px;margin:6px 0">${j.name}</h2>
+  <div class="big" style="color:${h>=75?'var(--ok)':h>=50?'var(--high)':'var(--crit)'}">${h}<span style="font-size:16px;color:var(--mute)">/100</span></div>
+  <div class="hint">${open} open tasks · <b style="color:var(--crit)">${crit} critical</b></div><div class="foot">Open dashboard →</div></a></div>`);
+}catch(e){out.push(`<div class="card">${s}: could not load (${e.message})</div>`)}}
+document.getElementById("sites").innerHTML=out.join("")})();
+</script></body></html>
