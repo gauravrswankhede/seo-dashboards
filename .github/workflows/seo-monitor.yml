@@ -1,0 +1,56 @@
+name: SEO monitor (every 4 hours)
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"     # 00:17, 04:17, 08:17, 12:17, 16:17, 20:17 UTC (05:47, 09:47 ... IST)
+  workflow_dispatch:            # "Run workflow" button for an on-demand scan
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: seo-monitor
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scan both websites
+        run: python monitor/crawl.py
+      - name: Save results
+        run: |
+          git config user.name "seo-monitor-bot"
+          git config user.email "seo-monitor-bot@users.noreply.github.com"
+          git add -A becomeparents bangkoksurrogacy
+          if git diff --cached --quiet; then echo "No data changes"; else
+            git commit -m "SEO scan $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash && git push
+          fi
+
+  deploy:
+    needs: scan
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
