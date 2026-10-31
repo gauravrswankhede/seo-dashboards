@@ -1,0 +1,176 @@
+{
+ "lastRunUtc": "2026-10-31T05:52:26Z",
+ "ok": true,
+ "pagesScanned": 369,
+ "pagesLive": 359,
+ "source": "links",
+ "changesThisRun": 0,
+ "networkErrors": 0,
+ "intervalHours": 4,
+ "checks": [
+  {
+   "id": "yahoo",
+   "label": "Old Yahoo email still shown",
+   "task": "BP-02",
+   "pages": 359,
+   "examples": [
+    "https://becomeparents.com/",
+    "https://becomeparents.com/egg-donation-in-ukraine/",
+    "https://becomeparents.com/ivf-in-uk/",
+    "https://becomeparents.com/egg-donation-in-kenya/",
+    "https://becomeparents.com/surrogacy-in-australia/"
+   ]
+  },
+  {
+   "id": "success",
+   "label": "Unsourced success-rate claim (85\u201390% / highest success rate)",
+   "task": "BP-03",
+   "pages": 8,
+   "examples": [
+    "https://becomeparents.com/",
+    "https://becomeparents.com/category/surrogacy-2/",
+    "https://becomeparents.com/blog/page/2/",
+    "https://becomeparents.com/author/admin/",
+    "https://becomeparents.com/right-surrogacy-destination-top-in-2025/"
+   ]
+  },
+  {
+   "id": "years",
+   "label": "'20+ years of experience' claim",
+   "task": "BP-03",
+   "pages": 0,
+   "examples": []
+  },
+  {
+   "id": "argentina",
+   "label": "Argentina mentioned as a destination",
+   "task": "BP-04",
+   "pages": 359,
+   "examples": [
+    "https://becomeparents.com/",
+    "https://becomeparents.com/egg-donation-in-ukraine/",
+    "https://becomeparents.com/ivf-in-uk/",
+    "https://becomeparents.com/egg-donation-in-kenya/",
+    "https://becomeparents.com/surrogacy-in-australia/"
+   ]
+  },
+  {
+   "id": "archive",
+   "label": "Links pointing to web.archive.org",
+   "task": "BP-05",
+   "pages": 359,
+   "examples": [
+    "https://becomeparents.com/",
+    "https://becomeparents.com/egg-donation-in-ukraine/",
+    "https://becomeparents.com/ivf-in-uk/",
+    "https://becomeparents.com/egg-donation-in-kenya/",
+    "https://becomeparents.com/surrogacy-in-australia/"
+   ]
+  },
+  {
+   "id": "dummy",
+   "label": "Placeholder images (dummy.png)",
+   "task": "BP-08",
+   "pages": 1,
+   "examples": [
+    "https://becomeparents.com/"
+   ]
+  },
+  {
+   "id": "pageid",
+   "label": "Links to ?page_id= URLs",
+   "task": "BP-11",
+   "pages": 359,
+   "examples": [
+    "https://becomeparents.com/",
+    "https://becomeparents.com/egg-donation-in-ukraine/",
+    "https://becomeparents.com/ivf-in-uk/",
+    "https://becomeparents.com/egg-donation-in-kenya/",
+    "https://becomeparents.com/surrogacy-in-australia/"
+   ]
+  },
+  {
+   "id": "no_title",
+   "label": "Pages missing a title",
+   "pages": 0,
+   "examples": [],
+   "generic": true
+  },
+  {
+   "id": "no_meta",
+   "label": "Pages missing a meta description",
+   "pages": 153,
+   "examples": [
+    "https://becomeparents.com/category/surrogacy-in-thailand/",
+    "https://becomeparents.com/author/gaurav-wankhede/",
+    "https://becomeparents.com/category/surrogacy-in-usa/",
+    "https://becomeparents.com/category/surrogacy-in-uk/",
+    "https://becomeparents.com/category/news/"
+   ],
+   "generic": true
+  },
+  {
+   "id": "h1_count",
+   "label": "Pages without exactly one H1",
+   "pages": 2,
+   "examples": [
+    "https://becomeparents.com/surrogate-mothers-in-india/",
+    "https://becomeparents.com/surrogacy-laws-in-india/"
+   ],
+   "generic": true
+  },
+  {
+   "id": "no_schema",
+   "label": "Pages without schema (JSON-LD)",
+   "pages": 0,
+   "examples": [],
+   "generic": true
+  },
+  {
+   "id": "noindex",
+   "label": "Pages set to noindex",
+   "pages": 22,
+   "examples": [
+    "https://becomeparents.com/author/gaurav-wankhede/",
+    "https://becomeparents.com/tag/benefits-of-surrogacy-for-gay-couples/",
+    "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/",
+    "https://becomeparents.com/author/drsreelatha/",
+    "https://becomeparents.com/author/admin/"
+   ],
+   "generic": true
+  },
+  {
+   "id": "thin",
+   "label": "Thin pages (under 300 words)",
+   "pages": 0,
+   "examples": [],
+   "generic": true
+  },
+  {
+   "id": "alt",
+   "label": "Pages with images missing alt text",
+   "pages": 189,
+   "examples": [
+    "https://becomeparents.com/egg-donation-in-kenya/",
+    "https://becomeparents.com/gay-surrogacy-in-ukraine/",
+    "https://becomeparents.com/surrogacy-cost-in-usa/",
+    "https://becomeparents.com/about-us/",
+    "https://becomeparents.com/surrogacy-in-france/"
+   ],
+   "generic": true
+  },
+  {
+   "id": "broken",
+   "label": "Pages returning errors (4xx/5xx)",
+   "pages": 10,
+   "examples": [
+    "https://becomeparents.com/?page_id=6613",
+    "https://becomeparents.com/ivf-in-kenya/",
+    "https://becomeparents.com/?page_id=6608",
+    "https://becomeparents.com/?page_id=6611",
+    "https://becomeparents.com/egg-donation-in-india/"
+   ],
+   "generic": true
+  }
+ ]
+}
