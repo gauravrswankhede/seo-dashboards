@@ -1060,7 +1060,7 @@
 "Analyzing the Positive and negative aspects of surrogate parenthood",
 "Positive Aspects of surrogate parenthood"
 ],
-"img_missing_alt": 8,
+"img_missing_alt": 7,
 "lastmod": "",
 "meta_description": "Our surrogacy blog has surrogacy tips, answers surrogacy questions, helps intended parents, and more! Contact us if you have any queries regarding surrogacy.",
 "og_image": true,
@@ -1877,7 +1877,7 @@
 "Best International Destinations for Single Parents Seeking Surrogacy",
 "Conclusion"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 1,
 "lastmod": "",
 "meta_description": "Surrogacy in Spain",
 "og_image": true,
@@ -3574,7 +3574,7 @@
 "Surrogacy in Bangkok",
 "Surrogacy laws in other Countries"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 1,
 "lastmod": "",
 "meta_description": "Surrogacy laws are different from state to state. Know about Surrogacy-friendly states, statutes, or published case laws specifically permitting or prohibiting surrogacy. Surrogacy laws in Kenya, Australia, Argentina, Bangkok, US, Germany, UK, France, Canada, Cambodia, Georgia, & Dubai.",
 "og_image": true,
@@ -4327,7 +4327,7 @@
 "What kind of psychological challenges are faced by intended parents during surrogacy?",
 "What kind of psychological challenges during surrogacy the intended parents may face?"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 1,
 "lastmod": "",
 "meta_description": "what are the psychological challenges during surrogacy for Intended Parents? Yet, this may be a bit complicated for both the surrogate and the intended parents.",
 "og_image": true,
@@ -4502,7 +4502,7 @@
 "Surrogacy in Thailand: Why there is so much uncertainty around it?",
 "How Thailand once served as a perfect surrogacy hub for many?"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 1,
 "lastmod": "",
 "meta_description": "Know about same-sex surrogacy in Thailand. As Same-sex marriage is not recognized in Thailand, we provide options for LGBT friendly surrogacy in Thailand.",
 "og_image": true,
@@ -5925,7 +5925,7 @@
 "Cost of Surrogacy in the USA",
 "Conclusion"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 1,
 "lastmod": "",
 "meta_description": "Discover why surrogacy in the USA is a top destination. Learn about legal advantages, medical expertise, and the surrogacy process that makes it a preferred option..",
 "og_image": true,
@@ -6283,8 +6283,7 @@
 "canonical": "https://becomeparents.com/surrogacy-laws-in-india/",
 "fingerprint": "b2e39bba3b192233",
 "h1": [
-"Surrogacy Laws in India",
-"Frequently Asked Questions About Surrogacy Laws in India"
+"Surrogacy Laws in India"
 ],
 "h2": [
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
@@ -6300,7 +6299,8 @@
 "What Documents Are Required for Surrogacy in India?",
 "What Happens If Someone Violates Surrogacy Laws in India?",
 "Can Foreigners or NRIs Pursue Surrogacy in India?",
-"How to Check Whether a Surrogacy Clinic Is Legally Registered to carry out surrogacy in India?"
+"How to Check Whether a Surrogacy Clinic Is Legally Registered to carry out surrogacy in India?",
+"Frequently Asked Questions About Surrogacy Laws in India"
 ],
 "img_missing_alt": 0,
 "lastmod": "",
@@ -6887,12 +6887,12 @@
 "canonical": "https://becomeparents.com/surrogate-mothers-in-india/",
 "fingerprint": "6916e8dd60816ab0",
 "h1": [
-"Surrogate Mothers in India",
-"Why do you need to pay Surrogate mothers in India?"
+"Surrogate Mothers in India"
 ],
 "h2": [
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
-"Surrogate Selection and Contract drafting"
+"Surrogate Selection and Contract drafting",
+"Why do you need to pay Surrogate mothers in India?"
 ],
 "img_missing_alt": 0,
 "lastmod": "",
@@ -7302,7 +7302,7 @@
 "words": 2703
 },
 "https://becomeparents.com/tag/find-a-surrogate/": {
-"canonical": "https://becomeparents.com/tag/find-a-surrogate/",
+"canonical": "",
 "fingerprint": "85022f3ed9c2a7d8",
 "h1": [
 "Tag Archives: Find a surrogate"
@@ -7316,7 +7316,7 @@
 "lastmod": "",
 "meta_description": "",
 "og_image": true,
-"robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"robots": "follow, noindex",
 "schema": [
 "CollectionPage",
 "ImageObject",
@@ -7328,7 +7328,7 @@
 "words": 2347
 },
 "https://becomeparents.com/tag/find-asian-egg-donors/": {
-"canonical": "https://becomeparents.com/tag/find-asian-egg-donors/",
+"canonical": "",
 "fingerprint": "5e8636c549d2ae73",
 "h1": [
 "Tag Archives: find Asian egg donors"
@@ -7342,7 +7342,7 @@
 "lastmod": "",
 "meta_description": "",
 "og_image": true,
-"robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"robots": "follow, noindex",
 "schema": [
 "CollectionPage",
 "ImageObject",
@@ -7572,7 +7572,7 @@
 "Studying the Impact of Surrogacy on the Surrogate Mother\u2019s Health: A Detailed Perspective",
 "Impact of Surrogacy on the Surrogate Mother\u2019s Health"
 ],
-"img_missing_alt": 6,
+"img_missing_alt": 5,
 "lastmod": "",
 "meta_description": "",
 "og_image": true,
@@ -7849,7 +7849,7 @@
 "What makes Surrogate mother the most important person in a surrogacy program?",
 "What makes a Surrogate mother the most important person"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 1,
 "lastmod": "",
 "meta_description": "",
 "og_image": true,
@@ -9615,7 +9615,7 @@
 "How Become Parents Can Help",
 "Frequently Asked Questions"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 1,
 "lastmod": "",
 "meta_description": "",
 "og_image": true,
@@ -10118,7 +10118,7 @@
 "Why tracking your surrogacy expenses are of prime importance?",
 "Tracking your surrogacy costs"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 1,
 "lastmod": "",
 "meta_description": "",
 "og_image": true,
@@ -10197,7 +10197,7 @@
 "The Psychological Impact of Surrogacy on Intended Parents",
 "The psychological impact of surrogacy on intended parents"
 ],
-"img_missing_alt": 4,
+"img_missing_alt": 3,
 "lastmod": "",
 "meta_description": "This post explores the psychological impact of surrogacy on intended parents undergoing surrogacy\u2014what feelings they go through, the mental challenges they encounter.",
 "og_image": true,

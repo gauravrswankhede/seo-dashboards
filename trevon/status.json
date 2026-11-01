@@ -1,0 +1,135 @@
+{
+ "lastRunUtc": "2026-11-01T17:00:22Z",
+ "ok": true,
+ "pagesScanned": 15,
+ "pagesLive": 14,
+ "source": "sitemap",
+ "changesThisRun": 0,
+ "networkErrors": 0,
+ "intervalHours": 4,
+ "checks": [
+  {
+   "id": "team",
+   "label": "Pages with a 'Meet our team' section",
+   "positive": true,
+   "pages": 0,
+   "examples": []
+  },
+  {
+   "id": "booking",
+   "label": "Pages with a Book now / booking link",
+   "positive": true,
+   "pages": 12,
+   "examples": [
+    "https://www.trevonhotels.com/privacy-policy",
+    "https://www.trevonhotels.com/career",
+    "https://www.trevonhotels.com/refund-and-cancellation-policy",
+    "https://www.trevonhotels.com/about-us",
+    "https://www.trevonhotels.com/management-team"
+   ]
+  },
+  {
+   "id": "oldbrand",
+   "label": "Old brand names still shown (Five Elements, Zip by Spree, South Indian Hotel)",
+   "pages": 1,
+   "examples": [
+    "https://www.trevonhotels.com/management-team"
+   ]
+  },
+  {
+   "id": "placeholder",
+   "label": "Placeholder text (lorem ipsum, coming soon, sample)",
+   "pages": 2,
+   "examples": [
+    "https://www.trevonhotels.com/about-us",
+    "https://www.trevonhotels.com/ranchi"
+   ]
+  },
+  {
+   "id": "hotelschema",
+   "label": "Pages without Hotel / LodgingBusiness schema",
+   "pages": 14,
+   "examples": [
+    "https://www.trevonhotels.com/",
+    "https://www.trevonhotels.com/privacy-policy",
+    "https://www.trevonhotels.com/blog",
+    "https://www.trevonhotels.com/career",
+    "https://www.trevonhotels.com/refund-and-cancellation-policy"
+   ]
+  },
+  {
+   "id": "no_title",
+   "label": "Pages missing a title",
+   "pages": 0,
+   "examples": [],
+   "generic": true
+  },
+  {
+   "id": "no_meta",
+   "label": "Pages missing a meta description",
+   "pages": 0,
+   "examples": [],
+   "generic": true
+  },
+  {
+   "id": "h1_count",
+   "label": "Pages without exactly one H1",
+   "pages": 13,
+   "examples": [
+    "https://www.trevonhotels.com/",
+    "https://www.trevonhotels.com/privacy-policy",
+    "https://www.trevonhotels.com/blog",
+    "https://www.trevonhotels.com/refund-and-cancellation-policy",
+    "https://www.trevonhotels.com/about-us"
+   ],
+   "generic": true
+  },
+  {
+   "id": "no_schema",
+   "label": "Pages without schema (JSON-LD)",
+   "pages": 14,
+   "examples": [
+    "https://www.trevonhotels.com/",
+    "https://www.trevonhotels.com/privacy-policy",
+    "https://www.trevonhotels.com/blog",
+    "https://www.trevonhotels.com/career",
+    "https://www.trevonhotels.com/refund-and-cancellation-policy"
+   ],
+   "generic": true
+  },
+  {
+   "id": "noindex",
+   "label": "Pages set to noindex",
+   "pages": 0,
+   "examples": [],
+   "generic": true
+  },
+  {
+   "id": "thin",
+   "label": "Thin pages (under 300 words)",
+   "pages": 3,
+   "examples": [
+    "https://www.trevonhotels.com/",
+    "https://www.trevonhotels.com/blog",
+    "https://www.trevonhotels.com/career"
+   ],
+   "generic": true
+  },
+  {
+   "id": "alt",
+   "label": "Pages with images missing alt text",
+   "pages": 0,
+   "examples": [],
+   "generic": true
+  },
+  {
+   "id": "broken",
+   "label": "Pages returning errors (4xx/5xx)",
+   "pages": 1,
+   "examples": [
+    "https://www.trevonhotels.com/gwalior-overview"
+   ],
+   "generic": true
+  }
+ ]
+}

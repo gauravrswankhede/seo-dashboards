@@ -1,10 +1,10 @@
 {
- "lastRunUtc": "2026-11-01T15:15:39Z",
+ "lastRunUtc": "2026-11-01T17:00:22Z",
  "ok": true,
  "pagesScanned": 369,
  "pagesLive": 359,
  "source": "links",
- "changesThisRun": 0,
+ "changesThisRun": 19,
  "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
@@ -16,9 +16,9 @@
    "examples": [
     "https://becomeparents.com/",
     "https://becomeparents.com/surrogacy-in-thailand/",
-    "https://becomeparents.com/surrogacy-laws-in-uk/",
-    "https://becomeparents.com/surrogacy-cost-in-bangkok/",
-    "https://becomeparents.com/surrogacy-programs-costs/"
+    "https://becomeparents.com/surrogacy-programs-costs/",
+    "https://becomeparents.com/surrogacy-cost-in-uk/",
+    "https://becomeparents.com/gay-surrogacy-in-bangkok/"
    ]
   },
   {
@@ -28,9 +28,9 @@
    "pages": 8,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/blog/page/2/",
     "https://becomeparents.com/category/surrogacy-2/",
     "https://becomeparents.com/author/admin/",
+    "https://becomeparents.com/blog/page/2/",
     "https://becomeparents.com/right-surrogacy-destination-top-in-2025/"
    ]
   },
@@ -49,9 +49,9 @@
    "examples": [
     "https://becomeparents.com/",
     "https://becomeparents.com/surrogacy-in-thailand/",
-    "https://becomeparents.com/surrogacy-laws-in-uk/",
-    "https://becomeparents.com/surrogacy-cost-in-bangkok/",
-    "https://becomeparents.com/surrogacy-programs-costs/"
+    "https://becomeparents.com/surrogacy-programs-costs/",
+    "https://becomeparents.com/surrogacy-cost-in-uk/",
+    "https://becomeparents.com/gay-surrogacy-in-bangkok/"
    ]
   },
   {
@@ -62,9 +62,9 @@
    "examples": [
     "https://becomeparents.com/",
     "https://becomeparents.com/surrogacy-in-thailand/",
-    "https://becomeparents.com/surrogacy-laws-in-uk/",
-    "https://becomeparents.com/surrogacy-cost-in-bangkok/",
-    "https://becomeparents.com/surrogacy-programs-costs/"
+    "https://becomeparents.com/surrogacy-programs-costs/",
+    "https://becomeparents.com/surrogacy-cost-in-uk/",
+    "https://becomeparents.com/gay-surrogacy-in-bangkok/"
    ]
   },
   {
@@ -84,9 +84,9 @@
    "examples": [
     "https://becomeparents.com/",
     "https://becomeparents.com/surrogacy-in-thailand/",
-    "https://becomeparents.com/surrogacy-laws-in-uk/",
-    "https://becomeparents.com/surrogacy-cost-in-bangkok/",
-    "https://becomeparents.com/surrogacy-programs-costs/"
+    "https://becomeparents.com/surrogacy-programs-costs/",
+    "https://becomeparents.com/surrogacy-cost-in-uk/",
+    "https://becomeparents.com/gay-surrogacy-in-bangkok/"
    ]
   },
   {
@@ -101,22 +101,19 @@
    "label": "Pages missing a meta description",
    "pages": 153,
    "examples": [
-    "https://becomeparents.com/category/uncategorized/",
-    "https://becomeparents.com/category/surrogacy-in-uk/",
-    "https://becomeparents.com/tag/surrogacy-cost-sydney/",
-    "https://becomeparents.com/tag/same-sex-surrogacy-sydney/",
-    "https://becomeparents.com/category/surrogacy-agency/"
+    "https://becomeparents.com/category/surrogacy-in-georgia/",
+    "https://becomeparents.com/category/surrogacy-laws/",
+    "https://becomeparents.com/category/surrogate-mother/",
+    "https://becomeparents.com/category/surrogacy-in-usa/",
+    "https://becomeparents.com/category/ivf-and-fertility-solutions/"
    ],
    "generic": true
   },
   {
    "id": "h1_count",
    "label": "Pages without exactly one H1",
-   "pages": 2,
-   "examples": [
-    "https://becomeparents.com/surrogacy-laws-in-india/",
-    "https://becomeparents.com/surrogate-mothers-in-india/"
-   ],
+   "pages": 0,
+   "examples": [],
    "generic": true
   },
   {
@@ -129,13 +126,13 @@
   {
    "id": "noindex",
    "label": "Pages set to noindex",
-   "pages": 22,
+   "pages": 24,
    "examples": [
     "https://becomeparents.com/author/gaurav-wankhede/",
-    "https://becomeparents.com/author/drsreelatha/",
+    "https://becomeparents.com/tag/ethical-surrogacy/",
+    "https://becomeparents.com/author/admin/",
     "https://becomeparents.com/tag/benefits-of-surrogacy-for-gay-couples/",
-    "https://becomeparents.com/tag/australian-surrogacy-laws/",
-    "https://becomeparents.com/tag/ethical-surrogacy/"
+    "https://becomeparents.com/author/drsreelatha/"
    ],
    "generic": true
   },
@@ -151,11 +148,11 @@
    "label": "Pages with images missing alt text",
    "pages": 189,
    "examples": [
-    "https://becomeparents.com/surrogacy-in-france/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
+    "https://becomeparents.com/surrogacy-in-germany/",
     "https://becomeparents.com/surrogacy-in-russia/",
-    "https://becomeparents.com/surrogacy-in-argentina/"
+    "https://becomeparents.com/surrogacy-in-china/",
+    "https://becomeparents.com/surrogacy-laws-in-usa/",
+    "https://becomeparents.com/surrogacy-in-uk/"
    ],
    "generic": true
   },
@@ -164,11 +161,11 @@
    "label": "Pages returning errors (4xx/5xx)",
    "pages": 10,
    "examples": [
-    "https://becomeparents.com/?page_id=6613",
-    "https://becomeparents.com/?page_id=6608",
     "https://becomeparents.com/?page_id=6611",
+    "https://becomeparents.com/?page_id=6608",
+    "https://becomeparents.com/?page_id=6613",
     "https://becomeparents.com/ivf-in-kenya/",
-    "https://becomeparents.com/intended-parents-and-surrogate-agency-communication/"
+    "https://becomeparents.com/egg-donation-in-india/"
    ],
    "generic": true
   }
