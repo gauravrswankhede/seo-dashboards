@@ -6,23 +6,127 @@
       "id": "becomeparents",
       "base": "https://becomeparents.com/",
       "checks": [
-        {"id": "yahoo", "label": "Old Yahoo email still shown", "pattern": "becomeparents@yahoo\\.com", "in": "html", "task": "BP-02"},
-        {"id": "success", "label": "Unsourced success-rate claim (85–90% / highest success rate)", "pattern": "85\\s*(to|-|–)\\s*90\\s*%|highest success rate", "in": "text", "task": "BP-03"},
-        {"id": "years", "label": "'20+ years of experience' claim", "pattern": "20\\+\\s*years", "in": "text", "task": "BP-03"},
-        {"id": "argentina", "label": "Argentina mentioned as a destination", "pattern": "argentina", "in": "text", "task": "BP-04"},
-        {"id": "archive", "label": "Links pointing to web.archive.org", "pattern": "web\\.archive\\.org", "in": "html", "task": "BP-05"},
-        {"id": "dummy", "label": "Placeholder images (dummy.png)", "pattern": "dummy\\.png", "in": "html", "task": "BP-08"},
-        {"id": "pageid", "label": "Links to ?page_id= URLs", "pattern": "\\?page_id=", "in": "html", "task": "BP-11"}
+        {
+          "id": "yahoo",
+          "label": "Old Yahoo email still shown",
+          "pattern": "becomeparents@yahoo\\.com",
+          "in": "html",
+          "task": "BP-02"
+        },
+        {
+          "id": "success",
+          "label": "Unsourced success-rate claim (85–90% / highest success rate)",
+          "pattern": "85\\s*(to|-|–)\\s*90\\s*%|highest success rate",
+          "in": "text",
+          "task": "BP-03"
+        },
+        {
+          "id": "years",
+          "label": "'20+ years of experience' claim",
+          "pattern": "20\\+\\s*years",
+          "in": "text",
+          "task": "BP-03"
+        },
+        {
+          "id": "argentina",
+          "label": "Argentina mentioned as a destination",
+          "pattern": "argentina",
+          "in": "text",
+          "task": "BP-04"
+        },
+        {
+          "id": "archive",
+          "label": "Links pointing to web.archive.org",
+          "pattern": "web\\.archive\\.org",
+          "in": "html",
+          "task": "BP-05"
+        },
+        {
+          "id": "dummy",
+          "label": "Placeholder images (dummy.png)",
+          "pattern": "dummy\\.png",
+          "in": "html",
+          "task": "BP-08"
+        },
+        {
+          "id": "pageid",
+          "label": "Links to ?page_id= URLs",
+          "pattern": "\\?page_id=",
+          "in": "html",
+          "task": "BP-11"
+        }
       ]
     },
     {
       "id": "bangkoksurrogacy",
       "base": "https://bangkoksurrogacy.com/",
       "checks": [
-        {"id": "commercial", "label": "Offers commercial surrogacy / commercial surrogates", "pattern": "commercial\\s*(&|and)?\\s*gestational surrogat|commercial surrogate", "in": "text", "task": "BS-01"},
-        {"id": "legal_claim", "label": "Says surrogacy in Thailand is legal for foreigners", "pattern": "surrogacy in thailand is legal|allows foreigners to take up thai surrogates", "in": "text", "task": "BS-01"},
-        {"id": "yahoo", "label": "Old Yahoo email still shown", "pattern": "becomeparents@yahoo\\.com", "in": "html", "task": "BS-08"},
-        {"id": "admin", "label": "Author shown as 'admin'", "pattern": "<meta[^>]+twitter:data1[^>]+content=\"admin\"|by admin", "in": "html", "task": "BS-09"}
+        {
+          "id": "commercial",
+          "label": "Offers commercial surrogacy / commercial surrogates",
+          "pattern": "commercial\\s*(&|and)?\\s*gestational surrogat|commercial surrogate",
+          "in": "text",
+          "task": "BS-01"
+        },
+        {
+          "id": "legal_claim",
+          "label": "Says surrogacy in Thailand is legal for foreigners",
+          "pattern": "surrogacy in thailand is legal|allows foreigners to take up thai surrogates",
+          "in": "text",
+          "task": "BS-01"
+        },
+        {
+          "id": "yahoo",
+          "label": "Old Yahoo email still shown",
+          "pattern": "becomeparents@yahoo\\.com",
+          "in": "html",
+          "task": "BS-08"
+        },
+        {
+          "id": "admin",
+          "label": "Author shown as 'admin'",
+          "pattern": "<meta[^>]+twitter:data1[^>]+content=\"admin\"|by admin",
+          "in": "html",
+          "task": "BS-09"
+        }
+      ]
+    },
+    {
+      "id": "trevon",
+      "base": "https://trevonhotels.com/",
+      "checks": [
+        {
+          "id": "team",
+          "label": "Pages with a 'Meet our team' section",
+          "pattern": "meet\\s+(our|the)\\s+team",
+          "in": "text",
+          "positive": true
+        },
+        {
+          "id": "booking",
+          "label": "Pages with a Book now / booking link",
+          "pattern": "book\\s*now|check\\s+availability",
+          "in": "text",
+          "positive": true
+        },
+        {
+          "id": "oldbrand",
+          "label": "Old brand names still shown (Five Elements, Zip by Spree, South Indian Hotel)",
+          "pattern": "five\\s+elements|zip\\s+by\\s+spree|south\\s+indian\\s+hotel",
+          "in": "text"
+        },
+        {
+          "id": "placeholder",
+          "label": "Placeholder text (lorem ipsum, coming soon, sample)",
+          "pattern": "lorem\\s+ipsum|coming\\s+soon|sample\\s+text|your\\s+text\\s+here",
+          "in": "text"
+        },
+        {
+          "id": "hotelschema",
+          "label": "Pages without Hotel / LodgingBusiness schema",
+          "pattern": "^(?![\\s\\S]*\"@type\"\\s*:\\s*\"(Hotel|LodgingBusiness|Resort)\")",
+          "in": "html"
+        }
       ]
     }
   ]

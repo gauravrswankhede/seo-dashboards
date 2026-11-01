@@ -9,6 +9,8 @@ One dashboard per website, hosted free on GitHub Pages.
 | `/bangkoksurrogacy/` | bangkoksurrogacy.com |
 
 ## Automatic 4-hourly scan (live work log)
+Also scans **trevonhotels.com** (folder `trevon/`, results only: `status.json`, `changes.csv`, `snapshot.json`). The Trevon SEO, Web & GMB team dashboard (`/trevon-core/seo/`) reads `trevon/status.json` together with the two sites above.
+
 `.github/workflows/seo-monitor.yml` runs `monitor/crawl.py` on GitHub's servers at 00:17, 04:17, 08:17, 12:17, 16:17 and 20:17 UTC (05:47, 09:47, 13:47, 17:47, 21:47 and 01:47 India time). On each run it:
 1. finds every page from the site's sitemap (or follows links if there is no sitemap)
 2. records each page's title, meta description, canonical, robots tag, H1/H2 headings, word count, schema types, image alt text and a content fingerprint

@@ -239,7 +239,7 @@ def run_site(cfg, max_pages, delay):
     for c in cfg.get("checks", []):
         rx = re.compile(c["pattern"], re.I)
         hits = [u for u, r in pages.items() if r.get("status") == 200 and rx.search(htmls.get(u, "") if c.get("in") == "html" else r.get("_text", ""))]
-        checks.append({**{k: c[k] for k in ("id", "label", "task") if k in c}, "pages": len(hits), "examples": hits[:5]})
+        checks.append({**{k: c[k] for k in ("id", "label", "task", "positive") if k in c}, "pages": len(hits), "examples": hits[:5]})
     live = [r for r in pages.values() if r.get("status") == 200]
     generic = [
         ("no_title", "Pages missing a title", lambda r: not r.get("title")),
