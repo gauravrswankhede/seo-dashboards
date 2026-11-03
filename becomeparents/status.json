@@ -1,10 +1,10 @@
 {
- "lastRunUtc": "2026-11-02T06:18:07Z",
+ "lastRunUtc": "2026-11-03T02:24:22Z",
  "ok": true,
  "pagesScanned": 369,
  "pagesLive": 359,
  "source": "links",
- "changesThisRun": 0,
+ "changesThisRun": 262,
  "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
@@ -15,10 +15,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogate-mother-in-argentina/",
-    "https://becomeparents.com/blog/",
-    "https://becomeparents.com/surrogacy-in-ireland/",
-    "https://becomeparents.com/process-and-success-rates/"
+    "https://becomeparents.com/gay-surrogacy-in-uk/",
+    "https://becomeparents.com/gestational-surrogacy/",
+    "https://becomeparents.com/about-us/",
+    "https://becomeparents.com/surrogacy-in-germany/"
    ]
   },
   {
@@ -29,8 +29,8 @@
    "examples": [
     "https://becomeparents.com/",
     "https://becomeparents.com/category/surrogacy-2/",
-    "https://becomeparents.com/blog/page/2/",
     "https://becomeparents.com/author/admin/",
+    "https://becomeparents.com/blog/page/2/",
     "https://becomeparents.com/right-surrogacy-destination-top-in-2025/"
    ]
   },
@@ -48,10 +48,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogate-mother-in-argentina/",
-    "https://becomeparents.com/blog/",
-    "https://becomeparents.com/surrogacy-in-ireland/",
-    "https://becomeparents.com/process-and-success-rates/"
+    "https://becomeparents.com/gay-surrogacy-in-uk/",
+    "https://becomeparents.com/gestational-surrogacy/",
+    "https://becomeparents.com/about-us/",
+    "https://becomeparents.com/surrogacy-in-germany/"
    ]
   },
   {
@@ -61,10 +61,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogate-mother-in-argentina/",
-    "https://becomeparents.com/blog/",
-    "https://becomeparents.com/surrogacy-in-ireland/",
-    "https://becomeparents.com/process-and-success-rates/"
+    "https://becomeparents.com/gay-surrogacy-in-uk/",
+    "https://becomeparents.com/gestational-surrogacy/",
+    "https://becomeparents.com/about-us/",
+    "https://becomeparents.com/surrogacy-in-germany/"
    ]
   },
   {
@@ -83,10 +83,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogate-mother-in-argentina/",
-    "https://becomeparents.com/blog/",
-    "https://becomeparents.com/surrogacy-in-ireland/",
-    "https://becomeparents.com/process-and-success-rates/"
+    "https://becomeparents.com/gay-surrogacy-in-uk/",
+    "https://becomeparents.com/gestational-surrogacy/",
+    "https://becomeparents.com/about-us/",
+    "https://becomeparents.com/surrogacy-in-germany/"
    ]
   },
   {
@@ -101,11 +101,11 @@
    "label": "Pages missing a meta description",
    "pages": 153,
    "examples": [
-    "https://becomeparents.com/category/surrogacy-in-uk/",
-    "https://becomeparents.com/tag/surrogacy-clinics-california/",
-    "https://becomeparents.com/category/surrogacy-laws/",
-    "https://becomeparents.com/category/news/",
-    "https://becomeparents.com/tag/surrogacy-for-singles-california/"
+    "https://becomeparents.com/tag/same-sex-surrogacy-california/",
+    "https://becomeparents.com/tag/surrogacy-cost-sydney/",
+    "https://becomeparents.com/tag/surrogacy-in-california/",
+    "https://becomeparents.com/tag/same-sex-surrogacy-sydney/",
+    "https://becomeparents.com/tag/surrogacy-in-usa/"
    ],
    "generic": true
   },
@@ -126,13 +126,13 @@
   {
    "id": "noindex",
    "label": "Pages set to noindex",
-   "pages": 24,
+   "pages": 127,
    "examples": [
-    "https://becomeparents.com/tag/ethical-surrogacy/",
-    "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/",
-    "https://becomeparents.com/author/gaurav-wankhede/",
-    "https://becomeparents.com/author/drsreelatha/",
-    "https://becomeparents.com/tag/benefits-of-surrogacy-for-gay-couples/"
+    "https://becomeparents.com/tag/same-sex-surrogacy-california/",
+    "https://becomeparents.com/tag/surrogacy-cost-sydney/",
+    "https://becomeparents.com/tag/surrogacy-in-california/",
+    "https://becomeparents.com/tag/same-sex-surrogacy-sydney/",
+    "https://becomeparents.com/tag/surrogacy-in-usa/"
    ],
    "generic": true
   },
@@ -148,11 +148,11 @@
    "label": "Pages with images missing alt text",
    "pages": 189,
    "examples": [
-    "https://becomeparents.com/surrogate-mother-in-argentina/",
-    "https://becomeparents.com/blog/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/surrogacy-in-uk/",
-    "https://becomeparents.com/pgd-for-genetic-screening/"
+    "https://becomeparents.com/gestational-surrogacy/",
+    "https://becomeparents.com/about-us/",
+    "https://becomeparents.com/surrogacy-in-germany/",
+    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
+    "https://becomeparents.com/international-surrogacy-arrangements/"
    ],
    "generic": true
   },
@@ -161,11 +161,11 @@
    "label": "Pages returning errors (4xx/5xx)",
    "pages": 10,
    "examples": [
-    "https://becomeparents.com/?page_id=6613",
-    "https://becomeparents.com/?page_id=6611",
-    "https://becomeparents.com/?page_id=6608",
     "https://becomeparents.com/ivf-in-kenya/",
-    "https://becomeparents.com/importance-of-surrogacy-contracts-in-canada/"
+    "https://becomeparents.com/?page_id=6608",
+    "https://becomeparents.com/?page_id=6611",
+    "https://becomeparents.com/?page_id=6613",
+    "https://becomeparents.com/how-is-surrogacy-the-best-option-to-become-parents-for-childless-couples/"
    ],
    "generic": true
   }
