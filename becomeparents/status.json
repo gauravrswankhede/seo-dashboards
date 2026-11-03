@@ -1,31 +1,31 @@
 {
- "lastRunUtc": "2026-11-03T11:59:35Z",
+ "lastRunUtc": "2026-11-03T19:32:55Z",
  "ok": true,
  "pagesScanned": 369,
- "pagesLive": 352,
+ "pagesLive": 359,
  "source": "links",
- "changesThisRun": 7,
- "networkErrors": 7,
+ "changesThisRun": 102,
+ "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
   {
    "id": "yahoo",
    "label": "Old Yahoo email still shown",
    "task": "BP-02",
-   "pages": 352,
+   "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/pgd-for-genetic-screening/",
-    "https://becomeparents.com/gay-surrogacy-in-usa/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/surrogate-mother-in-uk/"
+    "https://becomeparents.com/enrollment-process/",
+    "https://becomeparents.com/egg-donor/",
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/gaurav-wankhede/"
    ]
   },
   {
    "id": "success",
    "label": "Unsourced success-rate claim (85\u201390% / highest success rate)",
    "task": "BP-03",
-   "pages": 7,
+   "pages": 8,
    "examples": [
     "https://becomeparents.com/",
     "https://becomeparents.com/category/surrogacy-2/",
@@ -45,26 +45,26 @@
    "id": "argentina",
    "label": "Argentina mentioned as a destination",
    "task": "BP-04",
-   "pages": 352,
+   "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/pgd-for-genetic-screening/",
-    "https://becomeparents.com/gay-surrogacy-in-usa/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/surrogate-mother-in-uk/"
+    "https://becomeparents.com/enrollment-process/",
+    "https://becomeparents.com/egg-donor/",
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/gaurav-wankhede/"
    ]
   },
   {
    "id": "archive",
    "label": "Links pointing to web.archive.org",
    "task": "BP-05",
-   "pages": 352,
+   "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/pgd-for-genetic-screening/",
-    "https://becomeparents.com/gay-surrogacy-in-usa/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/surrogate-mother-in-uk/"
+    "https://becomeparents.com/enrollment-process/",
+    "https://becomeparents.com/egg-donor/",
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/gaurav-wankhede/"
    ]
   },
   {
@@ -80,13 +80,13 @@
    "id": "pageid",
    "label": "Links to ?page_id= URLs",
    "task": "BP-11",
-   "pages": 352,
+   "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/pgd-for-genetic-screening/",
-    "https://becomeparents.com/gay-surrogacy-in-usa/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/surrogate-mother-in-uk/"
+    "https://becomeparents.com/enrollment-process/",
+    "https://becomeparents.com/egg-donor/",
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/gaurav-wankhede/"
    ]
   },
   {
@@ -99,13 +99,13 @@
   {
    "id": "no_meta",
    "label": "Pages missing a meta description",
-   "pages": 148,
+   "pages": 153,
    "examples": [
-    "https://becomeparents.com/category/surrogacy-in-france/",
-    "https://becomeparents.com/category/gestational-surrogacy/",
-    "https://becomeparents.com/category/surrogacy-in-canada/",
-    "https://becomeparents.com/category/surrogacy-2/",
-    "https://becomeparents.com/tag/gay-surrogacy/"
+    "https://becomeparents.com/category/egg-donor/",
+    "https://becomeparents.com/category/news/",
+    "https://becomeparents.com/tag/gay-surrogacy-process/",
+    "https://becomeparents.com/category/surrogacy-in-australia/",
+    "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/"
    ],
    "generic": true
   },
@@ -126,13 +126,13 @@
   {
    "id": "noindex",
    "label": "Pages set to noindex",
-   "pages": 122,
+   "pages": 127,
    "examples": [
-    "https://becomeparents.com/tag/gay-surrogacy/",
-    "https://becomeparents.com/tag/benefits-of-surrogacy-for-gay-couples/",
     "https://becomeparents.com/tag/gay-surrogacy-process/",
     "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/",
-    "https://becomeparents.com/author/gaurav-wankhede/"
+    "https://becomeparents.com/author/gaurav-wankhede/",
+    "https://becomeparents.com/tag/benefits-of-surrogacy-for-gay-couples/",
+    "https://becomeparents.com/tag/gay-surrogacy/"
    ],
    "generic": true
   },
@@ -146,13 +146,13 @@
   {
    "id": "alt",
    "label": "Pages with images missing alt text",
-   "pages": 183,
+   "pages": 187,
    "examples": [
-    "https://becomeparents.com/pgd-for-genetic-screening/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/surrogate-mother-in-argentina/",
-    "https://becomeparents.com/egg-donation-in-georgia/",
-    "https://becomeparents.com/surrogacy-laws-in-bangkok/"
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/gaurav-wankhede/",
+    "https://becomeparents.com/egg-donor-in-uk/",
+    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
+    "https://becomeparents.com/gestational-surrogacy/"
    ],
    "generic": true
   },
@@ -161,11 +161,11 @@
    "label": "Pages returning errors (4xx/5xx)",
    "pages": 10,
    "examples": [
-    "https://becomeparents.com/?page_id=6613",
     "https://becomeparents.com/?page_id=6611",
     "https://becomeparents.com/ivf-in-kenya/",
     "https://becomeparents.com/?page_id=6608",
-    "https://becomeparents.com/few-key-reasons-to-choose-argentina-as-your-next-preferred-surrogacy-destination/"
+    "https://becomeparents.com/?page_id=6613",
+    "https://becomeparents.com/egg-donation-in-india/"
    ],
    "generic": true
   }

@@ -71,8 +71,32 @@
 "words": 2828
 },
 "https://becomeparents.com/accommodation-and-logistics/": {
+"canonical": "https://becomeparents.com/accommodation-and-logistics/",
+"fingerprint": "8f0694d942438935",
+"h1": [
+"How to finalize a new accommodation during a surrogacy process in a foreign country?"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"How to finalize a new accommodation during a surrogacy process in a foreign country?",
+"Accommodation and Logistics Research"
+],
+"img_missing_alt": 4,
 "lastmod": "",
-"status": 0
+"meta_description": "Know about accommodation and logistics during your surrogacy process. While realize your parenthood dreams, you have to manage accommodation and logistics",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [
+"BlogPosting",
+"ImageObject",
+"Organization",
+"Person",
+"WebPage",
+"WebSite"
+],
+"status": 200,
+"title": "Accommodation and logistics | Finalize a new accommodation in a foreign country",
+"words": 2272
 },
 "https://becomeparents.com/adoption-vs-surrogacy/": {
 "canonical": "https://becomeparents.com/adoption-vs-surrogacy/",
@@ -195,8 +219,68 @@
 "words": 11379
 },
 "https://becomeparents.com/author/admin/page/1/": {
+"canonical": "",
+"fingerprint": "ea7f20f9aa0f3161",
+"h1": [
+"Author Archives: admin"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Countries Where Surrogacy Is Allowed Around the World \u2014 A Clear, Friendly Guide for Intended Parents",
+"Country-by-country breakdown (simple, practical notes)",
+"Surrogacy in USA: A Complete Guide to Modern Parenthood in California and Beyond",
+"Understanding Surrogacy in USA",
+"Why Choose a Surrogacy Clinic in California?",
+"Same Sex Surrogacy in California: Building Families with Love and Equality",
+"Surrogacy Laws in California: Protecting Parents and Surrogates",
+"Surrogacy for Singles in California: Embracing Solo Parenthood",
+"Surrogacy in Australia: A Complete Guide for Intended Parents",
+"Understanding Surrogacy in Australia",
+"Choosing a Surrogacy Clinic in Sydney",
+"Same Sex Surrogacy in Sydney",
+"Surrogacy for Singles in Sydney",
+"Understanding Surrogacy Cost in Sydney",
+"Emotional and Ethical Dimensions of Surrogacy",
+"Emotional and Ethical Aspects of Surrogacy",
+"Navigating Global Surrogacy Laws in 2025: A Comprehensive Guide for Intended Parents",
+"Global Surrogacy Laws in 2025",
+"Surrogacy in 2025: Latest Trends, Technologies, and Ethical Shifts",
+"FAQs: Surrogacy in 2025",
+"Choosing the Right Surrogacy Destination: Top Countries for Intended Parents in 2025",
+"What Makes a Country Ideal for Surrogacy in 2025?",
+"Top Surrogacy Destinations for 2025",
+"FAQs: Choosing a Surrogacy Destination",
+"Is Surrogacy Right for You? A Guide to Understanding Your Options in 2025",
+"Why Choose Surrogacy?",
+"2025 Surrogacy Trends",
+"How Become Parents Can Help",
+"Frequently Asked Questions",
+"Surrogacy in the USA: Why It\u2019s a Top Destination for Intended Parents",
+"Why the USA Is a Top Destination for Surrogacy",
+"Surrogacy Process in the USA",
+"Cost of Surrogacy in the USA",
+"Conclusion",
+"Surrogacy in Spain for Single Parents: Legal Framework and Options Abroad",
+"Is Surrogacy Legal for Single Parents in Spain?",
+"Challenges Faced by Single Parents in Spain Seeking Surrogacy",
+"Best International Destinations for Single Parents Seeking Surrogacy",
+"Conclusion"
+],
+"img_missing_alt": 28,
 "lastmod": "",
-"status": 0
+"meta_description": "",
+"og_image": true,
+"robots": "follow, noindex",
+"schema": [
+"ImageObject",
+"Organization",
+"Person",
+"ProfilePage",
+"WebSite"
+],
+"status": 200,
+"title": "admin, Author at Become Parents",
+"words": 11379
 },
 "https://becomeparents.com/author/admin/page/2/": {
 "canonical": "",
@@ -575,7 +659,7 @@
 },
 "https://becomeparents.com/baby-passport/": {
 "canonical": "https://becomeparents.com/baby-passport/",
-"fingerprint": "e72b767a245b555a",
+"fingerprint": "d085f7bb33ace2d7",
 "h1": [
 "Baby Passport"
 ],
@@ -583,9 +667,9 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
 "Managing the surrogacy citizenship and child passport issues!"
 ],
-"img_missing_alt": 7,
+"img_missing_alt": 8,
 "lastmod": "",
-"meta_description": "For Surrogacy Citizenship,IP's will need to register passport for baby with their local embassy and obtain a passport before leaving for home.",
+"meta_description": "Learn how to obtain a baby passport, including application steps, required documents and citizenship considerations for babies born abroad to intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -597,12 +681,12 @@
 "WebSite"
 ],
 "status": 200,
-"title": "How to apply for Surrogacy Citizenship in 2022, surrogacy and immigration",
-"words": 3082
+"title": "Baby Passport: Application Process, Documents & Requirements",
+"words": 3078
 },
 "https://becomeparents.com/become-a-donor/": {
 "canonical": "https://becomeparents.com/become-a-donor/",
-"fingerprint": "06fc4b271a25a536",
+"fingerprint": "3b1c3ceeeb7dcaa9",
 "h1": [
 "Become a Donor"
 ],
@@ -613,7 +697,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "Who can become an egg donor? Learn more about the egg donation process. Our clinic is located in different country like Australia, Canada, India, Dubai, Kenya, Thailand, Bangkok.",
+"meta_description": "Interested in become an egg donor? Learn about eligibility criteria, medical screening, donation requirements and the egg donation process.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -625,8 +709,8 @@
 "WebSite"
 ],
 "status": 200,
-"title": "How to Become an Egg Donor, Donation process, How It Works",
-"words": 1727
+"title": "Become an Egg Donor: Eligibility, Requirements & Process",
+"words": 1723
 },
 "https://becomeparents.com/blog/": {
 "canonical": "https://becomeparents.com/blog/",
@@ -2030,7 +2114,7 @@
 },
 "https://becomeparents.com/contact-us/": {
 "canonical": "https://becomeparents.com/contact-us/",
-"fingerprint": "73b0731dc5dd1854",
+"fingerprint": "7848afe0b07e15c1",
 "h1": [
 "Contact us"
 ],
@@ -2040,7 +2124,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "We offer best surrogacy services worldwide. Best surrogacy clinic in India, Kenya, India, Argentina, Bangkok, Georgia. Affordable Options to Start Your Family.",
+"meta_description": "Contact Become Parents for IVF and surrogacy guidance. Get in touch with our team for fertility treatment information, consultation support and inquiries.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2050,8 +2134,8 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Best surrogacy clinic in Kenya, India, Argentina, Bangkok, Georgia",
-"words": 1207
+"title": "Contact Become Parents | IVF & Surrogacy Assistance",
+"words": 1206
 },
 "https://becomeparents.com/countries-where-surrogacy-is-allowed-around-the-world-a-clear-friendly-guide-for-intended-parents/": {
 "canonical": "https://becomeparents.com/countries-where-surrogacy-is-allowed-around-the-world-a-clear-friendly-guide-for-intended-parents/",
@@ -2111,7 +2195,7 @@
 },
 "https://becomeparents.com/egg-donation-in-argentina/": {
 "canonical": "https://becomeparents.com/egg-donation-in-argentina/",
-"fingerprint": "7a23d3f383683bb7",
+"fingerprint": "12b3898c26d0450a",
 "h1": [
 "Egg Donation in Argentina"
 ],
@@ -2122,7 +2206,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "Egg donation in Argentina comes as a viable choice when the female partner cannot use her own eggs due to any medical or non-medical reasons. While some",
+"meta_description": "Explore egg donation in Argentina, including treatment costs, donor requirements, IVF procedures and legal considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2134,12 +2218,12 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg Donation in Argentina - Become Parents",
-"words": 1833
+"title": "Egg Donation in Argentina: Cost, Process & Requirements",
+"words": 1832
 },
 "https://becomeparents.com/egg-donation-in-bangkok/": {
 "canonical": "https://becomeparents.com/egg-donation-in-bangkok/",
-"fingerprint": "f45766c8f4e2ee42",
+"fingerprint": "e8d45914a8d4301e",
 "h1": [
 "Egg Donation in Bangkok"
 ],
@@ -2151,7 +2235,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "Embryo donation, sperm donation and egg donation in Bangkok. Best surrogacy clinic with affordable prices for egg donation in Thailand.",
+"meta_description": "Explore egg donation in Bangkok, Thailand, including IVF treatment costs, donor requirements, the donation process and legal considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2163,12 +2247,12 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg Donation in Bangkok | Sperm bank, agency, clinic in Thailand",
-"words": 2000
+"title": "Egg Donation in Bangkok, Thailand - Cost, Process & Requirements",
+"words": 1998
 },
 "https://becomeparents.com/egg-donation-in-colombia/": {
 "canonical": "https://becomeparents.com/egg-donation-in-colombia/",
-"fingerprint": "d4b94c60d6efce4e",
+"fingerprint": "c4e92d6221d95a57",
 "h1": [
 "Egg Donation in Colombia"
 ],
@@ -2179,7 +2263,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "We are a leading Egg Donor clinic in Colombia, Specialists in fertility, genetics and assisted reproduction. Contact us for surrogacy and egg donation in Colombia.",
+"meta_description": "Explore egg donation in Colombia, including IVF treatment costs, donor requirements, the donation process and legal considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2191,12 +2275,12 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg Donation in Colombia, Best egg donor clinic, agency cost in Colombia",
-"words": 2049
+"title": "Egg Donation in Colombia: Cost, Process & Requirements",
+"words": 2044
 },
 "https://becomeparents.com/egg-donation-in-georgia/": {
 "canonical": "https://becomeparents.com/egg-donation-in-georgia/",
-"fingerprint": "54dd5484302f2b44",
+"fingerprint": "5cf2254a018d83ed",
 "h1": [
 "Egg Donation in Georgia"
 ],
@@ -2207,9 +2291,9 @@
 "How Egg donation in Georgia works?",
 "Egg donors at Become Parents"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "Embryo donation, sperm donation, and egg donation in Georgia are allowed. Best egg donation agency, surrogacy clinic with affordable prices in Georgia.",
+"meta_description": "Explore egg donation in Georgia, including IVF costs, donor eligibility, treatment procedures and legal requirements for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2221,8 +2305,8 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg donation in Georgia | Sperm bank, Best egg donation agency, clinic in 2022",
-"words": 2165
+"title": "Egg Donation in Georgia: Cost, Process & Requirements",
+"words": 2158
 },
 "https://becomeparents.com/egg-donation-in-india/": {
 "lastmod": "",
@@ -2230,7 +2314,7 @@
 },
 "https://becomeparents.com/egg-donation-in-kenya/": {
 "canonical": "https://becomeparents.com/egg-donation-in-kenya/",
-"fingerprint": "41129ca35f36ed6d",
+"fingerprint": "3c6f014c929bfb26",
 "h1": [
 "Egg donation in Kenya"
 ],
@@ -2238,9 +2322,9 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
 "What to anticipate if you wish to donate your eggs?"
 ],
-"img_missing_alt": 2,
+"img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "We are among the top Egg Donor clinics in Kenya. Embryo & Egg Donor services. Our agency provides IVF treatment with Egg Donation in Kenya.",
+"meta_description": "Explore egg donation in Kenya, learn about donor selection, IVF treatment options, eligibility criteria and fertility care guidance for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2252,12 +2336,12 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg Donation in Kenya- cost, agency sperm & best egg donor bank in 2022",
-"words": 2179
+"title": "Egg Donation in Kenya: Donor Programs & IVF Options",
+"words": 2173
 },
 "https://becomeparents.com/egg-donation-in-ukraine/": {
 "canonical": "https://becomeparents.com/egg-donation-in-ukraine/",
-"fingerprint": "50f6b3f0d4a72b36",
+"fingerprint": "b66ce16a0d734c25",
 "h1": [
 "Egg donation in Ukraine"
 ],
@@ -2268,7 +2352,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "We are among the top Egg Donor clinics in Ukraine. Embryo & Egg Donor services. Our agency provides IVF treatment with Egg Donation in Ukraine.",
+"meta_description": "Learn about egg donation in Ukraine, including donor selection, IVF treatment options, eligibility criteria and important guidance for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2280,12 +2364,12 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg Donation in Ukraine- cost, agency sperm, best egg donor bank in 2022",
-"words": 1865
+"title": "Egg Donation in Ukraine - IVF Treatment & Donor Options",
+"words": 1861
 },
 "https://becomeparents.com/egg-donation-in-usa/": {
 "canonical": "https://becomeparents.com/egg-donation-in-usa/",
-"fingerprint": "cf039cc3eec3e8bd",
+"fingerprint": "4d4786bea606dd4a",
 "h1": [
 "Egg Donation in USA"
 ],
@@ -2296,7 +2380,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "We are among the top Egg Donor clinics in USA. Embryo & Egg Donor services. Our agency provides IVF treatment with Egg Donation in USA.",
+"meta_description": "Discover egg donation in the USA, including donor programs, screening procedures, IVF treatment options and essential information for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2308,8 +2392,8 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg Donation in USA- cost, agency sperm, best egg donor bank in 2022",
-"words": 1969
+"title": "Egg Donation in USA - Donor Programs & IVF Treatment",
+"words": 1965
 },
 "https://becomeparents.com/egg-donor-2/": {
 "canonical": "https://becomeparents.com/egg-donor-2/",
@@ -2341,7 +2425,7 @@
 },
 "https://becomeparents.com/egg-donor-in-australia/": {
 "canonical": "https://becomeparents.com/egg-donor-in-australia/",
-"fingerprint": "f174b90d572fcd55",
+"fingerprint": "16f180aab506fa2f",
 "h1": [
 "Egg Donor in Australia"
 ],
@@ -2351,7 +2435,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "We offer Egg donor in Australia. Become Parents is a leading egg donor agency offering Surrogacy with Donor eggs, own eggs, fertility treatment for Australian patients.",
+"meta_description": "Know about egg donation costs in Australia, donor eligibility, screening, expense reimbursements and legal requirements for becoming an egg donor.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2363,12 +2447,12 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg Donor in Australia, Best Egg Donation clinic - Using Donor Eggs in Australia",
-"words": 2089
+"title": "Egg Donor in Australia: Donation Costs & Requirements",
+"words": 2082
 },
 "https://becomeparents.com/egg-donor-in-canada/": {
 "canonical": "https://becomeparents.com/egg-donor-in-canada/",
-"fingerprint": "4e9c8df4e5c1105a",
+"fingerprint": "cf1612d62678fc25",
 "h1": [
 "Egg Donor in Canada"
 ],
@@ -2379,7 +2463,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "Egg Donation is legal in Canada. Find the perfect egg donor in Canada through egg donor bank. We're a full-service surrogacy and egg donation agency.",
+"meta_description": "Looking for the best egg donation agency in Canada? Explore donor options, the egg donation process, costs, eligibility and support for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -2391,12 +2475,12 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Egg Donor in Canada, Best Egg Donation Agency in Canada, process, cost",
-"words": 2014
+"title": "Egg Donor in Canada - Cost, Process & Best Agency",
+"words": 2012
 },
 "https://becomeparents.com/egg-donor-in-russia/": {
 "canonical": "https://becomeparents.com/egg-donor-in-russia/",
-"fingerprint": "3493177e32e143cd",
+"fingerprint": "0118a868d51bd872",
 "h1": [
 "Egg Donor in Russia"
 ],
@@ -2420,7 +2504,7 @@
 ],
 "status": 200,
 "title": "Egg Donor in Russia, Best Egg Donation agency - Using Donor Eggs in Russia",
-"words": 2000
+"words": 1999
 },
 "https://becomeparents.com/egg-donor-in-uk/": {
 "canonical": "https://becomeparents.com/egg-donor-in-uk/",
@@ -4379,8 +4463,33 @@
 "words": 2500
 },
 "https://becomeparents.com/role-of-a-legal-professional-is-quite-critical/": {
+"canonical": "https://becomeparents.com/role-of-a-legal-professional-is-quite-critical/",
+"fingerprint": "0c91d43a780b7bab",
+"h1": [
+"Why the role of a legal professional is quite critical for a successful surrogacy journey?"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Why the role of a legal professional is quite critical for a successful surrogacy journey?",
+"The role of a legal professional",
+"How to select the right attorney?"
+],
+"img_missing_alt": 1,
 "lastmod": "",
-"status": 0
+"meta_description": "Starting a surrogacy journey requires establishing a relationship with the appropriate legal counsel and that's why the role of a legal professional is quite critical.",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [
+"BlogPosting",
+"ImageObject",
+"Organization",
+"Person",
+"WebPage",
+"WebSite"
+],
+"status": 200,
+"title": "Why the role of a legal professional is quite critical for surrogacy journey?",
+"words": 2274
 },
 "https://becomeparents.com/same-sex-surrogacy-in-thailand/": {
 "canonical": "https://becomeparents.com/same-sex-surrogacy-in-thailand/",
@@ -6885,8 +6994,30 @@
 "words": 2229
 },
 "https://becomeparents.com/tag/accommodation-and-logistics/": {
+"canonical": "",
+"fingerprint": "4da02163e3919c80",
+"h1": [
+"Tag Archives: Accommodation and Logistics"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"How to finalize a new accommodation during a surrogacy process in a foreign country?",
+"Accommodation and Logistics Research"
+],
+"img_missing_alt": 4,
 "lastmod": "",
-"status": 0
+"meta_description": "",
+"og_image": true,
+"robots": "follow, noindex",
+"schema": [
+"CollectionPage",
+"ImageObject",
+"Organization",
+"WebSite"
+],
+"status": 200,
+"title": "Accommodation and Logistics Archives - Become Parents",
+"words": 2225
 },
 "https://becomeparents.com/tag/altruistic-surrogacy-agency/": {
 "canonical": "",
@@ -7405,8 +7536,30 @@
 "words": 2302
 },
 "https://becomeparents.com/tag/how-to-keep-focused/": {
+"canonical": "",
+"fingerprint": "ff62df27ded20146",
+"h1": [
+"Tag Archives: How to keep focused"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"How to Keep yourself Mentally fit and motivated during the surrogacy journey?",
+"Mental fitness during the surrogacy Journey"
+],
+"img_missing_alt": 2,
 "lastmod": "",
-"status": 0
+"meta_description": "",
+"og_image": true,
+"robots": "follow, noindex",
+"schema": [
+"CollectionPage",
+"ImageObject",
+"Organization",
+"WebSite"
+],
+"status": 200,
+"title": "How to keep focused Archives - Become Parents",
+"words": 2288
 },
 "https://becomeparents.com/tag/impact-of-surrogacy/": {
 "canonical": "",
@@ -7634,8 +7787,30 @@
 "words": 5934
 },
 "https://becomeparents.com/tag/language-barriers/": {
+"canonical": "",
+"fingerprint": "4b8d67f94591a11a",
+"h1": [
+"Tag Archives: Language barriers"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Language barriers during International surrogacy: How to deal with them",
+"How to deal with Language barriers during International Surrogacy"
+],
+"img_missing_alt": 2,
 "lastmod": "",
-"status": 0
+"meta_description": "",
+"og_image": true,
+"robots": "follow, noindex",
+"schema": [
+"CollectionPage",
+"ImageObject",
+"Organization",
+"WebSite"
+],
+"status": 200,
+"title": "Language barriers Archives - Become Parents",
+"words": 2277
 },
 "https://becomeparents.com/tag/legal-counselor/": {
 "canonical": "",
@@ -8902,8 +9077,29 @@
 "words": 2195
 },
 "https://becomeparents.com/tag/surrogacy-in-colombia/": {
+"canonical": "",
+"fingerprint": "098ad94c78152f29",
+"h1": [
+"Tag Archives: Surrogacy in Colombia"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Why Surrogacy in Colombia stands as an Ultimate Solution to your Parenthood Aspirations"
+],
+"img_missing_alt": 0,
 "lastmod": "",
-"status": 0
+"meta_description": "",
+"og_image": true,
+"robots": "follow, noindex",
+"schema": [
+"CollectionPage",
+"ImageObject",
+"Organization",
+"WebSite"
+],
+"status": 200,
+"title": "Surrogacy in Colombia Archives - Become Parents",
+"words": 1276
 },
 "https://becomeparents.com/tag/surrogacy-in-georgia/": {
 "canonical": "",
@@ -10474,7 +10670,7 @@
 },
 "https://www.becomeparents.com/contact-us/": {
 "canonical": "https://becomeparents.com/contact-us/",
-"fingerprint": "73b0731dc5dd1854",
+"fingerprint": "7848afe0b07e15c1",
 "h1": [
 "Contact us"
 ],
@@ -10484,7 +10680,7 @@
 ],
 "img_missing_alt": 0,
 "lastmod": "",
-"meta_description": "We offer best surrogacy services worldwide. Best surrogacy clinic in India, Kenya, India, Argentina, Bangkok, Georgia. Affordable Options to Start Your Family.",
+"meta_description": "Contact Become Parents for IVF and surrogacy guidance. Get in touch with our team for fertility treatment information, consultation support and inquiries.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
 "schema": [
@@ -10494,7 +10690,7 @@
 "WebSite"
 ],
 "status": 200,
-"title": "Best surrogacy clinic in Kenya, India, Argentina, Bangkok, Georgia",
-"words": 1207
+"title": "Contact Become Parents | IVF & Surrogacy Assistance",
+"words": 1206
 }
 }
