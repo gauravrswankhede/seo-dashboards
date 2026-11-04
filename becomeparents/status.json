@@ -1,5 +1,5 @@
 {
- "lastRunUtc": "2026-11-04T00:39:12Z",
+ "lastRunUtc": "2026-11-04T12:14:03Z",
  "ok": true,
  "pagesScanned": 369,
  "pagesLive": 359,
@@ -15,10 +15,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-in-china/",
-    "https://becomeparents.com/surrogacy-cost-around-the-world/",
-    "https://becomeparents.com/surrogate-mothers-in-kenya/",
-    "https://becomeparents.com/surrogacy-cost-in-kenya/"
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/contact-us/",
+    "https://becomeparents.com/surrogacy-cost-in-australia/",
+    "https://becomeparents.com/surrogacy-in-georgia/"
    ]
   },
   {
@@ -28,10 +28,10 @@
    "pages": 8,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/category/surrogacy-2/",
     "https://becomeparents.com/author/admin/",
     "https://becomeparents.com/blog/page/2/",
-    "https://becomeparents.com/tag/surrogacy-destinations-in-2025/"
+    "https://becomeparents.com/category/surrogacy-2/",
+    "https://becomeparents.com/right-surrogacy-destination-top-in-2025/"
    ]
   },
   {
@@ -48,10 +48,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-in-china/",
-    "https://becomeparents.com/surrogacy-cost-around-the-world/",
-    "https://becomeparents.com/surrogate-mothers-in-kenya/",
-    "https://becomeparents.com/surrogacy-cost-in-kenya/"
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/contact-us/",
+    "https://becomeparents.com/surrogacy-cost-in-australia/",
+    "https://becomeparents.com/surrogacy-in-georgia/"
    ]
   },
   {
@@ -61,10 +61,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-in-china/",
-    "https://becomeparents.com/surrogacy-cost-around-the-world/",
-    "https://becomeparents.com/surrogate-mothers-in-kenya/",
-    "https://becomeparents.com/surrogacy-cost-in-kenya/"
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/contact-us/",
+    "https://becomeparents.com/surrogacy-cost-in-australia/",
+    "https://becomeparents.com/surrogacy-in-georgia/"
    ]
   },
   {
@@ -83,10 +83,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-in-china/",
-    "https://becomeparents.com/surrogacy-cost-around-the-world/",
-    "https://becomeparents.com/surrogate-mothers-in-kenya/",
-    "https://becomeparents.com/surrogacy-cost-in-kenya/"
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/contact-us/",
+    "https://becomeparents.com/surrogacy-cost-in-australia/",
+    "https://becomeparents.com/surrogacy-in-georgia/"
    ]
   },
   {
@@ -101,11 +101,11 @@
    "label": "Pages missing a meta description",
    "pages": 153,
    "examples": [
+    "https://becomeparents.com/category/surrogacy-in-thailand/",
     "https://becomeparents.com/category/egg-donor/",
-    "https://becomeparents.com/category/surrogacy-agency/",
     "https://becomeparents.com/category/surrogate-mother/",
-    "https://becomeparents.com/category/news/",
-    "https://becomeparents.com/category/ivf-and-fertility-solutions/"
+    "https://becomeparents.com/category/surrogacy-in-australia/",
+    "https://becomeparents.com/category/surrogacy-in-canada/"
    ],
    "generic": true
   },
@@ -128,11 +128,11 @@
    "label": "Pages set to noindex",
    "pages": 127,
    "examples": [
-    "https://becomeparents.com/author/gaurav-wankhede/",
-    "https://becomeparents.com/tag/gay-surrogacy-process/",
-    "https://becomeparents.com/tag/gay-surrogacy/",
+    "https://becomeparents.com/tag/surrogacy-laws-california/",
+    "https://becomeparents.com/tag/surrogacy-in-california/",
+    "https://becomeparents.com/tag/surrogacy-for-singles-california/",
     "https://becomeparents.com/tag/benefits-of-surrogacy-for-gay-couples/",
-    "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/"
+    "https://becomeparents.com/tag/surrogacy-for-singles-sydney/"
    ],
    "generic": true
   },
@@ -148,11 +148,11 @@
    "label": "Pages with images missing alt text",
    "pages": 187,
    "examples": [
+    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/surrogacy-laws-in-bangkok/",
+    "https://becomeparents.com/surrogate-mothers-in-bangkok/",
     "https://becomeparents.com/surrogacy-in-china/",
-    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
-    "https://becomeparents.com/ivf-in-georgia/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/iui-treatment/"
+    "https://becomeparents.com/pgd-for-genetic-screening/"
    ],
    "generic": true
   },
@@ -161,10 +161,10 @@
    "label": "Pages returning errors (4xx/5xx)",
    "pages": 10,
    "examples": [
-    "https://becomeparents.com/ivf-in-kenya/",
     "https://becomeparents.com/?page_id=6613",
-    "https://becomeparents.com/?page_id=6608",
     "https://becomeparents.com/?page_id=6611",
+    "https://becomeparents.com/ivf-in-kenya/",
+    "https://becomeparents.com/?page_id=6608",
     "https://becomeparents.com/egg-donation-in-india/"
    ],
    "generic": true
