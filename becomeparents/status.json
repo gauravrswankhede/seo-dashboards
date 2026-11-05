@@ -1,10 +1,10 @@
 {
- "lastRunUtc": "2026-11-05T12:27:29Z",
+ "lastRunUtc": "2026-11-05T22:04:49Z",
  "ok": true,
- "pagesScanned": 369,
+ "pagesScanned": 370,
  "pagesLive": 359,
  "source": "links",
- "changesThisRun": 6,
+ "changesThisRun": 1,
  "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
@@ -15,10 +15,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/ivf-in-georgia/",
-    "https://becomeparents.com/surrogacy-in-usa/",
-    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
-    "https://becomeparents.com/surrogacy-in-thailand/"
+    "https://becomeparents.com/surrogacy-in-uk/",
+    "https://becomeparents.com/egg-donor-in-russia/",
+    "https://becomeparents.com/surrogate-mothers-in-georgia/",
+    "https://becomeparents.com/egg-donation-in-colombia/"
    ]
   },
   {
@@ -29,9 +29,9 @@
    "examples": [
     "https://becomeparents.com/",
     "https://becomeparents.com/category/surrogacy-2/",
-    "https://becomeparents.com/blog/page/2/",
     "https://becomeparents.com/author/admin/",
-    "https://becomeparents.com/tag/surrogacy-destinations-in-2025/"
+    "https://becomeparents.com/blog/page/2/",
+    "https://becomeparents.com/right-surrogacy-destination-top-in-2025/"
    ]
   },
   {
@@ -48,10 +48,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/ivf-in-georgia/",
-    "https://becomeparents.com/surrogacy-in-usa/",
-    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
-    "https://becomeparents.com/surrogacy-in-thailand/"
+    "https://becomeparents.com/surrogacy-in-uk/",
+    "https://becomeparents.com/egg-donor-in-russia/",
+    "https://becomeparents.com/surrogate-mothers-in-georgia/",
+    "https://becomeparents.com/egg-donation-in-colombia/"
    ]
   },
   {
@@ -61,10 +61,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/ivf-in-georgia/",
-    "https://becomeparents.com/surrogacy-in-usa/",
-    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
-    "https://becomeparents.com/surrogacy-in-thailand/"
+    "https://becomeparents.com/surrogacy-in-uk/",
+    "https://becomeparents.com/egg-donor-in-russia/",
+    "https://becomeparents.com/surrogate-mothers-in-georgia/",
+    "https://becomeparents.com/egg-donation-in-colombia/"
    ]
   },
   {
@@ -83,10 +83,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/ivf-in-georgia/",
-    "https://becomeparents.com/surrogacy-in-usa/",
-    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
-    "https://becomeparents.com/surrogacy-in-thailand/"
+    "https://becomeparents.com/surrogacy-in-uk/",
+    "https://becomeparents.com/egg-donor-in-russia/",
+    "https://becomeparents.com/surrogate-mothers-in-georgia/",
+    "https://becomeparents.com/egg-donation-in-colombia/"
    ]
   },
   {
@@ -101,11 +101,11 @@
    "label": "Pages missing a meta description",
    "pages": 153,
    "examples": [
-    "https://becomeparents.com/category/surrogacy-in-usa/",
-    "https://becomeparents.com/category/gay-surrogacy/",
-    "https://becomeparents.com/tag/surrogacy-law-india/",
-    "https://becomeparents.com/category/surrogacy-in-georgia/",
-    "https://becomeparents.com/category/surrogacy-in-kenya/"
+    "https://becomeparents.com/category/surrogacy-laws/",
+    "https://becomeparents.com/category/surrogacy-in-kenya/",
+    "https://becomeparents.com/category/surrogacy-in-france/",
+    "https://becomeparents.com/category/news/",
+    "https://becomeparents.com/category/egg-donor/"
    ],
    "generic": true
   },
@@ -128,10 +128,10 @@
    "label": "Pages set to noindex",
    "pages": 127,
    "examples": [
-    "https://becomeparents.com/tag/surrogacy-law-india/",
     "https://becomeparents.com/author/gaurav-wankhede/",
+    "https://becomeparents.com/tag/surrogacy-law-india/",
     "https://becomeparents.com/tag/gay-surrogacy-process/",
-    "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/",
+    "https://becomeparents.com/tag/benefits-of-surrogacy-for-gay-couples/",
     "https://becomeparents.com/tag/gay-surrogacy/"
    ],
    "generic": true
@@ -148,24 +148,24 @@
    "label": "Pages with images missing alt text",
    "pages": 187,
    "examples": [
-    "https://becomeparents.com/ivf-in-georgia/",
-    "https://becomeparents.com/surrogacy-laws-in-ukraine/",
-    "https://becomeparents.com/baby-passport/",
-    "https://becomeparents.com/gestational-surrogacy/",
-    "https://becomeparents.com/surrogacy-laws-in-usa/"
+    "https://becomeparents.com/surrogacy-in-uk/",
+    "https://becomeparents.com/gay-surrogacy-in-ukraine/",
+    "https://becomeparents.com/surrogacy-in-cambodia/",
+    "https://becomeparents.com/iui-treatment/",
+    "https://becomeparents.com/baby-passport/"
    ],
    "generic": true
   },
   {
    "id": "broken",
    "label": "Pages returning errors (4xx/5xx)",
-   "pages": 10,
+   "pages": 11,
    "examples": [
-    "https://becomeparents.com/?page_id=6611",
-    "https://becomeparents.com/?page_id=6608",
-    "https://becomeparents.com/ivf-in-kenya/",
     "https://becomeparents.com/?page_id=6613",
-    "https://becomeparents.com/risk-free-surrogacy-contract-all-you-need-to-know-about-it/"
+    "https://becomeparents.com/?page_id=6608",
+    "https://becomeparents.com/?page_id=6611",
+    "https://becomeparents.com/ivf-in-kenya/",
+    "https://becomeparents.com/doctor/test-doctor/"
    ],
    "generic": true
   }
