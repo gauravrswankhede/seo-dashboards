@@ -1,10 +1,10 @@
 {
- "lastRunUtc": "2026-11-04T12:14:03Z",
+ "lastRunUtc": "2026-11-05T00:56:09Z",
  "ok": true,
  "pagesScanned": 369,
  "pagesLive": 359,
  "source": "links",
- "changesThisRun": 0,
+ "changesThisRun": 44,
  "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
@@ -15,10 +15,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-laws-in-canada/",
-    "https://becomeparents.com/contact-us/",
-    "https://becomeparents.com/surrogacy-cost-in-australia/",
-    "https://becomeparents.com/surrogacy-in-georgia/"
+    "https://becomeparents.com/gay-surrogacy/",
+    "https://becomeparents.com/surrogacy-in-argentina/",
+    "https://becomeparents.com/surrogacy-in-thailand/",
+    "https://becomeparents.com/gay-surrogacy-in-bangkok/"
    ]
   },
   {
@@ -28,9 +28,9 @@
    "pages": 8,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/author/admin/",
-    "https://becomeparents.com/blog/page/2/",
     "https://becomeparents.com/category/surrogacy-2/",
+    "https://becomeparents.com/blog/page/2/",
+    "https://becomeparents.com/author/admin/",
     "https://becomeparents.com/right-surrogacy-destination-top-in-2025/"
    ]
   },
@@ -48,10 +48,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-laws-in-canada/",
-    "https://becomeparents.com/contact-us/",
-    "https://becomeparents.com/surrogacy-cost-in-australia/",
-    "https://becomeparents.com/surrogacy-in-georgia/"
+    "https://becomeparents.com/gay-surrogacy/",
+    "https://becomeparents.com/surrogacy-in-argentina/",
+    "https://becomeparents.com/surrogacy-in-thailand/",
+    "https://becomeparents.com/gay-surrogacy-in-bangkok/"
    ]
   },
   {
@@ -61,10 +61,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-laws-in-canada/",
-    "https://becomeparents.com/contact-us/",
-    "https://becomeparents.com/surrogacy-cost-in-australia/",
-    "https://becomeparents.com/surrogacy-in-georgia/"
+    "https://becomeparents.com/gay-surrogacy/",
+    "https://becomeparents.com/surrogacy-in-argentina/",
+    "https://becomeparents.com/surrogacy-in-thailand/",
+    "https://becomeparents.com/gay-surrogacy-in-bangkok/"
    ]
   },
   {
@@ -83,10 +83,10 @@
    "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-laws-in-canada/",
-    "https://becomeparents.com/contact-us/",
-    "https://becomeparents.com/surrogacy-cost-in-australia/",
-    "https://becomeparents.com/surrogacy-in-georgia/"
+    "https://becomeparents.com/gay-surrogacy/",
+    "https://becomeparents.com/surrogacy-in-argentina/",
+    "https://becomeparents.com/surrogacy-in-thailand/",
+    "https://becomeparents.com/gay-surrogacy-in-bangkok/"
    ]
   },
   {
@@ -102,10 +102,10 @@
    "pages": 153,
    "examples": [
     "https://becomeparents.com/category/surrogacy-in-thailand/",
-    "https://becomeparents.com/category/egg-donor/",
+    "https://becomeparents.com/category/surrogacy-in-canada/",
     "https://becomeparents.com/category/surrogate-mother/",
     "https://becomeparents.com/category/surrogacy-in-australia/",
-    "https://becomeparents.com/category/surrogacy-in-canada/"
+    "https://becomeparents.com/category/surrogacy-cost/"
    ],
    "generic": true
   },
@@ -128,11 +128,11 @@
    "label": "Pages set to noindex",
    "pages": 127,
    "examples": [
-    "https://becomeparents.com/tag/surrogacy-laws-california/",
-    "https://becomeparents.com/tag/surrogacy-in-california/",
-    "https://becomeparents.com/tag/surrogacy-for-singles-california/",
+    "https://becomeparents.com/author/gaurav-wankhede/",
+    "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/",
     "https://becomeparents.com/tag/benefits-of-surrogacy-for-gay-couples/",
-    "https://becomeparents.com/tag/surrogacy-for-singles-sydney/"
+    "https://becomeparents.com/tag/gay-surrogacy/",
+    "https://becomeparents.com/tag/gay-surrogacy-process/"
    ],
    "generic": true
   },
@@ -148,11 +148,11 @@
    "label": "Pages with images missing alt text",
    "pages": 187,
    "examples": [
-    "https://becomeparents.com/surrogacy-laws-in-canada/",
+    "https://becomeparents.com/surrogacy-in-argentina/",
+    "https://becomeparents.com/surrogacy-in-russia/",
     "https://becomeparents.com/surrogacy-laws-in-bangkok/",
-    "https://becomeparents.com/surrogate-mothers-in-bangkok/",
-    "https://becomeparents.com/surrogacy-in-china/",
-    "https://becomeparents.com/pgd-for-genetic-screening/"
+    "https://becomeparents.com/find-a-surrogate/",
+    "https://becomeparents.com/surrogate-mother-in-argentina/"
    ],
    "generic": true
   },
@@ -161,10 +161,10 @@
    "label": "Pages returning errors (4xx/5xx)",
    "pages": 10,
    "examples": [
-    "https://becomeparents.com/?page_id=6613",
-    "https://becomeparents.com/?page_id=6611",
     "https://becomeparents.com/ivf-in-kenya/",
+    "https://becomeparents.com/?page_id=6613",
     "https://becomeparents.com/?page_id=6608",
+    "https://becomeparents.com/?page_id=6611",
     "https://becomeparents.com/egg-donation-in-india/"
    ],
    "generic": true
