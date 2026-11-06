@@ -1,36 +1,36 @@
 {
- "lastRunUtc": "2026-11-06T15:58:25Z",
+ "lastRunUtc": "2026-11-06T21:33:50Z",
  "ok": true,
  "pagesScanned": 370,
- "pagesLive": 294,
+ "pagesLive": 359,
  "source": "links",
- "changesThisRun": 68,
- "networkErrors": 68,
+ "changesThisRun": 603,
+ "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
   {
    "id": "yahoo",
    "label": "Old Yahoo email still shown",
    "task": "BP-02",
-   "pages": 285,
+   "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-in-dubai/",
-    "https://becomeparents.com/surrogacy-cost-in-usa/",
-    "https://becomeparents.com/surrogacy-programs-costs/",
-    "https://becomeparents.com/ivf-in-canada/"
+    "https://becomeparents.com/become-a-donor/",
+    "https://becomeparents.com/surrogacy-cost-in-colombia/",
+    "https://becomeparents.com/surrogate-mothers-in-india/",
+    "https://becomeparents.com/ivf-in-georgia/"
    ]
   },
   {
    "id": "success",
    "label": "Unsourced success-rate claim (85\u201390% / highest success rate)",
    "task": "BP-03",
-   "pages": 6,
+   "pages": 8,
    "examples": [
     "https://becomeparents.com/",
     "https://becomeparents.com/category/surrogacy-2/",
+    "https://becomeparents.com/author/admin/",
     "https://becomeparents.com/blog/page/2/",
-    "https://becomeparents.com/right-surrogacy-destination-top-in-2025/",
     "https://becomeparents.com/tag/surrogacy-destinations-in-2025/"
    ]
   },
@@ -45,26 +45,26 @@
    "id": "argentina",
    "label": "Argentina mentioned as a destination",
    "task": "BP-04",
-   "pages": 285,
+   "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-in-dubai/",
-    "https://becomeparents.com/surrogacy-cost-in-usa/",
-    "https://becomeparents.com/surrogacy-programs-costs/",
-    "https://becomeparents.com/ivf-in-canada/"
+    "https://becomeparents.com/become-a-donor/",
+    "https://becomeparents.com/surrogacy-cost-in-colombia/",
+    "https://becomeparents.com/surrogate-mothers-in-india/",
+    "https://becomeparents.com/ivf-in-georgia/"
    ]
   },
   {
    "id": "archive",
    "label": "Links pointing to web.archive.org",
    "task": "BP-05",
-   "pages": 285,
+   "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-in-dubai/",
-    "https://becomeparents.com/surrogacy-cost-in-usa/",
-    "https://becomeparents.com/surrogacy-programs-costs/",
-    "https://becomeparents.com/ivf-in-canada/"
+    "https://becomeparents.com/become-a-donor/",
+    "https://becomeparents.com/surrogacy-cost-in-colombia/",
+    "https://becomeparents.com/surrogate-mothers-in-india/",
+    "https://becomeparents.com/ivf-in-georgia/"
    ]
   },
   {
@@ -80,13 +80,13 @@
    "id": "pageid",
    "label": "Links to ?page_id= URLs",
    "task": "BP-11",
-   "pages": 285,
+   "pages": 359,
    "examples": [
     "https://becomeparents.com/",
-    "https://becomeparents.com/surrogacy-in-dubai/",
-    "https://becomeparents.com/surrogacy-cost-in-usa/",
-    "https://becomeparents.com/surrogacy-programs-costs/",
-    "https://becomeparents.com/ivf-in-canada/"
+    "https://becomeparents.com/become-a-donor/",
+    "https://becomeparents.com/surrogacy-cost-in-colombia/",
+    "https://becomeparents.com/surrogate-mothers-in-india/",
+    "https://becomeparents.com/ivf-in-georgia/"
    ]
   },
   {
@@ -99,13 +99,13 @@
   {
    "id": "no_meta",
    "label": "Pages missing a meta description",
-   "pages": 151,
+   "pages": 153,
    "examples": [
-    "https://becomeparents.com/category/single-parents/",
-    "https://becomeparents.com/category/surrogacy-in-russia/",
-    "https://becomeparents.com/category/surrogacy-in-georgia/",
-    "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/",
-    "https://becomeparents.com/category/surrogacy-agency/"
+    "https://becomeparents.com/category/surrogacy-in-china/",
+    "https://becomeparents.com/category/surrogacy-cost/",
+    "https://becomeparents.com/category/egg-donor/",
+    "https://becomeparents.com/category/ivf-and-fertility-solutions/",
+    "https://becomeparents.com/category/surrogacy-in-canada/"
    ],
    "generic": true
   },
@@ -126,13 +126,13 @@
   {
    "id": "noindex",
    "label": "Pages set to noindex",
-   "pages": 126,
+   "pages": 127,
    "examples": [
-    "https://becomeparents.com/tag/best-countries-for-gay-surrogacy/",
-    "https://becomeparents.com/tag/surrogacy-in-usa/",
-    "https://becomeparents.com/tag/surrogacy-in-australia/",
-    "https://becomeparents.com/tag/surrogacy-for-singles-california/",
-    "https://becomeparents.com/tag/gay-surrogacy-process/"
+    "https://becomeparents.com/author/gaurav-wankhede/",
+    "https://becomeparents.com/tag/ethical-surrogacy/",
+    "https://becomeparents.com/tag/australian-surrogacy-laws/",
+    "https://becomeparents.com/author/drsreelatha/",
+    "https://becomeparents.com/tag/surrogacy-law-india/"
    ],
    "generic": true
   },
@@ -146,26 +146,26 @@
   {
    "id": "alt",
    "label": "Pages with images missing alt text",
-   "pages": 169,
+   "pages": 187,
    "examples": [
-    "https://becomeparents.com/surrogacy-cost-in-usa/",
-    "https://becomeparents.com/about-us/",
+    "https://becomeparents.com/surrogacy-cost-in-colombia/",
+    "https://becomeparents.com/ivf-in-georgia/",
+    "https://becomeparents.com/baby-passport/",
     "https://becomeparents.com/surrogacy-in-germany/",
-    "https://becomeparents.com/international-surrogacy-arrangements/",
-    "https://becomeparents.com/surrogacy-in-france/"
+    "https://becomeparents.com/international-surrogacy-laws/"
    ],
    "generic": true
   },
   {
    "id": "broken",
    "label": "Pages returning errors (4xx/5xx)",
-   "pages": 8,
+   "pages": 11,
    "examples": [
-    "https://becomeparents.com/?page_id=6613",
     "https://becomeparents.com/?page_id=6608",
-    "https://becomeparents.com/importance-of-surrogacy-contracts-in-canada/",
-    "https://becomeparents.com/intended-parents-and-surrogate-agency-communication/",
-    "https://becomeparents.com/few-key-reasons-to-choose-argentina-as-your-next-preferred-surrogacy-destination/"
+    "https://becomeparents.com/?page_id=6613",
+    "https://becomeparents.com/ivf-in-kenya/",
+    "https://becomeparents.com/?page_id=6611",
+    "https://becomeparents.com/doctor/test-doctor/"
    ],
    "generic": true
   }
