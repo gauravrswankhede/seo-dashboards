@@ -1,11 +1,11 @@
 {
- "lastRunUtc": "2026-11-07T20:16:51Z",
+ "lastRunUtc": "2026-11-07T23:42:44Z",
  "ok": true,
  "pagesScanned": 158,
- "pagesLive": 134,
+ "pagesLive": 158,
  "source": "sitemap",
- "changesThisRun": 24,
- "networkErrors": 24,
+ "changesThisRun": 217,
+ "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
   {
@@ -30,26 +30,26 @@
    "id": "yahoo",
    "label": "Old Yahoo email still shown",
    "task": "BS-08",
-   "pages": 134,
+   "pages": 158,
    "examples": [
     "https://bangkoksurrogacy.com/blog/",
     "https://bangkoksurrogacy.com/all-you-need-to-know-about-surrogacy/",
+    "https://bangkoksurrogacy.com/what-help-can-a-surrogacy-agency-offer-post-delivery-for-my-baby/",
     "https://bangkoksurrogacy.com/what-to-do-after-the-embryo-transfer/",
-    "https://bangkoksurrogacy.com/7-reasons-why-you-should-hire-an-attorney-for-your-surrogacy-journey/",
-    "https://bangkoksurrogacy.com/need-to-know-facts-for-an-egg-donor/"
+    "https://bangkoksurrogacy.com/7-reasons-why-you-should-hire-an-attorney-for-your-surrogacy-journey/"
    ]
   },
   {
    "id": "admin",
    "label": "Author shown as 'admin'",
    "task": "BS-09",
-   "pages": 100,
+   "pages": 118,
    "examples": [
     "https://bangkoksurrogacy.com/all-you-need-to-know-about-surrogacy/",
+    "https://bangkoksurrogacy.com/what-help-can-a-surrogacy-agency-offer-post-delivery-for-my-baby/",
     "https://bangkoksurrogacy.com/what-to-do-after-the-embryo-transfer/",
     "https://bangkoksurrogacy.com/7-reasons-why-you-should-hire-an-attorney-for-your-surrogacy-journey/",
-    "https://bangkoksurrogacy.com/need-to-know-facts-for-an-egg-donor/",
-    "https://bangkoksurrogacy.com/how-to-go-ahead-with-single-parent-surrogacy-in-kenya/"
+    "https://bangkoksurrogacy.com/need-to-know-facts-for-an-egg-donor/"
    ]
   },
   {
@@ -62,7 +62,7 @@
   {
    "id": "no_meta",
    "label": "Pages missing a meta description",
-   "pages": 46,
+   "pages": 51,
    "examples": [
     "https://bangkoksurrogacy.com/all-you-need-to-know-about-surrogacy/",
     "https://bangkoksurrogacy.com/what-to-do-after-the-embryo-transfer/",
@@ -75,13 +75,13 @@
   {
    "id": "h1_count",
    "label": "Pages without exactly one H1",
-   "pages": 14,
+   "pages": 18,
    "examples": [
     "https://bangkoksurrogacy.com/",
     "https://bangkoksurrogacy.com/treatments/",
+    "https://bangkoksurrogacy.com/same-sex-parenting/",
     "https://bangkoksurrogacy.com/legal-process/",
-    "https://bangkoksurrogacy.com/ivf-fertility-solutions/",
-    "https://bangkoksurrogacy.com/pgd/"
+    "https://bangkoksurrogacy.com/ivf-fertility-solutions/"
    ],
    "generic": true
   },
@@ -118,13 +118,13 @@
   {
    "id": "alt",
    "label": "Pages with images missing alt text",
-   "pages": 15,
+   "pages": 21,
    "examples": [
+    "https://bangkoksurrogacy.com/what-help-can-a-surrogacy-agency-offer-post-delivery-for-my-baby/",
     "https://bangkoksurrogacy.com/surrogacy-pros-and-cons-for-intended-parents/",
+    "https://bangkoksurrogacy.com/advantages-and-disadvantages-of-surrogacy-in-australia/",
     "https://bangkoksurrogacy.com/know-all-the-benefits-of-surrogacy-for-everybody-involved/",
-    "https://bangkoksurrogacy.com/4-key-factors-to-be-aware-of-while-bringing-an-egg-donor-into-your-ivf-journey/",
-    "https://bangkoksurrogacy.com/points-to-ponder-before-pursuing-surrogacy-in-thailand/",
-    "https://bangkoksurrogacy.com/4-reasons-why-a-legal-attorney-is-a-pre-requisite-for-your-surrogacy-arrangement/"
+    "https://bangkoksurrogacy.com/4-key-factors-to-be-aware-of-while-bringing-an-egg-donor-into-your-ivf-journey/"
    ],
    "generic": true
   },
