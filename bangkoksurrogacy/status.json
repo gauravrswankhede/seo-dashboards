@@ -1,11 +1,11 @@
 {
- "lastRunUtc": "2026-11-11T06:36:37Z",
+ "lastRunUtc": "2026-11-11T22:49:01Z",
  "ok": true,
  "pagesScanned": 158,
- "pagesLive": 158,
+ "pagesLive": 136,
  "source": "sitemap",
- "changesThisRun": 0,
- "networkErrors": 0,
+ "changesThisRun": 22,
+ "networkErrors": 22,
  "intervalHours": 4,
  "checks": [
   {
@@ -30,7 +30,7 @@
    "id": "yahoo",
    "label": "Old Yahoo email still shown",
    "task": "BS-08",
-   "pages": 158,
+   "pages": 136,
    "examples": [
     "https://bangkoksurrogacy.com/blog/",
     "https://bangkoksurrogacy.com/all-you-need-to-know-about-surrogacy/",
@@ -62,7 +62,7 @@
   {
    "id": "no_meta",
    "label": "Pages missing a meta description",
-   "pages": 51,
+   "pages": 49,
    "examples": [
     "https://bangkoksurrogacy.com/all-you-need-to-know-about-surrogacy/",
     "https://bangkoksurrogacy.com/what-to-do-after-the-embryo-transfer/",
@@ -75,7 +75,7 @@
   {
    "id": "h1_count",
    "label": "Pages without exactly one H1",
-   "pages": 18,
+   "pages": 7,
    "examples": [
     "https://bangkoksurrogacy.com/",
     "https://bangkoksurrogacy.com/treatments/",
@@ -88,11 +88,8 @@
   {
    "id": "no_schema",
    "label": "Pages without schema (JSON-LD)",
-   "pages": 2,
-   "examples": [
-    "https://bangkoksurrogacy.com/ourteam/dr-khandwala/",
-    "https://bangkoksurrogacy.com/ourteam/gaurav-wankhede/"
-   ],
+   "pages": 0,
+   "examples": [],
    "generic": true
   },
   {
@@ -105,20 +102,18 @@
   {
    "id": "thin",
    "label": "Thin pages (under 300 words)",
-   "pages": 6,
+   "pages": 3,
    "examples": [
     "https://bangkoksurrogacy.com/gallery/",
     "https://bangkoksurrogacy.com/our-team/",
-    "https://bangkoksurrogacy.com/contact-us/",
-    "https://bangkoksurrogacy.com/ourteam/",
-    "https://bangkoksurrogacy.com/ourteam/dr-khandwala/"
+    "https://bangkoksurrogacy.com/contact-us/"
    ],
    "generic": true
   },
   {
    "id": "alt",
    "label": "Pages with images missing alt text",
-   "pages": 21,
+   "pages": 18,
    "examples": [
     "https://bangkoksurrogacy.com/what-help-can-a-surrogacy-agency-offer-post-delivery-for-my-baby/",
     "https://bangkoksurrogacy.com/surrogacy-pros-and-cons-for-intended-parents/",
