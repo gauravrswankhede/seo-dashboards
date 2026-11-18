@@ -12,7 +12,7 @@
 "WHAT OUR PATIENTS ARE SAYING"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-10-29T14:36:53+00:00",
 "meta_description": "International Surrogacy Agency for single parents, same-sex and married couples. Become Parents guided personally since 2007.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -29,21 +29,37 @@
 "title": "International Surrogacy Agency for Singles & Couples | Become Parents",
 "words": 2774
 },
-"https://becomeparents.com/?page_id=6608": {
-"lastmod": "",
-"status": 404
-},
-"https://becomeparents.com/?page_id=6611": {
-"lastmod": "",
-"status": 404
-},
-"https://becomeparents.com/?page_id=6613": {
-"lastmod": "",
-"status": 404
+"https://becomeparents.com/about-our-surrogate-mother/": {
+"canonical": "https://becomeparents.com/about-our-surrogate-mother/",
+"fingerprint": "4e2e3768447aa6b4",
+"h1": [
+"About Our Surrogates",
+"Surrogate Mother"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Ethical Surrogacy Options in India"
+],
+"img_missing_alt": 0,
+"lastmod": "2022-11-09T11:00:59+00:00",
+"meta_description": "Find surrogate mother in India, Kenya, Argentina, Georgia, Bangkok. We are leading surrogacy mother agency provide best donors in affordable costs.",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [
+"Article",
+"ImageObject",
+"Organization",
+"Person",
+"WebPage",
+"WebSite"
+],
+"status": 200,
+"title": "Best Surrogate mother agency cost in Kenya, Argentina, Georgia, Bangkok, India in 2022",
+"words": 1485
 },
 "https://becomeparents.com/about-us/": {
 "canonical": "https://becomeparents.com/about-us/",
-"fingerprint": "8b417679577a5255",
+"fingerprint": "d01282ddec45e4d9",
 "h1": [
 "About us"
 ],
@@ -56,7 +72,7 @@
 "Come on board with the best surrogacy agency"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-07-26T08:37:53+00:00",
 "meta_description": "Meet Become Parents Group, a family-run ethical surrogacy agency led by Gaurav Wankhede, with accredited clinical partners in Kenya, India & the UAE.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -68,11 +84,11 @@
 ],
 "status": 200,
 "title": "About Become Parents Group | Ethical Surrogacy Agency Since 2007",
-"words": 2853
+"words": 2855
 },
 "https://becomeparents.com/accommodation-and-logistics/": {
 "canonical": "https://becomeparents.com/accommodation-and-logistics/",
-"fingerprint": "ac4f5f45b5c58e00",
+"fingerprint": "9867845da1fa1beb",
 "h1": [
 "How to finalize a new accommodation during a surrogacy process in a foreign country?"
 ],
@@ -82,7 +98,7 @@
 "Accommodation and Logistics Research"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2024-02-14T12:27:47+00:00",
 "meta_description": "Know about accommodation and logistics during your surrogacy process. While realize your parenthood dreams, you have to manage accommodation and logistics",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -96,11 +112,11 @@
 ],
 "status": 200,
 "title": "Accommodation and logistics | Finalize a new accommodation in a foreign country",
-"words": 2297
+"words": 2299
 },
 "https://becomeparents.com/adoption-vs-surrogacy/": {
 "canonical": "https://becomeparents.com/adoption-vs-surrogacy/",
-"fingerprint": "ae7509cddeda148c",
+"fingerprint": "c2dd994949350cf1",
 "h1": [
 "Adoption vs. Surrogacy \u2013which one is better method to realise your parenthood dreams!"
 ],
@@ -110,7 +126,7 @@
 "Adoption vs Surrogacy"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2025-06-16T10:38:42+00:00",
 "meta_description": "Adoption vs Surrogacy- Speaking of cost, surrogacy procedure is more costly than adoption due to a list of treatments and diagnoses.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -124,11 +140,11 @@
 ],
 "status": 200,
 "title": "Adoption vs Surrogacy- Which is better | Become Parents",
-"words": 1703
+"words": 1705
 },
 "https://becomeparents.com/analysis-on-third-party-reproduction/": {
 "canonical": "https://becomeparents.com/analysis-on-third-party-reproduction/",
-"fingerprint": "4d027f25a88b1180",
+"fingerprint": "2fb9518d50456274",
 "h1": [
 "Role of Counseling in Third party reproduction: A Detailed Analysis!"
 ],
@@ -138,7 +154,7 @@
 "Why Counseling is significant in Third party reproduction?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-08-21T07:51:49+00:00",
 "meta_description": "Third party reproduction is treatment that involves the use of eggs, sperm or the uterus from someone other than the intended parent. Know about third-party reproduction and its cost.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -152,7 +168,34 @@
 ],
 "status": 200,
 "title": "A detailed analysis of third-party reproduction and its cost",
-"words": 2536
+"words": 2538
+},
+"https://becomeparents.com/assisted-hatching/": {
+"canonical": "https://becomeparents.com/assisted-hatching/",
+"fingerprint": "9194acac137eee6e",
+"h1": [
+"Assisted Hatching"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Assisted Hatching"
+],
+"img_missing_alt": 0,
+"lastmod": "2026-11-03T14:25:49+00:00",
+"meta_description": "Know about assisted hatching in IVF, including its procedure, benefits, risks and potential success rates. Understand how this technique may support embryo implantation.",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [
+"Article",
+"ImageObject",
+"Organization",
+"Person",
+"WebPage",
+"WebSite"
+],
+"status": 200,
+"title": "Assisted Hatching: Benefits, Procedure & Success Rate",
+"words": 1677
 },
 "https://becomeparents.com/author/admin/": {
 "canonical": "",
@@ -659,7 +702,7 @@
 },
 "https://becomeparents.com/baby-passport/": {
 "canonical": "https://becomeparents.com/baby-passport/",
-"fingerprint": "0921506dc63be2f6",
+"fingerprint": "5270b75a59662219",
 "h1": [
 "Baby Passport"
 ],
@@ -667,8 +710,8 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
 "Managing the surrogacy citizenship and child passport issues!"
 ],
-"img_missing_alt": 7,
-"lastmod": "",
+"img_missing_alt": 8,
+"lastmod": "2026-11-03T14:29:01+00:00",
 "meta_description": "Learn how to obtain a baby passport, including application steps, required documents and citizenship considerations for babies born abroad to intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -682,7 +725,7 @@
 ],
 "status": 200,
 "title": "Baby Passport: Application Process, Documents & Requirements",
-"words": 3103
+"words": 3105
 },
 "https://becomeparents.com/become-a-donor/": {
 "canonical": "https://becomeparents.com/become-a-donor/",
@@ -696,7 +739,7 @@
 "The Process"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T14:40:28+00:00",
 "meta_description": "Interested in become an egg donor? Learn about eligibility criteria, medical screening, donation requirements and the egg donation process.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -711,6 +754,34 @@
 "status": 200,
 "title": "Become an Egg Donor: Eligibility, Requirements & Process",
 "words": 1750
+},
+"https://becomeparents.com/blastocyst/": {
+"canonical": "https://becomeparents.com/blastocyst/",
+"fingerprint": "40b21710193e3a9b",
+"h1": [
+"Blastocyst",
+"Blastocyst Transfer Treatment"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"An IVF treatment is the Way"
+],
+"img_missing_alt": 4,
+"lastmod": "2026-11-03T14:43:21+00:00",
+"meta_description": "Know about blastocyst in IVF, how embryos develop to the blastocyst stage, and understand blastocyst transfer, benefits and success factors.",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [
+"Article",
+"ImageObject",
+"Organization",
+"Person",
+"WebPage",
+"WebSite"
+],
+"status": 200,
+"title": "Blastocyst in IVF: Development, Transfer & Success Rate",
+"words": 1692
 },
 "https://becomeparents.com/blog/": {
 "canonical": "https://becomeparents.com/blog/",
@@ -761,7 +832,7 @@
 "Global Surrogacy Laws in 2025"
 ],
 "img_missing_alt": 20,
-"lastmod": "",
+"lastmod": "2022-11-09T12:29:52+00:00",
 "meta_description": "Our surrogacy blog has surrogacy tips, answers surrogacy questions, helps intended parents, and more! Contact us if you have any queries regarding surrogacy.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -1158,7 +1229,7 @@
 },
 "https://becomeparents.com/breaking-myths-about-international-surrogacy/": {
 "canonical": "https://becomeparents.com/breaking-myths-about-international-surrogacy/",
-"fingerprint": "a80a8def17a118b2",
+"fingerprint": "385b61676b814c48",
 "h1": [
 "Breaking Myths About International Surrogacy: What You Should Know"
 ],
@@ -1168,7 +1239,7 @@
 "Myths about International Surrogacy"
 ],
 "img_missing_alt": 6,
-"lastmod": "",
+"lastmod": "2026-07-24T12:08:20+00:00",
 "meta_description": "Let's expose the reality behind some of the most often held misconceptions about International surrogacy in the following parts of this post. Get informed.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -1182,7 +1253,7 @@
 ],
 "status": 200,
 "title": "Breaking Myths About International Surrogacy: What You Should Know",
-"words": 2373
+"words": 2375
 },
 "https://becomeparents.com/category/egg-donor/": {
 "canonical": "https://becomeparents.com/category/egg-donor/",
@@ -2086,7 +2157,7 @@
 },
 "https://becomeparents.com/common-myths-around-surrogacy/": {
 "canonical": "https://becomeparents.com/common-myths-around-surrogacy/",
-"fingerprint": "66ad1724bcb8c7b3",
+"fingerprint": "9b3af933d21e949f",
 "h1": [
 "Common Myths Around Surrogacy in the USA and Key Tips to Tackle Them!"
 ],
@@ -2096,7 +2167,7 @@
 "Common myths around surrogacy"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-09-18T06:25:37+00:00",
 "meta_description": "Common Myths Around Surrogacy in the USA. It come as a legal, ethical, and emotional way for individuals and couples to realize their dreams of parenthood.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2110,11 +2181,11 @@
 ],
 "status": 200,
 "title": "Common Myths Around Surrogacy in the USA: Key tips",
-"words": 2636
+"words": 2638
 },
 "https://becomeparents.com/contact-us/": {
 "canonical": "https://becomeparents.com/contact-us/",
-"fingerprint": "ebb301ff1704f494",
+"fingerprint": "e52a2ab91c1b1664",
 "h1": [
 "Contact us"
 ],
@@ -2123,7 +2194,7 @@
 "Give us a call today to see how we can help with your surrogacy journey!"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T11:53:57+00:00",
 "meta_description": "Contact Become Parents for IVF and surrogacy guidance. Get in touch with our team for fertility treatment information, consultation support and inquiries.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2135,11 +2206,11 @@
 ],
 "status": 200,
 "title": "Contact Become Parents | IVF & Surrogacy Assistance",
-"words": 1240
+"words": 1242
 },
 "https://becomeparents.com/countries-where-surrogacy-is-allowed-around-the-world-a-clear-friendly-guide-for-intended-parents/": {
 "canonical": "https://becomeparents.com/countries-where-surrogacy-is-allowed-around-the-world-a-clear-friendly-guide-for-intended-parents/",
-"fingerprint": "d15aeaa450bfb255",
+"fingerprint": "4794dadc89c1edd0",
 "h1": [
 "Countries Where Surrogacy Is Allowed Around the World \u2014 A Clear, Friendly Guide for Intended Parents"
 ],
@@ -2149,7 +2220,7 @@
 "Country-by-country breakdown (simple, practical notes)"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2025-11-27T05:52:27+00:00",
 "meta_description": "Surrogacy laws are one of the most changeable areas of family and reproductive law. Rules differ wildly from country to country \u2014 sometimes even within a",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2163,11 +2234,11 @@
 ],
 "status": 200,
 "title": "Countries Where Surrogacy Is Allowed Around the World \u2014 A Clear, Friendly Guide for Intended Parents - Become Parents",
-"words": 2321
+"words": 2323
 },
 "https://becomeparents.com/critical-role-that-governments-can-play/": {
 "canonical": "https://becomeparents.com/critical-role-that-governments-can-play/",
-"fingerprint": "c0063bab2e668a07",
+"fingerprint": "809db41c9e06586e",
 "h1": [
 "How governments worldwide can make surrogacy accessible for everyone around?"
 ],
@@ -2177,7 +2248,7 @@
 "The critical role that governments can play in ensuring ethical surrogacy"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-04-22T07:05:50+00:00",
 "meta_description": "This post examines the critical role that governments can play in ensuring that surrogacy is ethical, equitable, and supportive of all parties involved.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2191,15 +2262,11 @@
 ],
 "status": 200,
 "title": "Critical role that governments can play in ensuring ethical surrogacy",
-"words": 2362
-},
-"https://becomeparents.com/doctor/test-doctor/": {
-"lastmod": "",
-"status": 404
+"words": 2364
 },
 "https://becomeparents.com/egg-donation-in-argentina/": {
 "canonical": "https://becomeparents.com/egg-donation-in-argentina/",
-"fingerprint": "c3c4e62ad6193d62",
+"fingerprint": "bea21af45acc4abd",
 "h1": [
 "Egg Donation in Argentina"
 ],
@@ -2209,7 +2276,7 @@
 "How does egg donation work in Argentina?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T16:02:17+00:00",
 "meta_description": "Explore egg donation in Argentina, including treatment costs, donor requirements, IVF procedures and legal considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2223,7 +2290,7 @@
 ],
 "status": 200,
 "title": "Egg Donation in Argentina: Cost, Process & Requirements",
-"words": 1857
+"words": 1859
 },
 "https://becomeparents.com/egg-donation-in-bangkok/": {
 "canonical": "https://becomeparents.com/egg-donation-in-bangkok/",
@@ -2238,7 +2305,7 @@
 "What regulations apply to the freezing of sperm in Bangkok?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T16:08:01+00:00",
 "meta_description": "Explore egg donation in Bangkok, Thailand, including IVF treatment costs, donor requirements, the donation process and legal considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2256,7 +2323,7 @@
 },
 "https://becomeparents.com/egg-donation-in-colombia/": {
 "canonical": "https://becomeparents.com/egg-donation-in-colombia/",
-"fingerprint": "af5d18753e2212a2",
+"fingerprint": "5a3943e59f59c30f",
 "h1": [
 "Egg Donation in Colombia"
 ],
@@ -2266,7 +2333,7 @@
 "What examinations are done on egg donors in Colombia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T16:13:58+00:00",
 "meta_description": "Explore egg donation in Colombia, including IVF treatment costs, donor requirements, the donation process and legal considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2280,11 +2347,11 @@
 ],
 "status": 200,
 "title": "Egg Donation in Colombia: Cost, Process & Requirements",
-"words": 2069
+"words": 2071
 },
 "https://becomeparents.com/egg-donation-in-georgia/": {
 "canonical": "https://becomeparents.com/egg-donation-in-georgia/",
-"fingerprint": "4c5403f0418fc504",
+"fingerprint": "7a0bd42f356233d4",
 "h1": [
 "Egg Donation in Georgia"
 ],
@@ -2296,7 +2363,7 @@
 "Egg donors at Become Parents"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T16:26:09+00:00",
 "meta_description": "Explore egg donation in Georgia, including IVF costs, donor eligibility, treatment procedures and legal requirements for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2310,15 +2377,11 @@
 ],
 "status": 200,
 "title": "Egg Donation in Georgia: Cost, Process & Requirements",
-"words": 2183
-},
-"https://becomeparents.com/egg-donation-in-india/": {
-"lastmod": "",
-"status": 404
+"words": 2185
 },
 "https://becomeparents.com/egg-donation-in-kenya/": {
 "canonical": "https://becomeparents.com/egg-donation-in-kenya/",
-"fingerprint": "9bb139a53c6cb43e",
+"fingerprint": "81371463f1ce17b6",
 "h1": [
 "Egg donation in Kenya"
 ],
@@ -2327,7 +2390,7 @@
 "What to anticipate if you wish to donate your eggs?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T16:32:12+00:00",
 "meta_description": "Explore egg donation in Kenya, learn about donor selection, IVF treatment options, eligibility criteria and fertility care guidance for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2341,11 +2404,11 @@
 ],
 "status": 200,
 "title": "Egg Donation in Kenya: Donor Programs & IVF Options",
-"words": 2198
+"words": 2200
 },
 "https://becomeparents.com/egg-donation-in-ukraine/": {
 "canonical": "https://becomeparents.com/egg-donation-in-ukraine/",
-"fingerprint": "840965e110b15cda",
+"fingerprint": "c7f48da2d4b5a2cd",
 "h1": [
 "Egg donation in Ukraine"
 ],
@@ -2355,7 +2418,7 @@
 "How does egg donation work in Ukraine?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T16:35:42+00:00",
 "meta_description": "Learn about egg donation in Ukraine, including donor selection, IVF treatment options, eligibility criteria and important guidance for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2369,7 +2432,7 @@
 ],
 "status": 200,
 "title": "Egg Donation in Ukraine - IVF Treatment & Donor Options",
-"words": 1886
+"words": 1888
 },
 "https://becomeparents.com/egg-donation-in-usa/": {
 "canonical": "https://becomeparents.com/egg-donation-in-usa/",
@@ -2383,7 +2446,7 @@
 "What characteristics of an egg donor are crucial?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T16:38:51+00:00",
 "meta_description": "Discover egg donation in the USA, including donor programs, screening procedures, IVF treatment options and essential information for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2401,7 +2464,7 @@
 },
 "https://becomeparents.com/egg-donor-2/": {
 "canonical": "https://becomeparents.com/egg-donor-2/",
-"fingerprint": "34d66586fc290242",
+"fingerprint": "d55a4bf2a16f42a6",
 "h1": [
 "Egg donation"
 ],
@@ -2411,7 +2474,7 @@
 "Why should you opt services of a good Egg donor agency?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T11:49:19+00:00",
 "meta_description": "Best Egg Donor agency. Egg donation process & cost in Argentina, Georgia, Bangkok, Kenya, India. Egg Donation is a good option for all who might not able to fertilize their own eggs.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2425,11 +2488,11 @@
 ],
 "status": 200,
 "title": "Egg Donor agency, Egg Donation- process, cost, agencies 2022",
-"words": 1645
+"words": 1647
 },
 "https://becomeparents.com/egg-donor-in-australia/": {
 "canonical": "https://becomeparents.com/egg-donor-in-australia/",
-"fingerprint": "f5a24ba68c0fe64a",
+"fingerprint": "75273079ccc28f08",
 "h1": [
 "Egg Donor in Australia"
 ],
@@ -2438,7 +2501,7 @@
 "Who can become an egg donor in Australia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T16:55:22+00:00",
 "meta_description": "Know about egg donation costs in Australia, donor eligibility, screening, expense reimbursements and legal requirements for becoming an egg donor.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2452,11 +2515,11 @@
 ],
 "status": 200,
 "title": "Egg Donor in Australia: Donation Costs & Requirements",
-"words": 2107
+"words": 2109
 },
 "https://becomeparents.com/egg-donor-in-canada/": {
 "canonical": "https://becomeparents.com/egg-donor-in-canada/",
-"fingerprint": "0dd3e14a51932a05",
+"fingerprint": "09c8b5d915f39f3d",
 "h1": [
 "Egg Donor in Canada"
 ],
@@ -2466,7 +2529,7 @@
 "Who can become an egg donor in Canada?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T17:00:01+00:00",
 "meta_description": "Looking for the best egg donation agency in Canada? Explore donor options, the egg donation process, costs, eligibility and support for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2480,11 +2543,11 @@
 ],
 "status": 200,
 "title": "Egg Donor in Canada - Cost, Process & Best Agency",
-"words": 2037
+"words": 2039
 },
 "https://becomeparents.com/egg-donor-in-russia/": {
 "canonical": "https://becomeparents.com/egg-donor-in-russia/",
-"fingerprint": "ef0982633017a194",
+"fingerprint": "002f7aea14f9ea28",
 "h1": [
 "Egg Donor in Russia"
 ],
@@ -2494,7 +2557,7 @@
 "Understanding the concept of egg donation in Russia!"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-03T17:03:08+00:00",
 "meta_description": "We offer Egg donor in Russia. Become Parents is a leading egg donor agency offering Surrogacy with Donor eggs, own eggs, fertility treatment for Russian patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2508,11 +2571,11 @@
 ],
 "status": 200,
 "title": "Egg Donor in Russia, Best Egg Donation agency - Using Donor Eggs in Russia",
-"words": 2024
+"words": 2026
 },
 "https://becomeparents.com/egg-donor-in-uk/": {
 "canonical": "https://becomeparents.com/egg-donor-in-uk/",
-"fingerprint": "073108ef0b6a0cf3",
+"fingerprint": "371199c9f46ecab8",
 "h1": [
 "Egg Donor in UK"
 ],
@@ -2522,7 +2585,7 @@
 "Who is eligible to donate eggs in UK?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-04T14:03:38+00:00",
 "meta_description": "Looking for an egg donor in the UK? Explore donor agencies, eligibility, the egg donation process and costs, including UK donor compensation rules.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2536,7 +2599,7 @@
 ],
 "status": 200,
 "title": "Egg Donor in UK - Best Agency, Process & Donation Cost",
-"words": 2371
+"words": 2373
 },
 "https://becomeparents.com/egg-donor/": {
 "canonical": "https://becomeparents.com/egg-donor-2/",
@@ -2568,7 +2631,7 @@
 },
 "https://becomeparents.com/eligiblity-to-become-surrogate-mother-in-canada/": {
 "canonical": "https://becomeparents.com/eligiblity-to-become-surrogate-mother-in-canada/",
-"fingerprint": "615dddb4de705d83",
+"fingerprint": "6c9918491b6af0bd",
 "h1": [
 "Who is Eligible to become a Surrogate Mother in Canada?"
 ],
@@ -2578,7 +2641,7 @@
 "What you must know about surrogacy in Canada?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2022-12-06T12:15:21+00:00",
 "meta_description": "Being a surrogate mother in Canada may require you to fulfill a list of pre-defined conditions and aspects.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2592,11 +2655,11 @@
 ],
 "status": 200,
 "title": "Eligiblity to become a surrogate mother in Canada",
-"words": 1791
+"words": 1793
 },
 "https://becomeparents.com/emotional-and-ethical-aspects-of-surrogacy/": {
 "canonical": "https://becomeparents.com/emotional-and-ethical-aspects-of-surrogacy/",
-"fingerprint": "ae0a5d3e12fe2946",
+"fingerprint": "f3c60f7dc8b39029",
 "h1": [
 "Emotional and Ethical Dimensions of Surrogacy"
 ],
@@ -2606,7 +2669,7 @@
 "Emotional and Ethical Aspects of Surrogacy"
 ],
 "img_missing_alt": 6,
-"lastmod": "",
+"lastmod": "2026-07-24T11:53:02+00:00",
 "meta_description": "Delve into the emotional and ethical aspects of surrogacy in 2025. Understand the experiences of surrogates and intended parents. Explore surrounding practices.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2620,11 +2683,11 @@
 ],
 "status": 200,
 "title": "Emotional and Ethical Aspects of Surrogacy: A Comprehensive Overview",
-"words": 2272
+"words": 2274
 },
 "https://becomeparents.com/enjoying-those-small-moments-matters/": {
 "canonical": "https://becomeparents.com/enjoying-those-small-moments-matters/",
-"fingerprint": "74bb0a5489b2fa20",
+"fingerprint": "be9146a425e50c76",
 "h1": [
 "Why enjoying those small moments is equally important during your surrogacy journey?"
 ],
@@ -2634,7 +2697,7 @@
 "Why savouring these little moments matters so much"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2025-06-16T10:55:41+00:00",
 "meta_description": "In this Article, Here's a closer look at why savouring these little moments matters so much and how to make the most of each stage of the surrogacy process.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2648,11 +2711,11 @@
 ],
 "status": 200,
 "title": "Why savouring little moments matters so much during surrogacy",
-"words": 2297
+"words": 2299
 },
 "https://becomeparents.com/enrollment-process/": {
 "canonical": "https://becomeparents.com/enrollment-process/",
-"fingerprint": "2cc7edc727bb2189",
+"fingerprint": "b13fd13d372ae385",
 "h1": [
 "Enrollment Process"
 ],
@@ -2662,7 +2725,7 @@
 "Discover the procedure of Enrollment process beneath:"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-24T06:56:03+00:00",
 "meta_description": "Know about Enrollment process for intended parents. Complete our intended parent application form to begin your journey to parenthood.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2676,11 +2739,11 @@
 ],
 "status": 200,
 "title": "Enrollment process for surrogacy, Intended Parent application, immigration in 2022",
-"words": 1677
+"words": 1679
 },
 "https://becomeparents.com/faq/": {
 "canonical": "https://becomeparents.com/faq/",
-"fingerprint": "99b5c85d2cca47fb",
+"fingerprint": "8f40b0810dd87c3f",
 "h1": [
 "FAQ"
 ],
@@ -2690,7 +2753,7 @@
 "Surrogacy FAQ"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T14:04:27+00:00",
 "meta_description": "Find answers related to surrogacy, Surrogacy FAQ about agencies, clinics, egg donor process, fertility centers & IVF treatment.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2704,11 +2767,7 @@
 ],
 "status": 200,
 "title": "Surrogacy FAQ for intended parents, egg donors and surrogates, Your best guide",
-"words": 2934
-},
-"https://becomeparents.com/few-key-reasons-to-choose-argentina-as-your-next-preferred-surrogacy-destination/": {
-"lastmod": "",
-"status": 404
+"words": 2936
 },
 "https://becomeparents.com/find-a-surrogate/": {
 "canonical": "https://becomeparents.com/find-a-surrogate/",
@@ -2722,7 +2781,7 @@
 "Tips to find a Surrogate Mother"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-04T14:06:03+00:00",
 "meta_description": "Surrogate Compensation, fees & cost vary from country to country. Our agency/clinic connects surrogate mothers to IPs through surrogacy. Find a surrogate mother for you.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2740,7 +2799,7 @@
 },
 "https://becomeparents.com/gaurav-wankhede/": {
 "canonical": "https://becomeparents.com/gaurav-wankhede/",
-"fingerprint": "4d57cf1e980c8736",
+"fingerprint": "81af119e3f70678c",
 "h1": [
 "Founder: Gaurav Wankhede"
 ],
@@ -2750,7 +2809,7 @@
 "Gaurav Wankhede"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2026-11-04T14:09:06+00:00",
 "meta_description": "Meet Gaurav Wankhede, Founder and Director of Become Parents. Discover his journey, leadership and experience in international IVF, egg donation and surrogacy services.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2764,7 +2823,7 @@
 ],
 "status": 200,
 "title": "Gaurav Wankhede: Founder & Director of Become Parents",
-"words": 1784
+"words": 1786
 },
 "https://becomeparents.com/gay-surrogacy-3/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-3/",
@@ -2779,7 +2838,7 @@
 "Options for Women: Bangkok Surrogacy offers Donor Sperm with or without surrogacy."
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T11:17:18+00:00",
 "meta_description": "We are a surrogacy agency providing gay surrogacy, surrogacy for same-sex, LGBT in Thailand, India, Kenya, Argentina, and Georgia.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2807,7 +2866,7 @@
 "Gay Surrogacy Cost in Argentina"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T14:14:41+00:00",
 "meta_description": "Explore gay surrogacy in Argentina, including options for same-sex couples, egg donation, surrogate matching, the process, costs and legal considerations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2825,7 +2884,7 @@
 },
 "https://becomeparents.com/gay-surrogacy-in-australia/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-australia/",
-"fingerprint": "f49a22f7dba744d8",
+"fingerprint": "1acf5973723e82d5",
 "h1": [
 "Gay Surrogacy in Australia"
 ],
@@ -2836,7 +2895,7 @@
 "How much is the cost of gay surrogacy in Australia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T14:21:02+00:00",
 "meta_description": "Explore gay surrogacy in Australia, including options for male same-sex couples, eligibility, altruistic surrogacy, legal requirements and parenthood guidance.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2850,7 +2909,7 @@
 ],
 "status": 200,
 "title": "Gay Surrogacy in Australia - Process, Laws & Options",
-"words": 2213
+"words": 2215
 },
 "https://becomeparents.com/gay-surrogacy-in-bangkok/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-bangkok/",
@@ -2864,7 +2923,7 @@
 "Best Alternatives to Gay Surrogacy in Thailand"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T14:35:40+00:00",
 "meta_description": "Know about gay surrogacy in Bangkok, Thailand, including current legal restrictions, eligibility for same-sex couples and alternative destinations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2882,7 +2941,7 @@
 },
 "https://becomeparents.com/gay-surrogacy-in-canada/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-canada/",
-"fingerprint": "9eb0b8bc45213ba3",
+"fingerprint": "4e775dce60b57fe3",
 "h1": [
 "Gay Surrogacy in Canada"
 ],
@@ -2892,7 +2951,7 @@
 "How to go about surrogacy for gay couples in Canada?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T14:39:33+00:00",
 "meta_description": "Explore gay surrogacy in Canada, including options for same-sex couples, altruistic surrogacy laws, eligibility, the process and legal parentage.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2906,11 +2965,11 @@
 ],
 "status": 200,
 "title": "Gay Surrogacy in Canada - Laws, Process & Parentage",
-"words": 2036
+"words": 2038
 },
 "https://becomeparents.com/gay-surrogacy-in-colombia/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-colombia/",
-"fingerprint": "4ec4a02611cae8bf",
+"fingerprint": "a101c29ad95bb440",
 "h1": [
 "Gay Surrogacy in Colombia"
 ],
@@ -2920,7 +2979,7 @@
 "Legal considerations during Gay surrogacy process in Colombia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T15:35:13+00:00",
 "meta_description": "Explore gay surrogacy in Colombia, including options for same-sex couples, the legal framework, eligibility, parentage and important considerations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2934,11 +2993,11 @@
 ],
 "status": 200,
 "title": "Gay Surrogacy in Colombia - Laws, Process & Options",
-"words": 2285
+"words": 2287
 },
 "https://becomeparents.com/gay-surrogacy-in-georgia/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-georgia/",
-"fingerprint": "80688d5cfdcaba1e",
+"fingerprint": "a07704428f0e46d5",
 "h1": [
 "Gay Surrogacy in Georgia"
 ],
@@ -2948,7 +3007,7 @@
 "Is it legal to pursue Gay surrogacy in Georgia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T15:37:21+00:00",
 "meta_description": "Know about gay surrogacy in Georgia, including legal restrictions for same-sex couples, eligibility rules and alternative surrogacy destinations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2962,11 +3021,11 @@
 ],
 "status": 200,
 "title": "Gay Surrogacy in Georgia - Laws, Eligibility & Options",
-"words": 1991
+"words": 1993
 },
 "https://becomeparents.com/gay-surrogacy-in-kenya/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-kenya/",
-"fingerprint": "39ad72146624385e",
+"fingerprint": "4ddca740695d1501",
 "h1": [
 "Gay Surrogacy in Kenya"
 ],
@@ -2977,7 +3036,7 @@
 "Is Gay Surrogacy in Kenya legal?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T15:43:07+00:00",
 "meta_description": "Understand gay surrogacy in Kenya, including the evolving legal framework, restrictions for same-sex couples, parentage concerns and alternatives.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -2991,7 +3050,7 @@
 ],
 "status": 200,
 "title": "Gay Surrogacy in Kenya - A Guide for LGBTQ+ Intended Parents",
-"words": 2442
+"words": 2444
 },
 "https://becomeparents.com/gay-surrogacy-in-russia/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-russia/",
@@ -3005,7 +3064,7 @@
 "How to proceed with Gay Surrogacy in Russia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T15:45:54+00:00",
 "meta_description": "Explore gay surrogacy in Russia, including legal restrictions, eligibility rules for intended parents and alternative family-building options.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3023,7 +3082,7 @@
 },
 "https://becomeparents.com/gay-surrogacy-in-uk/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-uk/",
-"fingerprint": "0c0f6538393874a4",
+"fingerprint": "498e6780181a0a73",
 "h1": [
 "Gay Surrogacy in UK"
 ],
@@ -3032,7 +3091,7 @@
 "Legal considerations regarding Gay Surrogacy in UK"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-04T16:06:28+00:00",
 "meta_description": "Discover gay surrogacy in UK, including options for male same-sex couples, altruistic surrogacy, eligibility requirements and parental rights.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3046,7 +3105,7 @@
 ],
 "status": 200,
 "title": "Gay Surrogacy in UK - A Guide for Same-Sex Couples",
-"words": 2162
+"words": 2164
 },
 "https://becomeparents.com/gay-surrogacy-in-ukraine/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-ukraine/",
@@ -3059,7 +3118,7 @@
 "What do surrogacy laws in Ukraine say about it?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-04T16:09:19+00:00",
 "meta_description": "Explore gay surrogacy in Ukraine, including eligibility restrictions, current legal rules, challenges for same-sex couples and alternative destinations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3077,7 +3136,7 @@
 },
 "https://becomeparents.com/gay-surrogacy-in-usa-2/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-usa-2/",
-"fingerprint": "307ad3f72e272d35",
+"fingerprint": "fc43c2983a968e35",
 "h1": [
 "Gay surrogacy in USA"
 ],
@@ -3087,7 +3146,7 @@
 "Process of Surrogacy for Same Sex in USA"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-09T17:25:56+00:00",
 "meta_description": "Discover gay surrogacy in USA, including IVF with donor eggs, surrogate matching, eligibility requirements and legal parentage",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3101,7 +3160,7 @@
 ],
 "status": 200,
 "title": "Gay Surrogacy in USA: Options for Same-Sex Couples",
-"words": 3919
+"words": 3921
 },
 "https://becomeparents.com/gay-surrogacy-in-usa/": {
 "canonical": "https://becomeparents.com/gay-surrogacy-in-usa-2/",
@@ -3172,7 +3231,7 @@
 "Gestational surrogacy"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-09-18T06:25:50+00:00",
 "meta_description": "Can surrogate can carry a child created from somebody else's egg. Well, the best answer to this question is -yes, it\u2019s usually called gestational surrogacy.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3190,7 +3249,7 @@
 },
 "https://becomeparents.com/gestational-surrogacy/": {
 "canonical": "https://becomeparents.com/gestational-surrogacy/",
-"fingerprint": "c09417bc5f5af6f3",
+"fingerprint": "d225cc5a1c156d39",
 "h1": [
 "Gestational Surrogacy"
 ],
@@ -3199,7 +3258,7 @@
 "Surrogacy and how much Gestational surrogacy costs"
 ],
 "img_missing_alt": 8,
-"lastmod": "",
+"lastmod": "2026-11-09T17:19:50+00:00",
 "meta_description": "Learn how gestational surrogacy works, including the IVF process, embryo transfer, surrogate requirements, benefits and legal considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3213,11 +3272,11 @@
 ],
 "status": 200,
 "title": "Gestational Surrogacy: IVF Process, Benefits & Guide",
-"words": 1770
+"words": 1772
 },
 "https://becomeparents.com/global-challenges-regarding-traditions/": {
 "canonical": "https://becomeparents.com/global-challenges-regarding-traditions/",
-"fingerprint": "6f07832dd6daefa2",
+"fingerprint": "3a94b3ed29f118ad",
 "h1": [
 "How Surrogacy is dealing with global challenges regarding traditions and culture?"
 ],
@@ -3230,7 +3289,7 @@
 "How Traditions Affect Surrogacy Acceptance?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2025-06-16T11:26:35+00:00",
 "meta_description": "This post will look at how surrogacy is seen in many countries and cultures, the global challenges resulting from these viewpoints.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3244,11 +3303,11 @@
 ],
 "status": 200,
 "title": "How Surrogacy is dealing with global challenges regarding traditions and culture?",
-"words": 2484
+"words": 2486
 },
 "https://becomeparents.com/hope-in-georgia-through-surrogacy/": {
 "canonical": "https://becomeparents.com/hope-in-georgia-through-surrogacy/",
-"fingerprint": "d49ba3a4d839e912",
+"fingerprint": "7a682180f4c14d00",
 "h1": [
 "Surrogacy in Georgia: How to start your journey in the right manner?"
 ],
@@ -3258,7 +3317,7 @@
 "Hope in Georgia through surrogacy"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-07-24T11:27:59+00:00",
 "meta_description": "Georgia through surrogacy is a desirable country for intended parents. Here are some essential pointers to get you started on this path with clarity and confidence.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3272,7 +3331,7 @@
 ],
 "status": 200,
 "title": "Hope in Georgia through surrogacy: Surrogacy laws and medical facilities",
-"words": 2418
+"words": 2420
 },
 "https://becomeparents.com/how-impactful-are-surrogacy-laws-in-stopping-illegal-practices/": {
 "canonical": "https://becomeparents.com/how-impactful-are-surrogacy-laws-in-stopping-illegal-practices/",
@@ -3285,8 +3344,8 @@
 "How Impactful Are Surrogacy Laws in Stopping Illegal Surrogacy Practices Around the World?",
 "Why is surrogacy regulated around the world?"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2024-10-22T13:11:09+00:00",
 "meta_description": "Many nations have instituted laws to counteract these practices, but how successful are these surrogacy laws in reducing illegal surrogacy globally? Let\u2019s find out.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3302,13 +3361,9 @@
 "title": "How Impactful Are Surrogacy Laws in Stopping Illegal Surrogacy Practices?",
 "words": 2472
 },
-"https://becomeparents.com/how-is-surrogacy-the-best-option-to-become-parents-for-childless-couples/": {
-"lastmod": "",
-"status": 404
-},
 "https://becomeparents.com/how-to-deal-with-legal-and-ethical-issues-in-international-surrogacy/": {
 "canonical": "https://becomeparents.com/how-to-deal-with-legal-and-ethical-issues-in-international-surrogacy/",
-"fingerprint": "e89ebe9575e0488f",
+"fingerprint": "44c3423fa71dac3a",
 "h1": [
 "How to Deal Effectively with Legal and Ethical Issues in International Surrogacy?"
 ],
@@ -3318,7 +3373,7 @@
 "How to Handle Ethical Issues in International Surrogacy"
 ],
 "img_missing_alt": 6,
-"lastmod": "",
+"lastmod": "2025-03-11T08:53:57+00:00",
 "meta_description": "How to Deal with Legal and Ethical Issues in International Surrogacy? Let us discuss how to handle these complications gradually.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3332,11 +3387,11 @@
 ],
 "status": 200,
 "title": "How to Deal with Legal and Ethical Issues in International Surrogacy?",
-"words": 2490
+"words": 2492
 },
 "https://becomeparents.com/how-to-find-best-asian-egg-donors/": {
 "canonical": "https://becomeparents.com/how-to-find-best-asian-egg-donors/",
-"fingerprint": "a8a857edced8f56e",
+"fingerprint": "46629516baaede80",
 "h1": [
 "Asian Egg donors: Why they are so in demand and how to find the best one for your surrogacy journey?"
 ],
@@ -3346,7 +3401,7 @@
 "How to find an Asian egg donor?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-08-21T07:52:04+00:00",
 "meta_description": "Know why Asian egg donors are so in demand and how to further locate the best Asian egg donor for your respective surrogacy journey. Find Asian egg donors quickly through our surrogacy agency.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3360,11 +3415,11 @@
 ],
 "status": 200,
 "title": "How to find best Asian egg donors, Asian Egg donation Bank",
-"words": 2514
+"words": 2516
 },
 "https://becomeparents.com/how-to-guide-your-child-about-a-new-sibling/": {
 "canonical": "https://becomeparents.com/how-to-guide-your-child-about-a-new-sibling/",
-"fingerprint": "534ba9019436cecd",
+"fingerprint": "d885841b88d3a71f",
 "h1": [
 "Helping Children Adjust to a New Sibling After Surrogacy: A Comprehensive Guide"
 ],
@@ -3374,7 +3429,7 @@
 "How to guide your child about the surrogacy decision"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2025-06-16T11:18:12+00:00",
 "meta_description": "Learn How to guide your child to adjust to a new sibling after surrogacy. Tips on preparing children for surrogacy, and offering emotional support.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3388,11 +3443,11 @@
 ],
 "status": 200,
 "title": "How to guide your child about a New Sibling After Surrogacy",
-"words": 2376
+"words": 2378
 },
 "https://becomeparents.com/how-to-inform-your-family-about-your-decision/": {
 "canonical": "https://becomeparents.com/how-to-inform-your-family-about-your-decision/",
-"fingerprint": "5a26ef9b9b43a4bf",
+"fingerprint": "d0ea1c13a58513b7",
 "h1": [
 "How to Inform Your Family About Your Decision to Pursue Surrogacy?"
 ],
@@ -3402,7 +3457,7 @@
 "How to inform your family about your decision"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2024-08-20T16:16:54+00:00",
 "meta_description": "How to inform your family about your decision? With careful preparation and careful communication, though, you can present your decision at right manner.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3416,11 +3471,11 @@
 ],
 "status": 200,
 "title": "How to inform your family about your decision",
-"words": 2398
+"words": 2400
 },
 "https://becomeparents.com/how-to-plan-surrogacy-in-georgia/": {
 "canonical": "https://becomeparents.com/how-to-plan-surrogacy-in-georgia/",
-"fingerprint": "55d60bdd6c7452b4",
+"fingerprint": "b4897a3636b3c1d6",
 "h1": [
 "Day Wise Planning of Your Surrogacy Journey in Georgia!"
 ],
@@ -3430,7 +3485,7 @@
 "Planning up your Surrogacy Journey in Georgia"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2023-06-20T10:15:35+00:00",
 "meta_description": "We are the best surrogacy agency in Georgia, provides comprehensive surrogacy and donation options in Georgia. Know how to plan your surrogacy journey.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3444,11 +3499,11 @@
 ],
 "status": 200,
 "title": "Best surrogacy agency in Georgia, Day wise planning for surrogacy journey in Georgia",
-"words": 2290
+"words": 2292
 },
 "https://becomeparents.com/how-to-plan-your-surrogacy-journey-in-russia/": {
 "canonical": "https://becomeparents.com/how-to-plan-your-surrogacy-journey-in-russia/",
-"fingerprint": "ae893f2ffeecda54",
+"fingerprint": "c60d4e41c4c4a72f",
 "h1": [
 "Step-by-step process to plan your surrogacy journey in Russia!"
 ],
@@ -3458,7 +3513,7 @@
 "Kickstarting your surrogacy journey in Russia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-07-19T12:48:23+00:00",
 "meta_description": "In this blog, we will lay out a step-by-step plan for you to follow as you start your surrogacy journey in Russia. Surrogacy in Russia for International intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3472,15 +3527,11 @@
 ],
 "status": 200,
 "title": "Start your surrogacy journey in Russia, best clinics cost and surrogacy laws",
-"words": 2154
-},
-"https://becomeparents.com/importance-of-surrogacy-contracts-in-canada/": {
-"lastmod": "",
-"status": 404
+"words": 2156
 },
 "https://becomeparents.com/influence-of-digital-platforms-on-surrogacy/": {
 "canonical": "https://becomeparents.com/influence-of-digital-platforms-on-surrogacy/",
-"fingerprint": "19a4b4f3a9e362e4",
+"fingerprint": "d50f9523921f1024",
 "h1": [
 "The Influence of Digital and Social Media on Surrogacy Arrangements"
 ],
@@ -3490,7 +3541,7 @@
 "How do Digital platforms come as a source of information for many?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2024-01-16T12:56:53+00:00",
 "meta_description": "Know about the Influence of Digital Platforms on Surrogacy, how digital and social media platforms affect public view and decision-making in surrogacy.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3504,11 +3555,7 @@
 ],
 "status": 200,
 "title": "Best Guide to the Influence of Digital Platforms on Surrogacy arrangements",
-"words": 2242
-},
-"https://becomeparents.com/intended-parents-and-surrogate-agency-communication/": {
-"lastmod": "",
-"status": 404
+"words": 2244
 },
 "https://becomeparents.com/international-surrogacy-arrangements/": {
 "canonical": "https://becomeparents.com/international-surrogacy-arrangements/",
@@ -3522,7 +3569,7 @@
 "Global Surrogacy Agency"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-09T17:18:10+00:00",
 "meta_description": "Understand international surrogacy arrangements, including choosing a destination, surrogate coordination, legal documentation, parentage and travel requirements.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3540,7 +3587,7 @@
 },
 "https://becomeparents.com/international-surrogacy-for-australian-families/": {
 "canonical": "https://becomeparents.com/international-surrogacy-for-australian-families/",
-"fingerprint": "928d89168280bbe7",
+"fingerprint": "7b02a211a5494587",
 "h1": [
 "Listing the Key Advantages and Disadvantages of Overseas Surrogacy for Australian Families!"
 ],
@@ -3550,7 +3597,7 @@
 "Why do Australian couples may have to choose International surrogacy?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2025-03-12T05:54:50+00:00",
 "meta_description": "A simple yet complete guide to help you navigate to the international surrogacy for Australian families. Altruistic surrogacy is legal across Australia.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3564,11 +3611,11 @@
 ],
 "status": 200,
 "title": "Best International surrogacy for Australian families- Going overseas",
-"words": 2197
+"words": 2199
 },
 "https://becomeparents.com/international-surrogacy-in-the-uk/": {
 "canonical": "https://becomeparents.com/international-surrogacy-in-the-uk/",
-"fingerprint": "87e137fbbd1fd72e",
+"fingerprint": "54f064e4d10cc561",
 "h1": [
 "Why are intended parents in the UK opting for alternatives like Georgia?"
 ],
@@ -3578,7 +3625,7 @@
 "Developing inclination for International surrogacy in the UK"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-03-18T10:06:46+00:00",
 "meta_description": "This post investigates the reasons behind developing inclination for international surrogacy in the UK impacted by legal, monetary, and other considerations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3592,11 +3639,11 @@
 ],
 "status": 200,
 "title": "International surrogacy in the UK & the reasons behind this inclination",
-"words": 2287
+"words": 2289
 },
 "https://becomeparents.com/international-surrogacy-laws/": {
 "canonical": "https://becomeparents.com/international-surrogacy-laws/",
-"fingerprint": "d104fb5fdf02044b",
+"fingerprint": "89c852b3d7b3178e",
 "h1": [
 "International Surrogacy Laws"
 ],
@@ -3607,7 +3654,7 @@
 "Surrogacy laws in other Countries"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-09T17:15:23+00:00",
 "meta_description": "Explore international surrogacy laws across different countries, including legal requirements, eligibility, commercial surrogacy rules and parental rights.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3621,7 +3668,7 @@
 ],
 "status": 200,
 "title": "International Surrogacy Laws: Country-Wise Legal Guide",
-"words": 3658
+"words": 3660
 },
 "https://becomeparents.com/iui-treatment/": {
 "canonical": "https://becomeparents.com/iui-treatment/",
@@ -3633,8 +3680,8 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
 "IUI Treatment"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2026-11-10T08:10:09+00:00",
 "meta_description": "Know about IUI treatment, including the procedure, preparation, cost, success rates, benefits and possible risks of intrauterine insemination.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3661,7 +3708,7 @@
 "IVF Treatment and Fertility Solutions"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T08:16:27+00:00",
 "meta_description": "Explore IVF treatment and fertility solutions, including ICSI, genetic testing, embryo freezing, FET and assisted hatching to understand available treatment options.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3679,7 +3726,7 @@
 },
 "https://becomeparents.com/ivf-in-argentina/": {
 "canonical": "https://becomeparents.com/ivf-in-argentina/",
-"fingerprint": "dbb34b8a7577f00c",
+"fingerprint": "a7ef08b0e6fab857",
 "h1": [
 "IVF in Argentina"
 ],
@@ -3691,7 +3738,7 @@
 "Success rates of IVF in Argentina!"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T08:19:44+00:00",
 "meta_description": "Explore IVF in Argentina, including fertility treatment options, costs, success factors, eligibility and important information for international patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3705,11 +3752,11 @@
 ],
 "status": 200,
 "title": "IVF in Argentina: Treatment Options, Cost & Success Rate",
-"words": 2232
+"words": 2234
 },
 "https://becomeparents.com/ivf-in-australia/": {
 "canonical": "https://becomeparents.com/ivf-in-australia/",
-"fingerprint": "9c227e159f9e327d",
+"fingerprint": "7ed999834dd004b4",
 "h1": [
 "IVF in Australia"
 ],
@@ -3717,7 +3764,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T08:34:48+00:00",
 "meta_description": "Explore IVF in Australia, including treatment steps, fertility clinic options, costs, donor sperm options and important information for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3731,11 +3778,11 @@
 ],
 "status": 200,
 "title": "IVF in Australia: Treatment Process, Cost & Clinic Options",
-"words": 1990
+"words": 1992
 },
 "https://becomeparents.com/ivf-in-bangkok/": {
 "canonical": "https://becomeparents.com/ivf-in-bangkok/",
-"fingerprint": "f7ad44ca52d4a378",
+"fingerprint": "60e5597b8ac18012",
 "h1": [
 "IVF in Bangkok"
 ],
@@ -3748,7 +3795,7 @@
 "Legal Implications related to IVF in Bangkok"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T08:37:41+00:00",
 "meta_description": "Explore IVF in Bangkok, including treatment procedures, costs, success factors, eligibility requirements and essential guidance for international patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3762,7 +3809,7 @@
 ],
 "status": 200,
 "title": "IVF in Bangkok: Cost, Treatment Process & Success Rates",
-"words": 2113
+"words": 2115
 },
 "https://becomeparents.com/ivf-in-canada/": {
 "canonical": "https://becomeparents.com/ivf-in-canada/",
@@ -3776,7 +3823,7 @@
 "How much IVF treatment cost in Canada?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T08:40:02+00:00",
 "meta_description": "Explore IVF in Canada, including treatment costs, fertility clinics, provincial funding programs, eligibility requirements and options for international patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3794,7 +3841,7 @@
 },
 "https://becomeparents.com/ivf-in-colombia/": {
 "canonical": "https://becomeparents.com/ivf-in-colombia/",
-"fingerprint": "e8eb565464d336f2",
+"fingerprint": "449aeb4b62b36e20",
 "h1": [
 "IVF in Colombia"
 ],
@@ -3802,7 +3849,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T08:46:19+00:00",
 "meta_description": "Explore IVF in Colombia, including fertility treatment options, clinic costs, donor egg programs, eligibility and guidance for international patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3816,11 +3863,11 @@
 ],
 "status": 200,
 "title": "IVF in Colombia: Treatment Options, Costs & Clinics",
-"words": 2053
+"words": 2055
 },
 "https://becomeparents.com/ivf-in-georgia/": {
 "canonical": "https://becomeparents.com/ivf-in-georgia/",
-"fingerprint": "f96e8d05a8685b14",
+"fingerprint": "9cb65dc35227b157",
 "h1": [
 "IVF in Georgia"
 ],
@@ -3830,7 +3877,7 @@
 "IVF treatment cost in Georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T08:49:18+00:00",
 "meta_description": "Explore IVF in Georgia, including treatment procedures, clinic options, costs, donor egg and sperm programs, and guidance for international patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3844,15 +3891,15 @@
 ],
 "status": 200,
 "title": "IVF in Georgia: Clinics, Costs & Treatment Options",
-"words": 1929
+"words": 1931
 },
 "https://becomeparents.com/ivf-in-kenya/": {
-"lastmod": "",
+"lastmod": "2026-11-10T08:52:20+00:00",
 "status": 500
 },
 "https://becomeparents.com/ivf-in-russia/": {
 "canonical": "https://becomeparents.com/ivf-in-russia/",
-"fingerprint": "df4e94e60ba72628",
+"fingerprint": "c1a406670fc8c254",
 "h1": [
 "IVF in Russia"
 ],
@@ -3861,7 +3908,7 @@
 "Is IVF legal in Russia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T09:01:02+00:00",
 "meta_description": "Explore IVF in Russia, including treatment procedures, fertility clinic options, costs, donor programs, success factors and guidance for international patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3875,7 +3922,7 @@
 ],
 "status": 200,
 "title": "IVF in Russia: Treatment Options, Cost & Clinics",
-"words": 2074
+"words": 2076
 },
 "https://becomeparents.com/ivf-in-uk/": {
 "canonical": "https://becomeparents.com/ivf-in-uk/",
@@ -3887,7 +3934,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T09:04:11+00:00",
 "meta_description": "Know about IVF in the UK, including treatment stages, costs, success rates, NHS funding eligibility and private fertility clinic options.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3905,7 +3952,7 @@
 },
 "https://becomeparents.com/ivf-in-ukraine/": {
 "canonical": "https://becomeparents.com/ivf-in-ukraine/",
-"fingerprint": "54bb0826597d6aff",
+"fingerprint": "0424d9301fabebe3",
 "h1": [
 "IVF in Ukraine"
 ],
@@ -3915,7 +3962,7 @@
 "How to go about IVF in Ukraine?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T09:06:27+00:00",
 "meta_description": "Discover IVF in Ukraine, including treatment options, fertility clinic services, costs, egg donation, eligibility and guidance for international patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3929,7 +3976,7 @@
 ],
 "status": 200,
 "title": "IVF in Ukraine: Costs, Clinics & Treatment Options",
-"words": 1822
+"words": 1824
 },
 "https://becomeparents.com/ivf-in-usa/": {
 "canonical": "https://becomeparents.com/ivf-in-usa/",
@@ -3943,7 +3990,7 @@
 "How much is IVF treatment cost in USA?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T15:14:35+00:00",
 "meta_description": "Explore IVF in USA, including treatment procedures, fertility clinic options, costs, success rates, donor programs and guidance for international patients.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3971,7 +4018,7 @@
 "Key points that have to be addressed in a surrogacy contract"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2024-07-17T10:54:43+00:00",
 "meta_description": "In this post, we will discuss the key points ensuring that all parties understand their rights, obligations, and expectations depends on a well-drafted surrogacy contract.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -3989,7 +4036,7 @@
 },
 "https://becomeparents.com/language-barriers-during-international-surrogacy/": {
 "canonical": "https://becomeparents.com/language-barriers-during-international-surrogacy/",
-"fingerprint": "069ca9b95b65d8ad",
+"fingerprint": "31924049dd1c5051",
 "h1": [
 "Language barriers during International surrogacy: How to deal with them"
 ],
@@ -3999,7 +4046,7 @@
 "How to deal with Language barriers during International Surrogacy"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-04-22T07:06:10+00:00",
 "meta_description": "Throught the post, These all-inclusive methods can help break down Language barriers during International surrogacy and make the process more seamless.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4013,11 +4060,11 @@
 ],
 "status": 200,
 "title": "Language barriers during International Surrogacy",
-"words": 2340
+"words": 2342
 },
 "https://becomeparents.com/manage-the-surrogate-compensation/": {
 "canonical": "https://becomeparents.com/manage-the-surrogate-compensation/",
-"fingerprint": "69469c6cefa3f37a",
+"fingerprint": "c8ac1d4771bbca27",
 "h1": [
 "How to manage the surrogate compensation effectively during the surrogacy process"
 ],
@@ -4027,7 +4074,7 @@
 "Dealing with the challenges of financial considerations"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2024-01-17T05:49:38+00:00",
 "meta_description": "Know how you can manage the surrogate compensation effectively. As you think of paying the surrogate mothers, take care of the ethical concerns first.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4041,7 +4088,7 @@
 ],
 "status": 200,
 "title": "How to manage the surrogate compensation effectively?",
-"words": 2249
+"words": 2251
 },
 "https://becomeparents.com/medical-history/": {
 "canonical": "https://becomeparents.com/medical-history/",
@@ -4054,7 +4101,7 @@
 "Medical History"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T15:16:37+00:00",
 "meta_description": "Understand the medical history required for IVF and surrogacy, including fertility reports, previous treatments, health records and essential evaluations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4072,7 +4119,7 @@
 },
 "https://becomeparents.com/mental-fitness-during-the-surrogacy-journey/": {
 "canonical": "https://becomeparents.com/mental-fitness-during-the-surrogacy-journey/",
-"fingerprint": "9cfba4a8681d3ef5",
+"fingerprint": "24937179ec0573cb",
 "h1": [
 "How to Keep yourself Mentally fit and motivated during the surrogacy journey?"
 ],
@@ -4082,7 +4129,7 @@
 "Mental fitness during the surrogacy Journey"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-03-18T10:40:50+00:00",
 "meta_description": "Mental fitness during the surrogacy journey and keeping yourself focused and fit is significant for everyone involved. Here are a few key tips to help you.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4096,11 +4143,11 @@
 ],
 "status": 200,
 "title": "Mental fitness during the surrogacy | How to keep focused & calm",
-"words": 2356
+"words": 2358
 },
 "https://becomeparents.com/mutual-association-among-intended-parents-and-surrogate/": {
 "canonical": "https://becomeparents.com/mutual-association-among-intended-parents-and-surrogate/",
-"fingerprint": "fe34e42cbdf83311",
+"fingerprint": "535cc38e8e8a0f04",
 "h1": [
 "How Mutual Association among Intended Parents and Surrogate Holds the Key to Surrogacy Success?"
 ],
@@ -4110,7 +4157,7 @@
 "Mutual relationship between Intended Parents and Surrogate"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-07-22T06:53:02+00:00",
 "meta_description": "Here we will look at the reasons of mutual relationship among Intended Parents and Surrogate is so important and how it helps surrogacy be generally successful.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4124,11 +4171,11 @@
 ],
 "status": 200,
 "title": "Mutual Association among Intended Parents and Surrogate Holds the Key to Success",
-"words": 2266
+"words": 2268
 },
 "https://becomeparents.com/name-on-the-birth-certificate/": {
 "canonical": "https://becomeparents.com/name-on-the-birth-certificate/",
-"fingerprint": "0c3ecdf17dc56f57",
+"fingerprint": "51d8c15602a0f381",
 "h1": [
 "Name on the Birth Certificate"
 ],
@@ -4137,7 +4184,7 @@
 "Name on the Birth Certificate"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T15:18:56+00:00",
 "meta_description": "Know whose names appear on a birth certificate after surrogacy, how intended parents establish legal parentage and what documents may be required.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4151,11 +4198,11 @@
 ],
 "status": 200,
 "title": "Birth Certificate After Surrogacy: Parent Names & Rules",
-"words": 1076
+"words": 1078
 },
 "https://becomeparents.com/navigating-global-surrogacy-laws-in-2025/": {
 "canonical": "https://becomeparents.com/navigating-global-surrogacy-laws-in-2025/",
-"fingerprint": "74871b5a4d0b5c3d",
+"fingerprint": "93595eb4918111ee",
 "h1": [
 "Navigating Global Surrogacy Laws in 2025: A Comprehensive Guide for Intended Parents"
 ],
@@ -4165,7 +4212,7 @@
 "Global Surrogacy Laws in 2025"
 ],
 "img_missing_alt": 6,
-"lastmod": "",
+"lastmod": "2026-07-24T11:47:21+00:00",
 "meta_description": "Global Surrogacy Laws in 2025. This comprehensive guide explores these changes and provides insights for intended parents navigating the complex world of global surrogacy.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4179,11 +4226,11 @@
 ],
 "status": 200,
 "title": "Navigating Global Surrogacy Laws in 2025: A Comprehensive Guide",
-"words": 1834
+"words": 1836
 },
 "https://becomeparents.com/pgd-for-genetic-screening/": {
 "canonical": "https://becomeparents.com/pgd-for-genetic-screening/",
-"fingerprint": "9aeca871fbb018a1",
+"fingerprint": "5cdc49fb462d3ffd",
 "h1": [
 "PGD for Genetic Screening"
 ],
@@ -4192,7 +4239,7 @@
 "Pre-implantation Genetic Diagnosis (PGD treatment)"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-10T15:23:26+00:00",
 "meta_description": "Know about PGD and PGT in IVF, including embryo genetic testing, PGT-A, PGT-M, PGT-SR, the testing process, benefits and limitations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4206,7 +4253,7 @@
 ],
 "status": 200,
 "title": "PGD for Genetic Screening - PGT in IVF Explained",
-"words": 1633
+"words": 1635
 },
 "https://becomeparents.com/positive-and-negative-aspects-of-surrogate-parenthood/": {
 "canonical": "https://becomeparents.com/positive-and-negative-aspects-of-surrogate-parenthood/",
@@ -4220,7 +4267,7 @@
 "Positive Aspects of surrogate parenthood"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-07-19T12:53:51+00:00",
 "meta_description": "Surrogate parenthood has surely brought the most awaited blessing in the lives of numerous couples and individuals around the world. Choose a right surrogacy agency.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4248,7 +4295,7 @@
 "Post-Surrogacy Concerns"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2025-03-11T08:51:09+00:00",
 "meta_description": "That said, this post will look at some of the main concerns intended parents experience during surrogacy and post-surrogacy and go over ways to get beyond them.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4266,7 +4313,7 @@
 },
 "https://becomeparents.com/pre-birth-orders-and-post-birth-orders/": {
 "canonical": "https://becomeparents.com/pre-birth-orders-and-post-birth-orders/",
-"fingerprint": "f2970659ca68598e",
+"fingerprint": "2b54d774460f87c3",
 "h1": [
 "The Importance of Pre-birth and Post-birth Orders in Surrogacy"
 ],
@@ -4275,8 +4322,8 @@
 "The Importance of Pre-birth and Post-birth Orders in Surrogacy",
 "Understanding pre-birth orders and post-birth orders!"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2023-10-18T05:57:10+00:00",
 "meta_description": "Foremost significant legal procedures in surrogacy journey are the pre-birth orders and post-birth orders. The rights and obligations of everybody included.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4290,7 +4337,7 @@
 ],
 "status": 200,
 "title": "Best guide on importance of pre-birth orders and post-birth orders",
-"words": 2529
+"words": 2531
 },
 "https://becomeparents.com/process-and-success-rates/": {
 "canonical": "https://becomeparents.com/process-and-success-rates/",
@@ -4304,7 +4351,7 @@
 "Rules for donating eggs"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T15:29:09+00:00",
 "meta_description": "Explore the surrogacy process, IVF stages and factors affecting success rates, including embryo quality, age, medical history and pregnancy outcomes.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4350,7 +4397,7 @@
 },
 "https://becomeparents.com/psychological-challenges-during-surrogacy/": {
 "canonical": "https://becomeparents.com/psychological-challenges-during-surrogacy/",
-"fingerprint": "58778fd627ad4d68",
+"fingerprint": "d66cd7159c20bde8",
 "h1": [
 "What kind of psychological challenges are faced by intended parents during surrogacy?"
 ],
@@ -4359,8 +4406,8 @@
 "What kind of psychological challenges are faced by intended parents during surrogacy?",
 "What kind of psychological challenges during surrogacy the intended parents may face?"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2026-07-24T07:51:27+00:00",
 "meta_description": "what are the psychological challenges during surrogacy for Intended Parents? Yet, this may be a bit complicated for both the surrogate and the intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4374,7 +4421,7 @@
 ],
 "status": 200,
 "title": "Know the Psychological challenges during surrogacy for Intended Parents",
-"words": 2324
+"words": 2326
 },
 "https://becomeparents.com/questions-to-ask-from-a-surrogate-on-your-first-meeting-as-an-intended-parent/": {
 "canonical": "https://becomeparents.com/questions-to-ask-from-a-surrogate/",
@@ -4406,7 +4453,7 @@
 },
 "https://becomeparents.com/questions-to-ask-from-a-surrogate/": {
 "canonical": "https://becomeparents.com/questions-to-ask-from-a-surrogate/",
-"fingerprint": "66a0167c428ddf8f",
+"fingerprint": "ef19acc13568ab08",
 "h1": [
 "Questions to ask from a Surrogate on your first meeting as an intended parent!"
 ],
@@ -4415,8 +4462,8 @@
 "Questions to ask from a Surrogate on your first meeting as an intended parent!",
 "Key questions to ask from a surrogate during the first meeting?"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2023-11-20T08:33:21+00:00",
 "meta_description": "This blog dives into the key questions to ask from a surrogate by intended parents during their first meeting, outlined with real-time illustrations for understanding.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4430,11 +4477,11 @@
 ],
 "status": 200,
 "title": "What are the key questions to ask from a surrogate during the first meeting?",
-"words": 2276
+"words": 2278
 },
 "https://becomeparents.com/right-surrogacy-destination-top-in-2025/": {
 "canonical": "https://becomeparents.com/right-surrogacy-destination-top-in-2025/",
-"fingerprint": "7d835242303d8d0c",
+"fingerprint": "973913501c5a1c7c",
 "h1": [
 "Choosing the Right Surrogacy Destination: Top Countries for Intended Parents in 2025"
 ],
@@ -4445,8 +4492,8 @@
 "Top Surrogacy Destinations for 2025",
 "FAQs: Choosing a Surrogacy Destination"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2026-07-24T11:36:33+00:00",
 "meta_description": "Discover the best Surrogacy Destinations for 2025, including legal factors, cost, and medical infrastructure. Learn how Become Parents supports your journey globally.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4460,15 +4507,11 @@
 ],
 "status": 200,
 "title": "Top Surrogacy Destinations for 2025 | International Surrogacy Guide",
-"words": 2145
-},
-"https://becomeparents.com/risk-free-surrogacy-contract-all-you-need-to-know-about-it/": {
-"lastmod": "",
-"status": 404
+"words": 2147
 },
 "https://becomeparents.com/role-of-a-legal-counselor/": {
 "canonical": "https://becomeparents.com/role-of-a-legal-counselor/",
-"fingerprint": "64f53c69c93f4565",
+"fingerprint": "0bee4f6035027457",
 "h1": [
 "Overviewing the Role of a Legal Counselor in a Surrogacy Program"
 ],
@@ -4477,8 +4520,8 @@
 "Overviewing the Role of a Legal Counselor in a Surrogacy Program",
 "The crucial role that a Legal Counselor"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2026-07-24T07:40:16+00:00",
 "meta_description": "Safeguard the rights and duties of all included parties is the role of a legal Counselor. Crucial role that a legal counsellor plays within the surrogacy program.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4492,7 +4535,7 @@
 ],
 "status": 200,
 "title": "Legal Counselor role in a Surrogacy Program | Best guide to surrogacy counselling",
-"words": 2525
+"words": 2527
 },
 "https://becomeparents.com/role-of-a-legal-professional-is-quite-critical/": {
 "canonical": "https://becomeparents.com/role-of-a-legal-professional-is-quite-critical/",
@@ -4506,8 +4549,8 @@
 "The role of a legal professional",
 "How to select the right attorney?"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2024-06-19T11:36:50+00:00",
 "meta_description": "Starting a surrogacy journey requires establishing a relationship with the appropriate legal counsel and that's why the role of a legal professional is quite critical.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4525,7 +4568,7 @@
 },
 "https://becomeparents.com/same-sex-surrogacy-in-thailand/": {
 "canonical": "https://becomeparents.com/same-sex-surrogacy-in-thailand/",
-"fingerprint": "f8e0d982c8b72a71",
+"fingerprint": "3c2a053767f3590a",
 "h1": [
 "Surrogacy in Thailand: Why there is so much uncertainty around it?"
 ],
@@ -4534,8 +4577,8 @@
 "Surrogacy in Thailand: Why there is so much uncertainty around it?",
 "How Thailand once served as a perfect surrogacy hub for many?"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2023-06-20T10:15:17+00:00",
 "meta_description": "Know about same-sex surrogacy in Thailand. As Same-sex marriage is not recognized in Thailand, we provide options for LGBT friendly surrogacy in Thailand.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4549,7 +4592,7 @@
 ],
 "status": 200,
 "title": "Best options for same-sex surrogacy in Thailand, cost and process",
-"words": 2414
+"words": 2416
 },
 "https://becomeparents.com/services-and-amenties-for-international-patients/": {
 "canonical": "https://becomeparents.com/services-and-amenties-for-international-patients/",
@@ -4562,7 +4605,7 @@
 "Services and Amenities for International Patients"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T10:30:58+00:00",
 "meta_description": "Best services and amenities for International Patients. Our IVF and surrogacy department is well equipped worldwide and expertise to ensure maximum success.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4580,7 +4623,7 @@
 },
 "https://becomeparents.com/single-parent-surrogacy-in-india-current-laws-global-options-how-become-parents-can-help/": {
 "canonical": "https://becomeparents.com/single-parent-surrogacy-in-india-current-laws-global-options-how-become-parents-can-help/",
-"fingerprint": "fa9e34a14b6822eb",
+"fingerprint": "8de2abc5f940d945",
 "h1": [
 "Single Parent Surrogacy in India: Current Laws, Global Options & How Become Parents Can Help"
 ],
@@ -4593,7 +4636,7 @@
 "Start Your Parenthood Journey with Become Parents"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-06T07:48:04+00:00",
 "meta_description": "Navigate Single parent surrogacy in India. Explore legal restrictions, top international options, and discover how Become Parents guides your journey.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4607,11 +4650,38 @@
 ],
 "status": 200,
 "title": "Single Parent Surrogacy: India Laws & Global Paths",
-"words": 2063
+"words": 2065
+},
+"https://becomeparents.com/single-parent-surrogacy/": {
+"canonical": "https://becomeparents.com/single-parent-surrogacy/",
+"fingerprint": "f4a311a8749594e8",
+"h1": [
+"Single parent surrogacy"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Understanding the single parent Surrogacy laws worldwide"
+],
+"img_missing_alt": 0,
+"lastmod": "2026-11-10T15:38:36+00:00",
+"meta_description": "Explore single parent surrogacy options for men and women, including eligibility, legal requirements, donor options and international surrogacy pathways.",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [
+"Article",
+"ImageObject",
+"Organization",
+"Person",
+"WebPage",
+"WebSite"
+],
+"status": 200,
+"title": "Single Parent Surrogacy - Options, Laws & Eligibility",
+"words": 2241
 },
 "https://becomeparents.com/societys-perspective-on-surrogacy/": {
 "canonical": "https://becomeparents.com/societys-perspective-on-surrogacy/",
-"fingerprint": "40d2c2cf07fcb75f",
+"fingerprint": "7389a2b42cad30bc",
 "h1": [
 "What Role Does Society Have to Play in Surrogacy?"
 ],
@@ -4620,8 +4690,8 @@
 "What Role Does Society Have to Play in Surrogacy?",
 "Society\u2019s Perspective on Surrogacy"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2025-06-16T11:30:40+00:00",
 "meta_description": "Society\u2019s perspective on Surrogacy- This blog navigating the challenging terrain of surrogacy depends largely on this awareness around the world.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4635,11 +4705,11 @@
 ],
 "status": 200,
 "title": "Society\u2019s perspective on Surrogacy | Role of society in surrogacy",
-"words": 2401
+"words": 2403
 },
 "https://becomeparents.com/start-surrogacy-being-a-single-mother-at-40/": {
 "canonical": "https://becomeparents.com/start-surrogacy-being-a-single-mother-at-40/",
-"fingerprint": "93eb725a2e857014",
+"fingerprint": "24ffacaa32b1ba8f",
 "h1": [
 "How to kick start your surrogacy journey being a single mother at 40?"
 ],
@@ -4649,7 +4719,7 @@
 "Surrogacy for Singles"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-06-20T10:09:33+00:00",
 "meta_description": "Surrogacy is a way of building a family for both single mums and single dads. Know about everthing about surrogacy for singles worldwide.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4663,11 +4733,11 @@
 ],
 "status": 200,
 "title": "Best guide to surrogacy for singles in Argentina, USA and worldwide",
-"words": 2417
+"words": 2419
 },
 "https://becomeparents.com/step-by-step-surrogacy-process-in-thailand-a-complete-guide-for-intended-parents/": {
 "canonical": "https://becomeparents.com/step-by-step-surrogacy-process-in-thailand-a-complete-guide-for-intended-parents/",
-"fingerprint": "f8bb663633a47bbf",
+"fingerprint": "04e17589b953ce7f",
 "h1": [
 "Step-by-Step Surrogacy Process in Thailand: A Complete Guide for Intended Parents"
 ],
@@ -4678,7 +4748,7 @@
 "Step-by-Step Surrogacy Process"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-06-28T15:29:34+00:00",
 "meta_description": "Surrogacy has become a trusted pathway to parenthood for couples, singles, and LGBTQ+ families worldwide. Whether you are exploring a surrogacy center in",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4692,11 +4762,11 @@
 ],
 "status": 200,
 "title": "Step-by-Step Surrogacy Process in Thailand: A Complete Guide for Intended Parents - Become Parents",
-"words": 2534
+"words": 2536
 },
 "https://becomeparents.com/studying-the-impact-of-surrogacy-on-the-surrogate-mothers-health/": {
 "canonical": "https://becomeparents.com/studying-the-impact-of-surrogacy-on-the-surrogate-mothers-health/",
-"fingerprint": "880a095745c72eca",
+"fingerprint": "49078faa5e0d5921",
 "h1": [
 "Studying the Impact of Surrogacy on the Surrogate Mother\u2019s Health: A Detailed Perspective"
 ],
@@ -4705,8 +4775,8 @@
 "Studying the Impact of Surrogacy on the Surrogate Mother\u2019s Health: A Detailed Perspective",
 "Impact of Surrogacy on the Surrogate Mother\u2019s Health"
 ],
-"img_missing_alt": 5,
-"lastmod": "",
+"img_missing_alt": 6,
+"lastmod": "2024-11-19T11:37:13+00:00",
 "meta_description": "Let's discuss the impact of surrogacy on the Surrogate Mother\u2019s health and how well managed surrogacy might improve surrogate mothers' general quality of living and health.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4720,11 +4790,38 @@
 ],
 "status": 200,
 "title": "Studying the Impact of Surrogacy on the Surrogate Mother\u2019s Health",
-"words": 2418
+"words": 2420
+},
+"https://becomeparents.com/surrogacy-agency-in-kenya/": {
+"canonical": "https://becomeparents.com/surrogacy-agency-in-kenya/",
+"fingerprint": "a3e76bae0ed4b6e1",
+"h1": [
+"All about surrogacy in Kenya"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Surrogacy agency in Kenya"
+],
+"img_missing_alt": 0,
+"lastmod": "2026-11-03T14:22:28+00:00",
+"meta_description": "Looking for a surrogacy agency in Kenya? Become Parents offers ethical surrogacy guidance, IVF coordination, legal assistance and personalized support for intended parents.",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [
+"Article",
+"ImageObject",
+"Organization",
+"Person",
+"WebPage",
+"WebSite"
+],
+"status": 200,
+"title": "Surrogacy Agency in Kenya: Ethical IVF & Surrogacy Support",
+"words": 2717
 },
 "https://becomeparents.com/surrogacy-and-climate-change/": {
 "canonical": "https://becomeparents.com/surrogacy-and-climate-change/",
-"fingerprint": "a22e13d468cc5906",
+"fingerprint": "d6451caaaee3a0c2",
 "h1": [
 "Surrogacy and Climate change: is there an interconnection of any sort?"
 ],
@@ -4734,7 +4831,7 @@
 "Exploring the Connect Between Surrogacy and Climate Change"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2024-01-16T12:19:13+00:00",
 "meta_description": "Explore the connection between surrogacy and climate change. Health complications are possibly driving a rise in surrogacy as a way of family building.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4748,11 +4845,11 @@
 ],
 "status": 200,
 "title": "Surrogacy and Climate Change: Exploring the Connect Between these two",
-"words": 2243
+"words": 2245
 },
 "https://becomeparents.com/surrogacy-and-co-parenting-for-gay-men/": {
 "canonical": "https://becomeparents.com/surrogacy-and-co-parenting-for-gay-men/",
-"fingerprint": "6ab964613cbd67a8",
+"fingerprint": "f97c7f3dc671f299",
 "h1": [
 "Surrogacy and Co-Parenting for Gay Men"
 ],
@@ -4761,8 +4858,8 @@
 "Surrogacy and Co-Parenting for Gay Men",
 "Co-parenting for Gay Men"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2025-06-13T12:29:29+00:00",
 "meta_description": "Co-parenting for Gay Men refers to a parenting situation in which two or, adults share the responsibilities of parenting a child(s).",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4776,11 +4873,11 @@
 ],
 "status": 200,
 "title": "Surrogacy and Co-parenting for Gay Men | Become Parent",
-"words": 1822
+"words": 1824
 },
 "https://becomeparents.com/surrogacy-clinic-in-california/": {
 "canonical": "https://becomeparents.com/surrogacy-clinic-in-california/",
-"fingerprint": "f955aa2913be5e50",
+"fingerprint": "caff191171cf5465",
 "h1": [
 "Surrogacy in USA: A Complete Guide to Modern Parenthood in California and Beyond"
 ],
@@ -4794,7 +4891,7 @@
 "Surrogacy for Singles in California: Embracing Solo Parenthood"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T11:16:17+00:00",
 "meta_description": "Explore surrogacy in the USA with a focus on California. Learn about same sex surrogacy, single parent options, legal process, and top surrogacy clinic in California.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4808,11 +4905,11 @@
 ],
 "status": 200,
 "title": "Surrogacy in USA, Cost, Law & Surrogacy clinic in California",
-"words": 2636
+"words": 2638
 },
 "https://becomeparents.com/surrogacy-clinic-in-sydney/": {
 "canonical": "https://becomeparents.com/surrogacy-clinic-in-sydney/",
-"fingerprint": "9d9eedce0592f63f",
+"fingerprint": "95573e83bbd1bf3c",
 "h1": [
 "Understanding Surrogacy in Sydney, Australia"
 ],
@@ -4826,7 +4923,7 @@
 "Understanding Surrogacy Cost in Sydney"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2025-10-12T12:32:19+00:00",
 "meta_description": "Discover how surrogacy in Australia works. Learn about the legal process, best surrogacy agency in Sydney, cost and options for singles & same-sex couples.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4840,11 +4937,11 @@
 ],
 "status": 200,
 "title": "Surrogacy in Australia | Process, Cost & Clinic in Sydney",
-"words": 2266
+"words": 2268
 },
 "https://becomeparents.com/surrogacy-cost-around-the-world/": {
 "canonical": "https://becomeparents.com/surrogacy-cost-around-the-world/",
-"fingerprint": "1ae8088c8a5aa471",
+"fingerprint": "7fb760ac8a81897d",
 "h1": [
 "Surrogacy Cost Around the World \u2014 Country-by-Country Guide"
 ],
@@ -4854,7 +4951,7 @@
 "Country-by-Country Surrogacy Cost"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-06-28T15:28:59+00:00",
 "meta_description": "Thinking about surrogacy? One of the first (and biggest) questions intended parents ask is: how much will it cost?\u00a0Surrogacy costs vary enormously depending",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4868,7 +4965,7 @@
 ],
 "status": 200,
 "title": "Surrogacy Cost Around the World \u2014 Country-by-Country Guide - Become Parents",
-"words": 2353
+"words": 2355
 },
 "https://becomeparents.com/surrogacy-cost-in-argentina/": {
 "canonical": "https://becomeparents.com/surrogacy-cost-in-argentina/",
@@ -4884,7 +4981,7 @@
 "How much surrogacy cost in Argentina?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T15:42:27+00:00",
 "meta_description": "Explore surrogacy costs in Argentina, including IVF treatment, egg donation, surrogate expenses, legal fees, medical care and package inclusions.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4902,7 +4999,7 @@
 },
 "https://becomeparents.com/surrogacy-cost-in-australia/": {
 "canonical": "https://becomeparents.com/surrogacy-cost-in-australia/",
-"fingerprint": "166537776c37da6a",
+"fingerprint": "9b7d0409231c0e07",
 "h1": [
 "Surrogacy Cost in Australia"
 ],
@@ -4927,7 +5024,7 @@
 "Frequently Asked Questions about Surrogacy Cost in Australia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-10-08T14:35:58+00:00",
 "meta_description": "Discover the Surrogacy Cost in Australia for intended parents, including IVF, donor eggs, legal fees, counselling, pregnancy expenses and other costs.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4941,7 +5038,7 @@
 ],
 "status": 200,
 "title": "Surrogacy Cost in Australia - Essential Guide for Intended Parents in 2026",
-"words": 4027
+"words": 4029
 },
 "https://becomeparents.com/surrogacy-cost-in-bangkok/": {
 "canonical": "https://becomeparents.com/surrogacy-cost-in-bangkok/",
@@ -4957,7 +5054,7 @@
 "How we can help?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T16:01:48+00:00",
 "meta_description": "Understand surrogacy cost in Bangkok, Thailand, including historical price estimates, legal restrictions, medical expenses and alternative destinations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -4999,7 +5096,7 @@
 "Frequently Asked Questions About Surrogacy Cost in Canada"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-10-06T11:36:39+00:00",
 "meta_description": "We are a leading Surrogacy agency offering the best and most affordable surrogacy in Canada. The average surrogacy cost in Canada is $85000.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5025,7 +5122,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-10T16:04:20+00:00",
 "meta_description": "Explore surrogacy costs in Colombia, including IVF, egg donation, surrogate care, legal fees, medical expenses and package inclusions.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5043,7 +5140,7 @@
 },
 "https://becomeparents.com/surrogacy-cost-in-georgia/": {
 "canonical": "https://becomeparents.com/surrogacy-cost-in-georgia/",
-"fingerprint": "4a968173700e0698",
+"fingerprint": "43438ad64e94672d",
 "h1": [
 "Surrogacy Cost in Georgia"
 ],
@@ -5066,7 +5163,7 @@
 "Frequently Asked Questions About Surrogacy Cost in Georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-10-19T17:06:00+00:00",
 "meta_description": "Discover Surrogacy Cost in Georgia, including IVF costs, cost of a donor egg, costs of surrogate mothers, surrogate parenting programs and surrogacy lawyers.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5080,11 +5177,11 @@
 ],
 "status": 200,
 "title": "Surrogacy Cost in Georgia - Ultimate 2026 Price Guide",
-"words": 4496
+"words": 4498
 },
 "https://becomeparents.com/surrogacy-cost-in-india/": {
 "canonical": "https://becomeparents.com/surrogacy-cost-in-india/",
-"fingerprint": "93850d01c4d1e21a",
+"fingerprint": "351dcac66f9e49d4",
 "h1": [
 "Surrogacy Cost in India"
 ],
@@ -5103,7 +5200,7 @@
 "Frequently Asked Questions About Surrogacy Cost in India"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-10-13T15:54:52+00:00",
 "meta_description": "Explore surrogacy cost in India in 2026, including IVF expenses, packages, surrogate medical costs, insurance, legal requirements and budgeting tips.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5117,11 +5214,11 @@
 ],
 "status": 200,
 "title": "Surrogacy Cost in India 2026: Complete Price Guide",
-"words": 3467
+"words": 3469
 },
 "https://becomeparents.com/surrogacy-cost-in-kenya/": {
 "canonical": "https://becomeparents.com/surrogacy-cost-in-kenya/",
-"fingerprint": "035b4a8dd90ddce7",
+"fingerprint": "4fa0da7679a26749",
 "h1": [
 "Surrogacy Cost in Kenya"
 ],
@@ -5145,7 +5242,7 @@
 "Frequently Asked Questions About Surrogacy Cost in Kenya"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-09-06T18:00:53+00:00",
 "meta_description": "Get surrogacy cost in Kenya, including IVF, surrogate mother expenses, packages, donor egg surrogacy, legal costs and estimated total cost.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5159,7 +5256,7 @@
 ],
 "status": 200,
 "title": "Surrogacy Cost in Kenya - Complete 2026 Cost Guide",
-"words": 4760
+"words": 4762
 },
 "https://becomeparents.com/surrogacy-cost-in-russia/": {
 "canonical": "https://becomeparents.com/surrogacy-cost-in-russia/",
@@ -5172,7 +5269,7 @@
 "How much does surrogacy cost in Russia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T16:09:14+00:00",
 "meta_description": "Explore surrogacy cost in Russia, including historical package prices, IVF expenses, medical fees and current legal restrictions for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5198,7 +5295,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T16:14:14+00:00",
 "meta_description": "Understand surrogacy cost in UK, including surrogate expenses, IVF treatment, donor fees, legal costs, medical care and other expenses.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5226,7 +5323,7 @@
 "What does Ukraine surrogacy law say?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T16:16:13+00:00",
 "meta_description": "Explore surrogacy cost in Ukraine, including historical package prices, IVF expenses, surrogate care, legal fees and current eligibility considerations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5254,7 +5351,7 @@
 "Surrogacy costs in the USA: What you should know?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-10T16:19:11+00:00",
 "meta_description": "Explore surrogacy cost in USA, including surrogate compensation, IVF treatment, agency fees, insurance, legal expenses and other costs.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5272,7 +5369,7 @@
 },
 "https://becomeparents.com/surrogacy-for-gay-couples-your-complete-guide-to-building-a-family-through-surrogacy/": {
 "canonical": "https://becomeparents.com/surrogacy-for-gay-couples-your-complete-guide-to-building-a-family-through-surrogacy/",
-"fingerprint": "bacb093c4ac79a83",
+"fingerprint": "0c9114eea8fb11cd",
 "h1": [
 "Surrogacy for Gay Couples: Your Complete Guide to Building a Family Through Surrogacy"
 ],
@@ -5291,7 +5388,7 @@
 "Start Your Surrogacy Journey Today"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-06T07:40:35+00:00",
 "meta_description": "Ready to start your parenting journey? Explore complete guide for Surrogacy for Gay Couples, covering legal rules, surrogate matching, and total cost breakdown.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5305,11 +5402,11 @@
 ],
 "status": 200,
 "title": "Surrogacy for Gay Couples: Complete Guide to Building Family",
-"words": 2316
+"words": 2318
 },
 "https://becomeparents.com/surrogacy-for-singles-in-kenya/": {
 "canonical": "https://becomeparents.com/surrogacy-for-singles-in-kenya/",
-"fingerprint": "0cb11ad2ae3c3e24",
+"fingerprint": "70143c799827a193",
 "h1": [
 "Here\u2019s What You Need To Know About Single Parent Surrogacy in Kenya"
 ],
@@ -5320,7 +5417,7 @@
 "How much does surrogacy cost in Kenya?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2023-06-20T10:15:45+00:00",
 "meta_description": "Surrogacy for Singles in Kenya can be easily achieved in Kenya because there is the huge agency which provides you better facilities and high success rate.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5334,11 +5431,11 @@
 ],
 "status": 200,
 "title": "Best Surrogacy for singles in Kenya, Surrogate mother cost, laws in Kenya",
-"words": 2326
+"words": 2328
 },
 "https://becomeparents.com/surrogacy-in-argentina/": {
 "canonical": "https://becomeparents.com/surrogacy-in-argentina/",
-"fingerprint": "846c73ee58e88b5b",
+"fingerprint": "3789511b15230e00",
 "h1": [
 "Surrogacy in Argentina"
 ],
@@ -5360,7 +5457,7 @@
 "FAQs"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-07-31T12:00:20+00:00",
 "meta_description": "Get surrogacy in Argentina, including costs from USD 69,000, legal considerations, donor programs, IVF treatment, and guaranteed surrogacy options.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5374,7 +5471,7 @@
 ],
 "status": 200,
 "title": "Surrogacy in Argentina | Cost of Surrogacy in Argentina 2026",
-"words": 3810
+"words": 3812
 },
 "https://becomeparents.com/surrogacy-in-australia/": {
 "canonical": "https://becomeparents.com/surrogacy-in-australia/",
@@ -5388,7 +5485,7 @@
 "The search process for the best surrogacy clinic in Australia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-11T08:19:11+00:00",
 "meta_description": "Explore surrogacy in Australia, including altruistic surrogacy laws, eligibility, the process, surrogate expenses and legal parentage requirements.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5416,7 +5513,7 @@
 "Surrogacy laws in Cambodia"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2026-11-11T08:23:11+00:00",
 "meta_description": "Know about surrogacy in Cambodia, including its legal status, restrictions, risks for intended parents and surrogates, and important legal considerations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5444,7 +5541,7 @@
 "Surrogacy cost in Canada"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2026-11-11T08:41:26+00:00",
 "meta_description": "Explore surrogacy in Canada, including altruistic surrogacy laws, eligibility, the process, permitted expense reimbursements and legal parentage.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5472,7 +5569,7 @@
 "Surrogacy Cost in China: What Are the Options?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-11T08:46:21+00:00",
 "meta_description": "Know about surrogacy in China, including legal restrictions, regulations, risks, parentage issues and important considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5500,7 +5597,7 @@
 "Is surrogacy legal in Colombia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-11T08:55:13+00:00",
 "meta_description": "Explore surrogacy in Colombia, including the legal framework, eligibility, process, intended parents\u2019 rights and important legal considerations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5528,7 +5625,7 @@
 "Why Become Parents is your best choice for Surrogacy in Dubai"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-11T09:06:48+00:00",
 "meta_description": "Explore surrogacy in Dubai, including UAE regulations, eligibility requirements, the legal framework, treatment process and important considerations for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5557,7 +5654,7 @@
 "Surrogacy in Russia"
 ],
 "img_missing_alt": 8,
-"lastmod": "",
+"lastmod": "2026-11-13T15:30:16+00:00",
 "meta_description": "Understand surrogacy in France, laws, including legal restrictions, overseas surrogacy arrangements, parental rights and recognition of parentage.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5592,7 +5689,7 @@
 "Benefits and Drawbacks of Surrogacy in Georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-10-22T11:35:45+00:00",
 "meta_description": "Explore surrogacy in Georgia, Estimated Cost of Surrogacy in Georgia, IVF treatment and surrogacy programs for married couples and international parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5619,7 +5716,7 @@
 "Surrogacy Arrangements in Germany"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-13T15:40:19+00:00",
 "meta_description": "Know about surrogacy in Germany, laws, legal restrictions, international surrogacy options, parental rights and the recognition of parentage.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5658,7 +5755,7 @@
 "Frequently Asked Questions About Surrogacy in India"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-10-15T14:08:26+00:00",
 "meta_description": "Know about surrogacy in India, including eligibility, legal requirements, IVF treatment, the surrogacy process, costs and how to choose a registered clinic.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5686,7 +5783,7 @@
 "Is Surrogacy Legal in Ireland?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-13T15:44:52+00:00",
 "meta_description": "Know about surrogacy in Ireland, including legal regulations, parental rights, eligibility, international surrogacy options and parentage recognition.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5728,7 +5825,7 @@
 "Start Your Surrogacy Journey in Kenya"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-09-10T07:18:40+00:00",
 "meta_description": "Surrogacy in Kenya - Need to know step by step surrogacy process in Kenya 2026? We are here to help you on all aspects of your journey to bringing your baby home.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5755,7 +5852,7 @@
 "Surrogacy in Russia"
 ],
 "img_missing_alt": 8,
-"lastmod": "",
+"lastmod": "2026-11-13T15:49:20+00:00",
 "meta_description": "Explore surrogacy in Russia, laws, including eligibility requirements, restrictions on foreign nationals, legal procedures and parental rights.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5773,7 +5870,7 @@
 },
 "https://becomeparents.com/surrogacy-in-spain-for-single-parents/": {
 "canonical": "https://becomeparents.com/surrogacy-in-spain-for-single-parents/",
-"fingerprint": "378fed433b13ceb0",
+"fingerprint": "5fc4c8351721b464",
 "h1": [
 "Surrogacy in Spain for Single Parents: Legal Framework and Options Abroad"
 ],
@@ -5785,8 +5882,8 @@
 "Best International Destinations for Single Parents Seeking Surrogacy",
 "Conclusion"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2025-02-17T17:49:03+00:00",
 "meta_description": "Surrogacy in Spain for single parents is restricted. Learn about the legal limitations for solo surrogacy and explore the best international destinations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5800,7 +5897,7 @@
 ],
 "status": 200,
 "title": "Surrogacy in Spain for Single Parents \u2013 Global Alternatives",
-"words": 2166
+"words": 2168
 },
 "https://becomeparents.com/surrogacy-in-spain/": {
 "canonical": "https://becomeparents.com/surrogacy-in-spain/",
@@ -5814,7 +5911,7 @@
 "How we can help you in the whole process?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-16T13:57:40+00:00",
 "meta_description": "Discover whether surrogacy is permitted in Spain, surrogacy in Spain, understand legal restrictions, overseas arrangements, parental rights and birth registration requirements.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5832,7 +5929,7 @@
 },
 "https://becomeparents.com/surrogacy-in-thailand-for-foreigners/": {
 "canonical": "https://becomeparents.com/surrogacy-in-thailand-for-foreigners/",
-"fingerprint": "fd015bd927529fd5",
+"fingerprint": "72a991e5ec44cdd6",
 "h1": [
 "Surrogacy in Thailand for foreigners: Events that led to the Surrogacy ban for international citizens!"
 ],
@@ -5842,7 +5939,7 @@
 "How has Gestational surrogacy thrived in Thailand in the past?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2025-03-12T05:59:30+00:00",
 "meta_description": "Know about Surrogacy in Thailand for foreigners. Surrogacy in Thailand is allowed only for Thai couples or foreigners who have a Thai partner.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5856,7 +5953,7 @@
 ],
 "status": 200,
 "title": "Best guide to Surrogacy in Thailand for foreigners: What You Need to Know",
-"words": 2414
+"words": 2416
 },
 "https://becomeparents.com/surrogacy-in-thailand-legal-aspects/": {
 "canonical": "https://becomeparents.com/surrogacy-in-thailand-legal-aspects/",
@@ -5871,7 +5968,7 @@
 "How to go about the search for a surrogate mother in Thailand?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-01-20T09:08:34+00:00",
 "meta_description": "There are many myths and misconceptions dong around on the internet regarding surrogacy in Thailand. While most of those are mere rumors, the intended parents",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5898,7 +5995,7 @@
 "An overview of surrogacy in Thailand"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-16T14:03:27+00:00",
 "meta_description": "Discover Thailand's surrogacy laws, surrogacy in Thailand eligibility requirements, restrictions on foreign couples and proposed changes to the regulations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5916,7 +6013,7 @@
 },
 "https://becomeparents.com/surrogacy-in-the-united-states/": {
 "canonical": "https://becomeparents.com/surrogacy-in-the-united-states/",
-"fingerprint": "d120af429a44b8b4",
+"fingerprint": "657e45bd2013850b",
 "h1": [
 "Surrogacy in the United States: A Premium Path to Parenthood"
 ],
@@ -5927,7 +6024,7 @@
 "Why Partner with an Experienced Agency?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2025-01-21T08:04:00+00:00",
 "meta_description": "Discover why Surrogacy in the United States is a preferred destination. Learn about legal frameworks, high success rates, and ethical standards for intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5941,11 +6038,11 @@
 ],
 "status": 200,
 "title": "Surrogacy in the United States: Navigating the Premium Route to Parenthood",
-"words": 2081
+"words": 2083
 },
 "https://becomeparents.com/surrogacy-in-the-usa-a-top-choice/": {
 "canonical": "https://becomeparents.com/surrogacy-in-the-usa-a-top-choice/",
-"fingerprint": "bb539bd0cae7dd35",
+"fingerprint": "39ecee59587b3f43",
 "h1": [
 "Surrogacy in the USA: Why It\u2019s a Top Destination for Intended Parents"
 ],
@@ -5957,8 +6054,8 @@
 "Cost of Surrogacy in the USA",
 "Conclusion"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2025-02-17T17:55:19+00:00",
 "meta_description": "Discover why surrogacy in the USA is a top destination. Learn about legal advantages, medical expertise, and the surrogacy process that makes it a preferred option..",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -5972,7 +6069,7 @@
 ],
 "status": 200,
 "title": "Surrogacy in the USA \u2013 Why It\u2019s the Best Choice for Intended Parents",
-"words": 2326
+"words": 2328
 },
 "https://becomeparents.com/surrogacy-in-the-usa/": {
 "canonical": "https://becomeparents.com/surrogacy-in-the-usa/",
@@ -5987,7 +6084,7 @@
 "Frequently asked questions regarding Surrogacy in the USA"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-01-20T09:18:11+00:00",
 "meta_description": "Know all about surrogacy in the USA. How to get started, Legal obligations and FAQs regarding surrogacy laws, cost and surrogacy agencies in USA.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6015,7 +6112,7 @@
 "Surrogacy Cost in the UK (United Kingdom)"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2026-11-16T14:11:35+00:00",
 "meta_description": "Explore surrogacy in UK, including altruistic arrangements, eligibility, reasonable expenses, parental orders and legal rights of intended parents.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6071,7 +6168,7 @@
 "Key highlights of the Surrogacy Process in Ukraine"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-16T14:29:33+00:00",
 "meta_description": "Explore surrogacy in Ukraine, including legal requirements, eligibility for foreign couples, treatment costs, parental rights and recent legal developments.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6099,7 +6196,7 @@
 "Laws and regulations in regard to surrogacy"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-16T14:45:54+00:00",
 "meta_description": "Explore surrogacy in USA, including state-wise laws, treatment costs, eligibility, surrogate compensation, legal procedures and parental rights.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6129,7 +6226,7 @@
 "Why Choose Become Parents?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-11-16T14:50:41+00:00",
 "meta_description": "Understand surrogacy laws in Argentina, including the legal framework, court decisions, intended parents' rights, birth registration and parentage requirements.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6147,7 +6244,7 @@
 },
 "https://becomeparents.com/surrogacy-laws-in-asia/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-asia/",
-"fingerprint": "c450d966c5c1401b",
+"fingerprint": "6c8b7685edb05497",
 "h1": [
 "Surrogacy laws in Asia: Which country is most favourable for your surrogacy aspirations?"
 ],
@@ -6157,7 +6254,7 @@
 "Surrogacy laws in Asia"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2025-03-12T05:57:34+00:00",
 "meta_description": "Know about the Surrogacy laws in Asia. Surrogacy tourism in Asian countries has surged in recent decades due to affordable prices and favourable regulations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6171,11 +6268,11 @@
 ],
 "status": 200,
 "title": "What is the cost, Surrogacy laws in Asia? A comparative analysis",
-"words": 2330
+"words": 2332
 },
 "https://becomeparents.com/surrogacy-laws-in-australia/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-australia/",
-"fingerprint": "cc4a0c6c242e1b6e",
+"fingerprint": "41898324e58f151a",
 "h1": [
 "Surrogacy laws in Australia"
 ],
@@ -6183,7 +6280,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-24T06:36:51+00:00",
 "meta_description": "Surrogacy is legal across most of Australia,only altruistic surrogacy is allowed. According to surrogacy laws in Australia, each state and territory is responsible for their own surrogacy legislation.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6197,7 +6294,7 @@
 ],
 "status": 200,
 "title": "Best guide for surrogacy laws in Australia, International surrogacy arrangements",
-"words": 3709
+"words": 3711
 },
 "https://becomeparents.com/surrogacy-laws-in-bangkok/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-bangkok/",
@@ -6212,7 +6309,7 @@
 "What future holds for Surrogacy in Bangkok?"
 ],
 "img_missing_alt": 6,
-"lastmod": "",
+"lastmod": "2026-11-17T07:11:12+00:00",
 "meta_description": "Is surrogacy legal in Thailand? Know about Surrogacy laws in Bangkok. Right now it is illegal for international intended parents. Contact our surrogacy agency in Bangkok.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6230,7 +6327,7 @@
 },
 "https://becomeparents.com/surrogacy-laws-in-canada/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-canada/",
-"fingerprint": "4e2d0444588fef77",
+"fingerprint": "c58ff795bf55882e",
 "h1": [
 "Surrogacy laws in Canada"
 ],
@@ -6240,7 +6337,7 @@
 "Having a detailed insight into surrogacy laws in Canada"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2023-10-12T12:25:06+00:00",
 "meta_description": "Is surrogacy legal in Canada? Yes, According to surrogacy laws in Canada, it is legal. however, it is illegal to pay a fee to a surrogate mother. Know international surrogacy laws.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6254,11 +6351,11 @@
 ],
 "status": 200,
 "title": "Surrogacy laws in Canada, Best guide for international surrogacy laws",
-"words": 2004
+"words": 2006
 },
 "https://becomeparents.com/surrogacy-laws-in-colombia/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-colombia/",
-"fingerprint": "261567b87166bcce",
+"fingerprint": "bfc18b16811f74f7",
 "h1": [
 "Surrogacy laws in Colombia"
 ],
@@ -6267,7 +6364,7 @@
 "Surrogacy laws in Colombia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-24T12:34:00+00:00",
 "meta_description": "There is no legislation that approves or prohibits surrogacy. However, regardless of the surrogacy laws in Colombia, the surrogate is always the legal mother.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6281,11 +6378,11 @@
 ],
 "status": 200,
 "title": "Best guide to Surrogacy Laws in Colombia, Laws and regulations in Colombia",
-"words": 1865
+"words": 1867
 },
 "https://becomeparents.com/surrogacy-laws-in-georgia/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-georgia/",
-"fingerprint": "82c449b86e1e0fdd",
+"fingerprint": "c478790438576a11",
 "h1": [
 "Surrogacy Laws in Georgia"
 ],
@@ -6295,7 +6392,7 @@
 "Surrogacy Contract Agreement"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-12-04T11:06:41+00:00",
 "meta_description": "Is surrogacy legal in Georgia? Know about Surrogacy laws in Georgia. There is no law that specifically regulates surrogacy. We are a leading surrogacy agency in Georgia.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6309,11 +6406,11 @@
 ],
 "status": 200,
 "title": "Surrogacy laws in Georgia | Best guide for surrogacy laws",
-"words": 2243
+"words": 2245
 },
 "https://becomeparents.com/surrogacy-laws-in-india/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-india/",
-"fingerprint": "51fb6797f294af26",
+"fingerprint": "32a514a9fb5e8909",
 "h1": [
 "Surrogacy Laws in India"
 ],
@@ -6335,7 +6432,7 @@
 "Frequently Asked Questions About Surrogacy Laws in India"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-01T16:49:56+00:00",
 "meta_description": "Surrogacy laws in India in 2026, including eligibility criteria, legal requirements, surrogate mother rights, altruistic surrogacy and important rules.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6349,11 +6446,11 @@
 ],
 "status": 200,
 "title": "Surrogacy Laws in India - The Complete Guide to Rules & Rights (2026)",
-"words": 4068
+"words": 4070
 },
 "https://becomeparents.com/surrogacy-laws-in-kenya/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-kenya/",
-"fingerprint": "11098708ed23dd20",
+"fingerprint": "7cc8f411302bf0a8",
 "h1": [
 "Surrogacy laws in Kenya"
 ],
@@ -6377,7 +6474,7 @@
 "Frequently Asked Questions about Surrogacy Laws in Kenya"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-09-16T16:49:37+00:00",
 "meta_description": "Know about surrogacy laws in Kenya, current legal rules, surrogacy agreements, parental rights and the proposed Assisted Reproductive Technology Bill.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6391,11 +6488,11 @@
 ],
 "status": 200,
 "title": "Surrogacy Laws in Kenya - Legal Framework & Rights 2026",
-"words": 4369
+"words": 4371
 },
 "https://becomeparents.com/surrogacy-laws-in-russia/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-russia/",
-"fingerprint": "dbe4be96e7123f33",
+"fingerprint": "5ea4f5bb82ad078d",
 "h1": [
 "Surrogacy laws in Russia"
 ],
@@ -6404,7 +6501,7 @@
 "Is surrogacy legal in Russia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T11:49:48+00:00",
 "meta_description": "Is Surrogacy legal in Russia? According to surrogacy laws in Russia, it is legal. Become Parents offers Guaranteed programs for surrogacy in Russia.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6418,11 +6515,11 @@
 ],
 "status": 200,
 "title": "Surrogacy laws in Russia, Best Legal regulation on surrogacy in Russia",
-"words": 2146
+"words": 2148
 },
 "https://becomeparents.com/surrogacy-laws-in-uk/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-uk/",
-"fingerprint": "f329112faa856b26",
+"fingerprint": "b91526acaefd80ad",
 "h1": [
 "Surrogacy laws in UK"
 ],
@@ -6431,7 +6528,7 @@
 "Is surrogacy legal in UK?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-11-06T12:07:34+00:00",
 "meta_description": "Is surrogacy legal in the UK? According to surrogacy laws in UK, it is legal. Become Parents offers Guaranteed surrogacy programs in the UK. Contact today!",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6445,7 +6542,7 @@
 ],
 "status": 200,
 "title": "Is surrogacy legal in the UK? Surrogacy laws in UK- Best guide",
-"words": 2244
+"words": 2246
 },
 "https://becomeparents.com/surrogacy-laws-in-ukraine/": {
 "canonical": "https://becomeparents.com/surrogacy-laws-in-ukraine/",
@@ -6458,7 +6555,7 @@
 "Surrogacy laws in Ukraine"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2023-10-13T11:49:05+00:00",
 "meta_description": "We offer Surrogacy in Ukraine for same-sex, singles, and couples in an affordable cost in accordance to Surrogacy laws in Ukraine. Contact us today!",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6486,7 +6583,7 @@
 "Understanding the variation in surrogacy laws in USA"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2026-07-22T11:45:14+00:00",
 "meta_description": "Surrogacy laws in USA are different from state to state. We offer Surrogacy in the United States for same sex, singles and couples in an affordable cost.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6504,7 +6601,7 @@
 },
 "https://becomeparents.com/surrogacy-options-in-france/": {
 "canonical": "https://becomeparents.com/surrogacy-options-in-france/",
-"fingerprint": "e211ae470c9fa271",
+"fingerprint": "24b18665fd2b9bbd",
 "h1": [
 "Surrogacy in France: why it may not be the right option for you at the moment?"
 ],
@@ -6514,7 +6611,7 @@
 "Is surrogacy legal in France?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-05-19T08:51:11+00:00",
 "meta_description": "Know about Surrogacy options in France. In France, the surrogacy arrangement is strictly prohibited by law, whether it is a traditional or a commercial one.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6528,7 +6625,7 @@
 ],
 "status": 200,
 "title": "Surrogacy options in France | The Current State of Surrogacy in France",
-"words": 2259
+"words": 2261
 },
 "https://becomeparents.com/surrogacy-process/": {
 "canonical": "https://becomeparents.com/surrogacy-process/",
@@ -6541,7 +6638,7 @@
 "Legal Aspects"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-10T15:26:15+00:00",
 "meta_description": "Understand the surrogacy process step by step, from initial consultation and surrogate screening to IVF, embryo transfer, pregnancy care and legal procedures.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6559,7 +6656,7 @@
 },
 "https://becomeparents.com/surrogacy-programs-costs/": {
 "canonical": "https://becomeparents.com/surrogacy-programs-costs/",
-"fingerprint": "02b26528bfc914de",
+"fingerprint": "b58f2b0cd9f42a42",
 "h1": [
 "Surrogacy Programs & Costs"
 ],
@@ -6568,7 +6665,7 @@
 "Surrogacy Programs & Costs"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T10:06:11+00:00",
 "meta_description": "Best surrogacy agency, and clinic at low surrogacy cost in Argentina, Kenya, Bangkok, India, Georgia, USA, China, Australia, Canada, and Spain. Know about our Surrogacy programs & costs.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6582,11 +6679,11 @@
 ],
 "status": 200,
 "title": "Best Surrogacy programs & costs in Argentina, Kenya, Bangkok, Georgia, India in 2022",
-"words": 1915
+"words": 1917
 },
 "https://becomeparents.com/surrogacy-trends-2025/": {
 "canonical": "https://becomeparents.com/surrogacy-trends-2025/",
-"fingerprint": "6f87e067a591257c",
+"fingerprint": "8174b8f2bf2ddadd",
 "h1": [
 "Surrogacy in 2025: Latest Trends, Technologies, and Ethical Shifts"
 ],
@@ -6595,8 +6692,8 @@
 "Surrogacy in 2025: Latest Trends, Technologies, and Ethical Shifts",
 "FAQs: Surrogacy in 2025"
 ],
-"img_missing_alt": 3,
-"lastmod": "",
+"img_missing_alt": 4,
+"lastmod": "2026-07-24T11:35:17+00:00",
 "meta_description": "Discover the most important surrogacy trends 2025- from IVF innovation to ethical surrogacy practices. See how Become Parents leads the way. We can help you.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6610,11 +6707,11 @@
 ],
 "status": 200,
 "title": "Top Surrogacy Trends 2025 | Technology, Ethics & Global Shifts | Become Parents",
-"words": 2101
+"words": 2103
 },
 "https://becomeparents.com/surrogacy-via-egg-donation/": {
 "canonical": "https://becomeparents.com/surrogacy-via-egg-donation/",
-"fingerprint": "1704e96bb45da4db",
+"fingerprint": "b057fa29943a4919",
 "h1": [
 "Surrogacy via Egg Donation: How to proceed and what challenges you may encounter on your way to parenthood?"
 ],
@@ -6624,7 +6721,7 @@
 "Know about Surrogacy via Egg Donation"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-09-18T06:09:32+00:00",
 "meta_description": "Surrogacy via egg donation is often a perfect solution for intended parents who cannot use their eggs for the conception process. Know more about it.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6638,7 +6735,7 @@
 ],
 "status": 200,
 "title": "Best Surrogacy via Egg Donation: How to proceed with this, challenges",
-"words": 2661
+"words": 2663
 },
 "https://becomeparents.com/surrogate-mother-in-argentina/": {
 "canonical": "https://becomeparents.com/surrogate-mother-in-argentina/",
@@ -6652,7 +6749,7 @@
 "Background check for the Surrogate mother in Argentina"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-07-24T07:57:08+00:00",
 "meta_description": "One of the best surrogacy agency offer surrogate mother in Argentina for gay, single parent, for couples at low Surrogate mother cost in Argentina.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6678,7 +6775,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2022-12-28T07:38:59+00:00",
 "meta_description": "Our surrogacy agency helps you to find ideal match for surrogate mother in Australia based on your journey. We offer Guaranteed Surrogacy Programs In Australia.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6696,7 +6793,7 @@
 },
 "https://becomeparents.com/surrogate-mother-in-canada/": {
 "canonical": "https://becomeparents.com/surrogate-mother-in-canada/",
-"fingerprint": "db5583b6d9f24c76",
+"fingerprint": "e6dffef2ff5a0d51",
 "h1": [
 "Surrogate mother in Canada"
 ],
@@ -6706,7 +6803,7 @@
 "Who can become a surrogate mother in Canada?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T11:30:14+00:00",
 "meta_description": "Most experienced and affordable surrogate mother agency in Canada. We help in connecting intended parents with surrogate mother in Canada at low cost.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6720,7 +6817,7 @@
 ],
 "status": 200,
 "title": "Best agency to find Surrogate Mother in Canada, surrogate cost",
-"words": 2168
+"words": 2170
 },
 "https://becomeparents.com/surrogate-mother-in-colombia/": {
 "canonical": "https://becomeparents.com/surrogate-mother-in-colombia/",
@@ -6732,7 +6829,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-11-29T12:05:33+00:00",
 "meta_description": "Our surrogacy agency helps you to find ideal match for surrogate mother in Colombia based on your journey. We offer Guaranteed Surrogacy Programs In Colombia.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6759,7 +6856,7 @@
 "Who can become a surrogate mother in Russia?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T10:27:54+00:00",
 "meta_description": "Our surrogacy agency helps you to find ideal match for surrogate mother in Russia. We offer affordable surrogate cost in Russia with guaranteed Surrogacy programs.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6785,7 +6882,7 @@
 "Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-11-08T05:29:16+00:00",
 "meta_description": "Our surrogacy agency helps you to find ideal match for surrogate mother in UK based on your journey. We offer Guaranteed Surrogacy Programs in the UK.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6803,7 +6900,7 @@
 },
 "https://becomeparents.com/surrogate-mother-in-ukraine/": {
 "canonical": "https://becomeparents.com/surrogate-mother-in-ukraine/",
-"fingerprint": "37502c68c0aaf4ea",
+"fingerprint": "dc9ae33d58f191f5",
 "h1": [
 "Surrogate Mother in Ukraine"
 ],
@@ -6813,7 +6910,7 @@
 "Who can become a surrogate?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T11:47:08+00:00",
 "meta_description": "Most experienced and affordable surrogacy agency in Ukraine. We helping people to connect couples, same sex, gay intended parents with surrogate mother in Ukraine.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6827,11 +6924,11 @@
 ],
 "status": 200,
 "title": "Best agency to find Surrogate Mother in Ukraine, surrogate costs",
-"words": 1846
+"words": 1848
 },
 "https://becomeparents.com/surrogate-mother-the-most-important-person/": {
 "canonical": "https://becomeparents.com/surrogate-mother-the-most-important-person/",
-"fingerprint": "6b32b6958cfac270",
+"fingerprint": "ecd961fad44c794c",
 "h1": [
 "What makes Surrogate mother the most important person in a surrogacy program?"
 ],
@@ -6841,7 +6938,7 @@
 "What makes a Surrogate mother the most important person"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-06-19T11:37:02+00:00",
 "meta_description": "Let us examine why the Surrogate mother the most important person and how her involvement greatly enhances the success rate of surrogacy process.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6855,7 +6952,7 @@
 ],
 "status": 200,
 "title": "What makes Surrogate mother the most important person?",
-"words": 2291
+"words": 2293
 },
 "https://becomeparents.com/surrogate-mothers-in-bangkok/": {
 "canonical": "https://becomeparents.com/surrogate-mothers-in-bangkok/",
@@ -6869,7 +6966,7 @@
 "Finding surrogate mothers in Bangkok"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2026-07-27T11:51:42+00:00",
 "meta_description": "The cost of surrogacy clinics in Bangkok Thailand is around $60,000 which includes IVF, premium egg donor, and the surrogate mothers in Bangkok.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6887,7 +6984,7 @@
 },
 "https://becomeparents.com/surrogate-mothers-in-georgia/": {
 "canonical": "https://becomeparents.com/surrogate-mothers-in-georgia/",
-"fingerprint": "ce27ed5da93fcc1a",
+"fingerprint": "a824b2d06cc3cfa0",
 "h1": [
 "Surrogate Mothers in Georgia"
 ],
@@ -6898,7 +6995,7 @@
 "Surrogate mother cost in Georgia"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-12-04T11:37:15+00:00",
 "meta_description": "One of the best surrogacy agency offer surrogate mothers in Georgia for gay surrogacy, single parent, for couples in Georgia at low cost.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6912,7 +7009,7 @@
 ],
 "status": 200,
 "title": "Surrogate Mothers in Georgia | Best surrogate mother cost in Georgia",
-"words": 2295
+"words": 2297
 },
 "https://becomeparents.com/surrogate-mothers-in-india/": {
 "canonical": "https://becomeparents.com/surrogate-mothers-in-india/",
@@ -6926,7 +7023,7 @@
 "Why do you need to pay Surrogate mothers in India?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-11-01T16:50:13+00:00",
 "meta_description": "One of the best surrogacy agency offers surrogate mothers in India for heterosexual couples, gay surrogacy, and single parents in Mumbai India at a low cost.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6944,7 +7041,7 @@
 },
 "https://becomeparents.com/surrogate-mothers-in-kenya/": {
 "canonical": "https://becomeparents.com/surrogate-mothers-in-kenya/",
-"fingerprint": "1f1f410089b52db6",
+"fingerprint": "fd3aefc0370da4ef",
 "h1": [
 "Surrogate Mothers in Kenya"
 ],
@@ -6953,7 +7050,7 @@
 "Getting started with the surrogate mothers in Kenya selection!"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-24T05:25:24+00:00",
 "meta_description": "One of the best surrogacy agency offers surrogate mothers in Kenya for gay surrogacy, single parent, for couples in Kenya at low cost and with high success rate.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6967,11 +7064,11 @@
 ],
 "status": 200,
 "title": "#1 Best Surrogate Mothers in Kenya | surrogate mother cost in Kenya",
-"words": 2083
+"words": 2085
 },
 "https://becomeparents.com/surrogate-mothers-in-usa/": {
 "canonical": "https://becomeparents.com/surrogate-mothers-in-usa/",
-"fingerprint": "05af7a014b4d35e9",
+"fingerprint": "cdb6ad4b9aee43c9",
 "h1": [
 "Surrogate Mothers in USA"
 ],
@@ -6981,7 +7078,7 @@
 "How surrogacy in USA works?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2023-11-16T08:52:07+00:00",
 "meta_description": "Affordable surrogate mother cost in USA. We helping people to connect couples, same sex, gay intended parents with surrogate mothers in USA. Connect today!",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -6995,11 +7092,11 @@
 ],
 "status": 200,
 "title": "Find best surrogate mothers in USA, Surrogate mother cost in USA",
-"words": 2073
+"words": 2075
 },
 "https://becomeparents.com/surrogates-medical-autonomy/": {
 "canonical": "https://becomeparents.com/surrogates-medical-autonomy/",
-"fingerprint": "1a2d1d3c5de82eb8",
+"fingerprint": "8270b1cd1341f226",
 "h1": [
 "How to Preserve the Gestational surrogate\u2019s right to medical autonomy?"
 ],
@@ -7008,7 +7105,7 @@
 "How to Preserve the Gestational surrogate\u2019s right to medical autonomy?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2023-11-20T07:54:34+00:00",
 "meta_description": "The role and significance of the right to the surrogate's medical autonomy and related aspects, intended parents often get into a bit of scepticism.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -7022,7 +7119,7 @@
 ],
 "status": 200,
 "title": "Surrogate's Medical Autonomy: Best guide to how to preserve the rights",
-"words": 2254
+"words": 2256
 },
 "https://becomeparents.com/tag/accommodation-and-logistics/": {
 "canonical": "",
@@ -10189,9 +10286,69 @@
 "title": "uk surrogacy agency Archives - Become Parents",
 "words": 1360
 },
+"https://becomeparents.com/testimonial/allan-mark-2007/": {
+"canonical": "https://becomeparents.com/testimonial/allan-mark-2007/",
+"fingerprint": "92d1ac8ac4a5566a",
+"h1": [
+"Allan & Mark \u201c2007\u201d"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Allan & Mark \u201c2007\u201d"
+],
+"img_missing_alt": 0,
+"lastmod": "2021-01-13T08:11:00+00:00",
+"meta_description": "Thanks you for your support in helping our dreams come true. We have waited all our lives and with your help, she is here. We feel like a complete Family.",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [],
+"status": 200,
+"title": "Allan & Mark \u201c2007\u201d - Become Parents",
+"words": 1226
+},
+"https://becomeparents.com/testimonial/jim-allie-2008/": {
+"canonical": "https://becomeparents.com/testimonial/jim-allie-2008/",
+"fingerprint": "aa0f40256a7c9b40",
+"h1": [
+"Jim & Allie \u201c2008\u201d"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Jim & Allie \u201c2008\u201d"
+],
+"img_missing_alt": 0,
+"lastmod": "2021-01-13T08:12:08+00:00",
+"meta_description": "I found Become parents a very professional and helpful lot. Their guidance has been invaluable. We are satisfied with their service and would recommend their",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [],
+"status": 200,
+"title": "Jim & Allie \"2008\" - Become Parents",
+"words": 1220
+},
+"https://becomeparents.com/testimonial/robin-yesudas-2011/": {
+"canonical": "https://becomeparents.com/testimonial/robin-yesudas-2011/",
+"fingerprint": "dc34c7889cdbd59b",
+"h1": [
+"Robin Yesudas \u201c2011\u201d"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia",
+"Robin Yesudas \u201c2011\u201d"
+],
+"img_missing_alt": 0,
+"lastmod": "2021-01-13T08:13:41+00:00",
+"meta_description": "We have no hesitation in recommending BP to our friends and relatives..",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [],
+"status": 200,
+"title": "Robin Yesudas \"2011\" - Become Parents",
+"words": 1207
+},
 "https://becomeparents.com/the-future-of-surrogacy/": {
 "canonical": "https://becomeparents.com/the-future-of-surrogacy/",
-"fingerprint": "a5ce99a24c9f2292",
+"fingerprint": "85ef09e4c22308d8",
 "h1": [
 "The Future of Surrogacy: How Technology is Changing the Industry ?"
 ],
@@ -10201,7 +10358,7 @@
 "Analysing the Future of Surrogacy"
 ],
 "img_missing_alt": 6,
-"lastmod": "",
+"lastmod": "2024-09-18T10:38:28+00:00",
 "meta_description": "The Future of Surrogacy. Let's explore some of the major ways technology is changing the surrogacy industry and determining its future.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10215,11 +10372,11 @@
 ],
 "status": 200,
 "title": "The Future of Surrogacy: How Technology is Changing the Industry?",
-"words": 2385
+"words": 2387
 },
 "https://becomeparents.com/the-psychological-impact-of-surrogacy-on-intended-parents/": {
 "canonical": "https://becomeparents.com/the-psychological-impact-of-surrogacy-on-intended-parents/",
-"fingerprint": "08a8c857b7890996",
+"fingerprint": "064f01509374e92b",
 "h1": [
 "The Psychological Impact of Surrogacy on Intended Parents"
 ],
@@ -10228,8 +10385,8 @@
 "The Psychological Impact of Surrogacy on Intended Parents",
 "The psychological impact of surrogacy on intended parents"
 ],
-"img_missing_alt": 3,
-"lastmod": "",
+"img_missing_alt": 4,
+"lastmod": "2024-09-18T10:20:40+00:00",
 "meta_description": "This post explores the psychological impact of surrogacy on intended parents undergoing surrogacy\u2014what feelings they go through, the mental challenges they encounter.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10243,7 +10400,7 @@
 ],
 "status": 200,
 "title": "The Psychological Impact of Surrogacy on Intended Parents",
-"words": 2423
+"words": 2425
 },
 "https://becomeparents.com/the-significance-of-mutual-respect/": {
 "canonical": "https://becomeparents.com/the-significance-of-mutual-respect/",
@@ -10256,8 +10413,8 @@
 "Why having mutual respect for one another is important in Surrogacy Programs?",
 "The significance of mutual respect"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2024-05-15T12:05:09+00:00",
 "meta_description": "Indeed even though numerous individuals undervalue this vital perspective of the significance of mutual respect, this must come as something of prime significance.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10275,7 +10432,7 @@
 },
 "https://becomeparents.com/tips-for-your-mental-health-during-surrogacy/": {
 "canonical": "https://becomeparents.com/tips-for-your-mental-health-during-surrogacy/",
-"fingerprint": "f5d6abc2f74f50c2",
+"fingerprint": "d294881f39d405f8",
 "h1": [
 "Taking care of your emotional health during Surrogacy: Key Tips to manage your emotions"
 ],
@@ -10285,7 +10442,7 @@
 "Caring for Your Mental Health During Surrogacy"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-02-14T12:29:08+00:00",
 "meta_description": "Whether you are a surrogate mother, an intended parent, or a family person, it's crucial to take care of your emotional and mental health during Surrogacy.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10299,11 +10456,11 @@
 ],
 "status": 200,
 "title": "10 Best Tips for Your Mental Health During Surrogacy | Emotional Aspect",
-"words": 2304
+"words": 2306
 },
 "https://becomeparents.com/top-5-reasons-for-the-increasing-popularity-of-surrogacy/": {
 "canonical": "https://becomeparents.com/top-5-reasons-for-the-increasing-popularity-of-surrogacy/",
-"fingerprint": "85d59bcb1a3d4f56",
+"fingerprint": "6ff65fa25c9cfc91",
 "h1": [
 "Top 5 Reasons for the Increasing Popularity of Surrogacy as a Way to Achieve Parenthood"
 ],
@@ -10313,7 +10470,7 @@
 "Key reasons for the rising popularity of surrogacy"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2026-07-24T11:33:46+00:00",
 "meta_description": "Top 5 key reasons help to explain the rising popularity of surrogacy and the same will be discussed in the following post. Contact today for surrogacy!",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10327,11 +10484,11 @@
 ],
 "status": 200,
 "title": "Top 5 reasons for the increasing popularity of Surrogacy- Explained",
-"words": 2336
+"words": 2338
 },
 "https://becomeparents.com/top-us-states-that-permit-surrogacy/": {
 "canonical": "https://becomeparents.com/top-us-states-that-permit-surrogacy/",
-"fingerprint": "f43d4e2bc9795e3f",
+"fingerprint": "f22fa72ac83c2f8a",
 "h1": [
 "Top US States That Permit Surrogacy Treatment and Procedure"
 ],
@@ -10342,7 +10499,7 @@
 "Surrogacy-Friendly States That Permit This Procedure in a Successful Way"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2025-06-16T10:33:05+00:00",
 "meta_description": "Before you step in the process, you should keep in mind that is not permitted by all US states or different states of different regulations.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10356,11 +10513,11 @@
 ],
 "status": 200,
 "title": "Top US States That Permit Surrogacy Treatment and Procedure",
-"words": 1768
+"words": 1770
 },
 "https://becomeparents.com/tracking-your-surrogacy-costs/": {
 "canonical": "https://becomeparents.com/tracking-your-surrogacy-costs/",
-"fingerprint": "39b4c18c9024f558",
+"fingerprint": "cfe8a2646ee38ce6",
 "h1": [
 "Why tracking your surrogacy expenses are of prime importance?"
 ],
@@ -10370,7 +10527,7 @@
 "Tracking your surrogacy costs"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2025-06-16T10:49:34+00:00",
 "meta_description": "Let\u2019s explore why tracking your surrogacy costs is essential and how it can lead to substantial financial savings. It can also help save a significant amount of money.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10384,11 +10541,11 @@
 ],
 "status": 200,
 "title": "Why tracking your surrogacy costs are of prime importance?",
-"words": 2263
+"words": 2265
 },
 "https://becomeparents.com/transformative-approach-to-building-families/": {
 "canonical": "https://becomeparents.com/transformative-approach-to-building-families/",
-"fingerprint": "375430305933f1fe",
+"fingerprint": "47e62d76b74bc8b2",
 "h1": [
 "How has Surrogacy changed people\u2019s perspectives on parenthood?"
 ],
@@ -10398,7 +10555,7 @@
 "Transformative approach to building families"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-03-18T10:40:35+00:00",
 "meta_description": "Surrogacy has changed the way people look towards parenthood in recent times. It brings a transformative approach to building families and parenthood.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10412,11 +10569,11 @@
 ],
 "status": 200,
 "title": "Transformative approach to building families | Surrogacy",
-"words": 2253
+"words": 2255
 },
 "https://becomeparents.com/trap-of-unauthorized-surrogacy-agencies/": {
 "canonical": "https://becomeparents.com/trap-of-unauthorized-surrogacy-agencies/",
-"fingerprint": "abb3eb3bc0d06574",
+"fingerprint": "60837090bd8f2289",
 "h1": [
 "Key tips on how not to fall in the trap of unauthorized surrogacy agencies?"
 ],
@@ -10426,7 +10583,7 @@
 "Recommendations and cautions about unauthorized surrogacy agencies"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-06-19T11:37:10+00:00",
 "meta_description": "Well, if you are seeking surrogacy for the first time, check to be sure you are not working with an unauthorized surrogacy agencies by getting through this comprehensive guide.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10440,11 +10597,11 @@
 ],
 "status": 200,
 "title": "How not to fall in the trap of unauthorized surrogacy agencies?",
-"words": 2294
+"words": 2296
 },
 "https://becomeparents.com/travel-and-accommodation/": {
 "canonical": "https://becomeparents.com/travel-and-accommodation/",
-"fingerprint": "91ca77b806ae6454",
+"fingerprint": "82dc1d986fe945b5",
 "h1": [
 "Travel and Accommodation"
 ],
@@ -10453,7 +10610,7 @@
 "Travel and Accommodation"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2026-07-22T12:01:23+00:00",
 "meta_description": "Learn more about Travel and Accommodation cost for international intended parents and how to prepare for bringing your newborn home overseas.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10467,11 +10624,11 @@
 ],
 "status": 200,
 "title": "Best Travel and Accommodation guide for international intended parents in 2022",
-"words": 1746
+"words": 1748
 },
 "https://becomeparents.com/understanding-your-options-in-2025/": {
 "canonical": "https://becomeparents.com/understanding-your-options-in-2025/",
-"fingerprint": "fe2e05afc7ca4891",
+"fingerprint": "b845605b0f94ffe6",
 "h1": [
 "Is Surrogacy Right for You? A Guide to Understanding Your Options in 2025"
 ],
@@ -10483,8 +10640,8 @@
 "How Become Parents Can Help",
 "Frequently Asked Questions"
 ],
-"img_missing_alt": 1,
-"lastmod": "",
+"img_missing_alt": 2,
+"lastmod": "2026-07-24T11:42:10+00:00",
 "meta_description": "Explore whether surrogacy is the right choice for you and options in 2025. Learn about types, trends, and how Become Parents can guide you through the journey.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10498,11 +10655,11 @@
 ],
 "status": 200,
 "title": "Is Surrogacy Right for You? | Best Surrogacy Guide for Options in 2025",
-"words": 2263
+"words": 2265
 },
 "https://becomeparents.com/vital-role-of-pregnancy-nutrition/": {
 "canonical": "https://becomeparents.com/vital-role-of-pregnancy-nutrition/",
-"fingerprint": "c21902f647ec23fc",
+"fingerprint": "6c49c0908ee142f1",
 "h1": [
 "Understanding the Vital Role of Nutrition in a Successful Surrogacy Journey!"
 ],
@@ -10513,7 +10670,7 @@
 "How to ensure the right nutrition for the surrogate?"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2023-10-17T11:52:33+00:00",
 "meta_description": "In this blog, know how pregnancy nutrition plays a vital part in guaranteeing a smooth and effective surrogacy journey. Child requires the proper supplements for growth and well-being.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10527,11 +10684,11 @@
 ],
 "status": 200,
 "title": "Best guide to understand the vital role of pregnancy nutrition in surrogacy",
-"words": 2576
+"words": 2578
 },
 "https://becomeparents.com/war-impact-on-surrogacy-industry-in-russia/": {
 "canonical": "https://becomeparents.com/war-impact-on-surrogacy-industry-in-russia/",
-"fingerprint": "78e2d594f780f0c8",
+"fingerprint": "f292737333786fd1",
 "h1": [
 "How Political conflict with Ukraine has impacted the Surrogacy Industry in Russia?"
 ],
@@ -10541,7 +10698,7 @@
 "Impact of the War on the Surrogacy Industry in Russia"
 ],
 "img_missing_alt": 2,
-"lastmod": "",
+"lastmod": "2024-02-14T12:28:59+00:00",
 "meta_description": "Zooming in on surrogacy industry in Russia, numerous couples finding their surrogacy aspirations in Russia as of now. Still, you have to make sure about some things.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10555,7 +10712,7 @@
 ],
 "status": 200,
 "title": "Surrogacy Industry in Russia | Impact of the Ukraine-Russia War on the",
-"words": 2254
+"words": 2256
 },
 "https://becomeparents.com/what-is-gestational-surrogacy/": {
 "canonical": "https://becomeparents.com/what-is-gestational-surrogacy/",
@@ -10572,7 +10729,7 @@
 "Conclusion:"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2025-06-13T12:08:55+00:00",
 "meta_description": "Gestational surrogacy is a process in which a woman carries and gives birth to a child for another person or couple. This type of surrogacy is achieved",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10588,9 +10745,35 @@
 "title": "What is Gestational Surrogacy: An In-Depth Guide",
 "words": 2842
 },
+"https://becomeparents.com/why-choose-us/": {
+"canonical": "https://becomeparents.com/why-choose-us/",
+"fingerprint": "8e4daa99c4b246f2",
+"h1": [
+"Why Choose Us"
+],
+"h2": [
+"Surrogacy agency in Kenya, Argentina, Thailand, India and georgia"
+],
+"img_missing_alt": 0,
+"lastmod": "2022-11-09T12:14:14+00:00",
+"meta_description": "We are one of the best Surrogacy agency worldwide with high success rates and low cost. We have best infertility and surrogacy experts at our surrogacy center.",
+"og_image": true,
+"robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+"schema": [
+"Article",
+"ImageObject",
+"Organization",
+"Person",
+"WebPage",
+"WebSite"
+],
+"status": 200,
+"title": "Best surrogacy agency with high success rate and affordable cost in 2022",
+"words": 1814
+},
 "https://becomeparents.com/why-government-control-is-a-must-for-surrogacy/": {
 "canonical": "https://becomeparents.com/why-government-control-is-a-must-for-surrogacy/",
-"fingerprint": "abca757ba3c1bcb8",
+"fingerprint": "9029c2762c53baa3",
 "h1": [
 "Why Government Control is a must for Surrogacy procedure within any Country?"
 ],
@@ -10601,7 +10784,7 @@
 "Dealing with International Surrogacy"
 ],
 "img_missing_alt": 4,
-"lastmod": "",
+"lastmod": "2024-07-22T06:52:53+00:00",
 "meta_description": "In the following sections of this post, we shall discuss why government Control is a must for Surrogacy procedure and the several elements that call for it.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10615,7 +10798,7 @@
 ],
 "status": 200,
 "title": "Why government Control is a must for Surrogacy procedure?",
-"words": 2367
+"words": 2369
 },
 "https://becomeparents.com/why-surrogacy-in-colombia-stands-as-an-ultimate-solution-to-your-parenthood-aspirations/": {
 "canonical": "https://becomeparents.com/why-surrogacy-in-colombia-stands-as-an-ultimate-solution-to-your-parenthood-aspirations/",
@@ -10628,7 +10811,7 @@
 "Why Surrogacy in Colombia stands as an Ultimate Solution to your Parenthood Aspirations"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2022-12-01T05:08:22+00:00",
 "meta_description": "Surrogacy in Colombia comes at a much lower cost than other countries like USA, Canada and UK.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10646,7 +10829,7 @@
 },
 "https://becomeparents.com/why-surrogacy-in-uk-isnt-for-everyone/": {
 "canonical": "https://becomeparents.com/why-surrogacy-in-uk-isnt-for-everyone/",
-"fingerprint": "3e95ea04b94097b1",
+"fingerprint": "14b424286147b8ea",
 "h1": [
 "Why Surrogacy in UK isn\u2019t for Everyone?"
 ],
@@ -10655,7 +10838,7 @@
 "Why Surrogacy in UK isn\u2019t for Everyone?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2022-12-06T12:38:14+00:00",
 "meta_description": "Surrogacy in UK is like that big bag of tricks that needs to be opened and understood before one can proceed in the same direction.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10669,11 +10852,11 @@
 ],
 "status": 200,
 "title": "Why Surrogacy in UK isn\u2019t for Everyone?",
-"words": 1846
+"words": 1848
 },
 "https://becomeparents.com/why-surrogacy-laws-in-uk-are-more-complicated/": {
 "canonical": "https://becomeparents.com/why-surrogacy-laws-in-uk-are-more-complicated/",
-"fingerprint": "ea04ed57634f91ee",
+"fingerprint": "2860331bc7af1f37",
 "h1": [
 "Why Surrogacy laws in UK are more Complicated than Other Country?"
 ],
@@ -10683,7 +10866,7 @@
 "What is the big deal?"
 ],
 "img_missing_alt": 0,
-"lastmod": "",
+"lastmod": "2022-12-08T12:44:11+00:00",
 "meta_description": "The Surrogacy Arrangements Act 1985 (SAA), as amended by the Human Fertilization and Embryology Act 1990, governs surrogacy laws in UK.",
 "og_image": true,
 "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -10697,7 +10880,7 @@
 ],
 "status": 200,
 "title": "Why Surrogacy laws in UK are more Complicated",
-"words": 1961
+"words": 1963
 },
 "https://www.becomeparents.com/contact-us/": {
 "canonical": "https://becomeparents.com/contact-us/",
