@@ -1,10 +1,10 @@
 {
- "lastRunUtc": "2026-11-18T17:18:33Z",
+ "lastRunUtc": "2026-11-19T01:53:47Z",
  "ok": true,
  "pagesScanned": 15,
- "pagesLive": 14,
- "source": "sitemap",
- "changesThisRun": 0,
+ "pagesLive": 15,
+ "source": "links",
+ "changesThisRun": 1,
  "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
@@ -19,81 +19,74 @@
    "id": "booking",
    "label": "Pages with a Book now / booking link",
    "positive": true,
-   "pages": 12,
-   "examples": [
-    "https://www.trevonhotels.com/privacy-policy",
-    "https://www.trevonhotels.com/career",
-    "https://www.trevonhotels.com/refund-and-cancellation-policy",
-    "https://www.trevonhotels.com/about-us",
-    "https://www.trevonhotels.com/management-team"
-   ]
+   "pages": 0,
+   "examples": []
   },
   {
    "id": "oldbrand",
    "label": "Old brand names still shown (Five Elements, Zip by Spree, South Indian Hotel)",
-   "pages": 1,
-   "examples": [
-    "https://www.trevonhotels.com/management-team"
-   ]
+   "pages": 0,
+   "examples": []
   },
   {
    "id": "placeholder",
    "label": "Placeholder text (lorem ipsum, coming soon, sample)",
-   "pages": 2,
-   "examples": [
-    "https://www.trevonhotels.com/about-us",
-    "https://www.trevonhotels.com/ranchi"
-   ]
+   "pages": 0,
+   "examples": []
   },
   {
    "id": "hotelschema",
    "label": "Pages without Hotel / LodgingBusiness schema",
-   "pages": 14,
+   "pages": 15,
    "examples": [
+    "https://trevonhotels.com/",
     "https://www.trevonhotels.com/",
-    "https://www.trevonhotels.com/privacy-policy",
+    "https://www.trevonhotels.com/about-us",
     "https://www.trevonhotels.com/blog",
-    "https://www.trevonhotels.com/career",
-    "https://www.trevonhotels.com/refund-and-cancellation-policy"
+    "https://www.trevonhotels.com/candolim-beach-resorts-goa"
    ]
   },
   {
    "id": "no_title",
    "label": "Pages missing a title",
-   "pages": 0,
-   "examples": [],
+   "pages": 1,
+   "examples": [
+    "https://trevonhotels.com/"
+   ],
    "generic": true
   },
   {
    "id": "no_meta",
    "label": "Pages missing a meta description",
-   "pages": 0,
-   "examples": [],
+   "pages": 1,
+   "examples": [
+    "https://trevonhotels.com/"
+   ],
    "generic": true
   },
   {
    "id": "h1_count",
    "label": "Pages without exactly one H1",
-   "pages": 13,
+   "pages": 14,
    "examples": [
+    "https://trevonhotels.com/",
     "https://www.trevonhotels.com/",
-    "https://www.trevonhotels.com/privacy-policy",
+    "https://www.trevonhotels.com/about-us",
     "https://www.trevonhotels.com/blog",
-    "https://www.trevonhotels.com/refund-and-cancellation-policy",
-    "https://www.trevonhotels.com/about-us"
+    "https://www.trevonhotels.com/candolim-beach-resorts-goa"
    ],
    "generic": true
   },
   {
    "id": "no_schema",
    "label": "Pages without schema (JSON-LD)",
-   "pages": 14,
+   "pages": 15,
    "examples": [
+    "https://trevonhotels.com/",
     "https://www.trevonhotels.com/",
-    "https://www.trevonhotels.com/privacy-policy",
+    "https://www.trevonhotels.com/about-us",
     "https://www.trevonhotels.com/blog",
-    "https://www.trevonhotels.com/career",
-    "https://www.trevonhotels.com/refund-and-cancellation-policy"
+    "https://www.trevonhotels.com/candolim-beach-resorts-goa"
    ],
    "generic": true
   },
@@ -107,8 +100,9 @@
   {
    "id": "thin",
    "label": "Thin pages (under 300 words)",
-   "pages": 3,
+   "pages": 4,
    "examples": [
+    "https://trevonhotels.com/",
     "https://www.trevonhotels.com/",
     "https://www.trevonhotels.com/blog",
     "https://www.trevonhotels.com/career"
@@ -125,10 +119,8 @@
   {
    "id": "broken",
    "label": "Pages returning errors (4xx/5xx)",
-   "pages": 1,
-   "examples": [
-    "https://www.trevonhotels.com/gwalior-overview"
-   ],
+   "pages": 0,
+   "examples": [],
    "generic": true
   }
  ]

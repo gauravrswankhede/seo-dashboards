@@ -1,4 +1,19 @@
 {
+"https://trevonhotels.com/": {
+"canonical": "",
+"fingerprint": "81076b905170f925",
+"h1": [],
+"h2": [],
+"img_missing_alt": 0,
+"lastmod": "",
+"meta_description": "",
+"og_image": false,
+"robots": "",
+"schema": [],
+"status": 200,
+"title": "",
+"words": 143
+},
 "https://www.trevonhotels.com/": {
 "canonical": "/",
 "fingerprint": "5040ef253bd11669",
@@ -159,10 +174,6 @@
 "status": 200,
 "title": "Hotel Near Medanta Hospital Gurgaon | Trevon Hotels",
 "words": 558
-},
-"https://www.trevonhotels.com/gwalior-overview": {
-"lastmod": "2026-03-31",
-"status": 500
 },
 "https://www.trevonhotels.com/haldwani-hotels": {
 "canonical": "/haldwani-hotels",
