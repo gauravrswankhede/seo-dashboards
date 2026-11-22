@@ -1,18 +1,18 @@
 {
- "lastRunUtc": "2026-11-21T21:41:15Z",
+ "lastRunUtc": "2026-11-22T06:59:01Z",
  "ok": true,
- "pagesScanned": 370,
- "pagesLive": 369,
+ "pagesScanned": 354,
+ "pagesLive": 329,
  "source": "sitemap",
- "changesThisRun": 0,
- "networkErrors": 0,
+ "changesThisRun": 40,
+ "networkErrors": 24,
  "intervalHours": 4,
  "checks": [
   {
    "id": "yahoo",
    "label": "Old Yahoo email still shown",
    "task": "BP-02",
-   "pages": 200,
+   "pages": 176,
    "examples": [
     "https://becomeparents.com/blog/",
     "https://becomeparents.com/step-by-step-surrogacy-process-in-thailand-a-complete-guide-for-intended-parents/",
@@ -42,7 +42,7 @@
    "id": "argentina",
    "label": "Argentina mentioned as a destination",
    "task": "BP-04",
-   "pages": 200,
+   "pages": 176,
    "examples": [
     "https://becomeparents.com/blog/",
     "https://becomeparents.com/step-by-step-surrogacy-process-in-thailand-a-complete-guide-for-intended-parents/",
@@ -55,7 +55,7 @@
    "id": "archive",
    "label": "Links pointing to web.archive.org",
    "task": "BP-05",
-   "pages": 200,
+   "pages": 176,
    "examples": [
     "https://becomeparents.com/blog/",
     "https://becomeparents.com/step-by-step-surrogacy-process-in-thailand-a-complete-guide-for-intended-parents/",
@@ -77,7 +77,7 @@
    "id": "pageid",
    "label": "Links to ?page_id= URLs",
    "task": "BP-11",
-   "pages": 200,
+   "pages": 176,
    "examples": [
     "https://becomeparents.com/blog/",
     "https://becomeparents.com/step-by-step-surrogacy-process-in-thailand-a-complete-guide-for-intended-parents/",
@@ -96,22 +96,21 @@
   {
    "id": "no_meta",
    "label": "Pages missing a meta description",
-   "pages": 153,
+   "pages": 139,
    "examples": [
     "https://becomeparents.com/author/admin/",
     "https://becomeparents.com/author/admin/page/1/",
-    "https://becomeparents.com/author/admin/page/2/",
     "https://becomeparents.com/author/admin/page/3/",
-    "https://becomeparents.com/author/admin/page/4/"
+    "https://becomeparents.com/author/admin/page/4/",
+    "https://becomeparents.com/author/admin/page/5/"
    ],
    "generic": true
   },
   {
    "id": "h1_count",
    "label": "Pages without exactly one H1",
-   "pages": 2,
+   "pages": 1,
    "examples": [
-    "https://becomeparents.com/blastocyst/",
     "https://becomeparents.com/about-our-surrogate-mother/"
    ],
    "generic": true
@@ -119,9 +118,8 @@
   {
    "id": "no_schema",
    "label": "Pages without schema (JSON-LD)",
-   "pages": 3,
+   "pages": 2,
    "examples": [
-    "https://becomeparents.com/testimonial/robin-yesudas-2011/",
     "https://becomeparents.com/testimonial/jim-allie-2008/",
     "https://becomeparents.com/testimonial/allan-mark-2007/"
    ],
@@ -130,13 +128,13 @@
   {
    "id": "noindex",
    "label": "Pages set to noindex",
-   "pages": 127,
+   "pages": 116,
    "examples": [
     "https://becomeparents.com/author/admin/",
     "https://becomeparents.com/author/admin/page/1/",
-    "https://becomeparents.com/author/admin/page/2/",
     "https://becomeparents.com/author/admin/page/3/",
-    "https://becomeparents.com/author/admin/page/4/"
+    "https://becomeparents.com/author/admin/page/4/",
+    "https://becomeparents.com/author/admin/page/5/"
    ],
    "generic": true
   },
@@ -150,7 +148,7 @@
   {
    "id": "alt",
    "label": "Pages with images missing alt text",
-   "pages": 187,
+   "pages": 173,
    "examples": [
     "https://becomeparents.com/blog/",
     "https://becomeparents.com/breaking-myths-about-international-surrogacy/",
