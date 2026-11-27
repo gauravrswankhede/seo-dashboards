@@ -1,10 +1,10 @@
 {
- "lastRunUtc": "2026-11-27T00:38:31Z",
+ "lastRunUtc": "2026-11-27T13:57:00Z",
  "ok": true,
- "pagesScanned": 354,
- "pagesLive": 353,
+ "pagesScanned": 355,
+ "pagesLive": 354,
  "source": "sitemap",
- "changesThisRun": 0,
+ "changesThisRun": 245,
  "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
@@ -150,7 +150,7 @@
   {
    "id": "alt",
    "label": "Pages with images missing alt text",
-   "pages": 179,
+   "pages": 183,
    "examples": [
     "https://becomeparents.com/blog/",
     "https://becomeparents.com/breaking-myths-about-international-surrogacy/",
