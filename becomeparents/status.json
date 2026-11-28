@@ -1,10 +1,10 @@
 {
- "lastRunUtc": "2026-11-27T13:57:00Z",
+ "lastRunUtc": "2026-11-28T00:05:26Z",
  "ok": true,
- "pagesScanned": 355,
- "pagesLive": 354,
+ "pagesScanned": 351,
+ "pagesLive": 350,
  "source": "sitemap",
- "changesThisRun": 245,
+ "changesThisRun": 4,
  "networkErrors": 0,
  "intervalHours": 4,
  "checks": [
@@ -96,7 +96,7 @@
   {
    "id": "no_meta",
    "label": "Pages missing a meta description",
-   "pages": 139,
+   "pages": 135,
    "examples": [
     "https://becomeparents.com/author/admin/",
     "https://becomeparents.com/author/admin/page/1/",
@@ -130,7 +130,7 @@
   {
    "id": "noindex",
    "label": "Pages set to noindex",
-   "pages": 116,
+   "pages": 112,
    "examples": [
     "https://becomeparents.com/author/admin/",
     "https://becomeparents.com/author/admin/page/1/",
@@ -150,7 +150,7 @@
   {
    "id": "alt",
    "label": "Pages with images missing alt text",
-   "pages": 183,
+   "pages": 180,
    "examples": [
     "https://becomeparents.com/blog/",
     "https://becomeparents.com/breaking-myths-about-international-surrogacy/",
